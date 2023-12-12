@@ -185,7 +185,7 @@
                         {% if user.is_authenticated %}
                             <li><a href="{% url 'users:profile' %}" class="text-white">Профиль</a></li>
                             <li><a href="{% url 'users:logout' %}" class="text-white">Выход</a></li>
-
+                            <li><a href="#" class="text-white">Email me</a></li>
                         {% else %}
                             <li><a href="{% url 'users:login' %}" class="text-white">Вход</a></li>
                             <li><a href="{% url 'users:register' %}" class="text-white">Регистрация</a></li>
@@ -211,20 +211,21 @@
 
 <main>
 
-    <section class="py-5 text-center container">
-        <div class="row py-lg-5">
-            <div class="col-lg-6 col-md-8 mx-auto">
+    <section class="py-1 text-center container">
+        <div class="row py-lg-2">
+            <div class="col-lg-8 col-md-8 mx-auto">
                 <h1 class="fw-light">Сервис аналитики навыков Python-разработчика PySkill</h1>
-                <p class="lead text-body-secondary">Главная страница</p>
+
                 <p>
                     {% if user.is_authenticated %}
-                        <a href="{% url 'pyskill:dispatch_create' %}" class="btn btn-primary my-2">Получить аналитику на
-                            почту</a>
-                        <a href="{% url 'pyskill:show_skills' %}" class="btn btn-secondary my-2">Подробнее</a>
+                        <a href="{% url 'pyskill:show_skills' %}" class="btn btn-primary my-2">Вернуться к аналитике</a>
+                        <a href="{% url 'pyskill:index' %}" class="btn btn-secondary my-2">На главную</a>
                     {% endif %}
                 </p>
             </div>
         </div>
     </section>
+
+
     {% block content %}
     {% endblock %}

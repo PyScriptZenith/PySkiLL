@@ -1,0 +1,37 @@
+{% extends "pyskill/base_index_3.html" %}
+{% load static %}
+{% block content %}
+<main>
+    <h1 class="visually-hidden">Features examples</h1>
+
+    <div class="container px-4 py-5" id="featured-3">
+        <div class="row">
+            <form class="col-md-6 mx-auto my-4 my-form" method="post" enctype="multipart/form-data">
+                <div class="card">
+                    <div class="card-header">
+                        Добавление рассылки
+                    </div>
+                    <div class="card-body">
+                        {% csrf_token %}
+                        {{ form.as_p }}
+                        <button type="submit" class="btn btn-success" href="{% url 'pyskill:dispatch_create' %}">
+                            {% if object %}
+                                Сохранить
+                            {% else %}
+                                Получить на почту
+                            {% endif %}
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+</body>
+</html>
+{% endblock %}

@@ -211,20 +211,39 @@
 
 <main>
 
-    <section class="py-5 text-center container">
-        <div class="row py-lg-5">
-            <div class="col-lg-6 col-md-8 mx-auto">
-                <h1 class="fw-light">Сервис аналитики навыков Python-разработчика PySkill</h1>
-                <p class="lead text-body-secondary">Главная страница</p>
-                <p>
-                    {% if user.is_authenticated %}
-                        <a href="{% url 'pyskill:dispatch_create' %}" class="btn btn-primary my-2">Получить аналитику на
-                            почту</a>
-                        <a href="{% url 'pyskill:show_skills' %}" class="btn btn-secondary my-2">Подробнее</a>
-                    {% endif %}
+    <section class="py-1 text-center container">
+        <div class="row py-lg-2">
+            <div class="col-lg-8 col-md-8 mx-auto">
+                {% if user.is_authenticated %}
+                    <h1 class="fw-light">Сервис аналитики навыков Python-разработчика PySkill</h1>
+                    <p class="lead text-body-secondary">Главная страница</p>
+                {% else %}
+                    <h3 class="fw-light">Для работы с сервисом, пожалуйста, авторизуйтесь или пройдите регистрацию.</h3>
+
+                {% endif %}
+                {% if user.is_authenticated %}
+                    <a href="{% url 'pyskill:dispatch_create' %}" class="btn btn-primary my-2">Получить аналитику на
+                        почту</a>
+                    <a href="{% url 'pyskill:show_skills' %}" class="btn btn-secondary my-2">Подробнее</a>
+                {% endif %}
                 </p>
             </div>
         </div>
     </section>
+    <section class="py-1 text-center container">
+        <div class="row py-lg-1">
+            <div class="col-lg-10 col-md-8 mx-auto">
+                {% if user.is_authenticated %}
+                    <h1 class="fw-light">Логика работы сервиса:</h1>
+                    <h3 class="fw-light">- подключаемся к API hh.ru</h3>
+                    <h3 class="fw-light">- парсим вакансии Python – разработчика</h3>
+                    <h3 class="fw-light">- смотрим требования к кандидату</h3>
+                    <h3 class="fw-light">- выделяем ключевые хард скиллы и делаем по ним аналитику</h3>
+                {% endif %}
+            </div>
+        </div>
+
+    </section>
+
     {% block content %}
     {% endblock %}
