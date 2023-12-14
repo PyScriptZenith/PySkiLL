@@ -8,5 +8,4 @@ from pyskill.models import Dispatch
 
 @admin.register(Dispatch)
 class DispatchAdmin(admin.ModelAdmin):
-    list_display = ('mail_to_send',)
-
+    list_display = ("mail_to_send",)

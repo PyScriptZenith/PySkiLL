@@ -93,11 +93,11 @@ USE_I18N = True
 USE_TZ = True
 
 
-AUTH_USER_MODEL = 'users.User'
+AUTH_USER_MODEL = "users.User"
 
-LOGOUT_REDIRECT_URL = '/'
-LOGIN_REDIRECT_URL = '/'
-LOGIN_URL = '/users/'
+LOGOUT_REDIRECT_URL = "/"
+LOGIN_REDIRECT_URL = "/"
+LOGIN_URL = "/users/"
 
 STATIC_URL = "static/"
 
@@ -111,13 +111,12 @@ MEDIA_ROOT = BASE_DIR / "media"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 
+EMAIL_HOST_USER = os.getenv("EMAIL_HOST_USER")
 
-EMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER')
-
-EMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD')
+EMAIL_HOST_PASSWORD = os.getenv("EMAIL_HOST_PASSWORD")
 
 
-EMAIL_HOST = 'smtp.yandex.ru'
+EMAIL_HOST = "smtp.yandex.ru"
 
 EMAIL_PORT = 465
 

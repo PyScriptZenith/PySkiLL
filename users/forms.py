@@ -13,22 +13,28 @@ class StyleMixin:
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         for field_name, field in self.fields.items():
-            field.widget.attrs['class'] = 'form-control'
+            field.widget.attrs["class"] = "form-control"
+
 
 class UserRegisterForm(StyleMixin, UserCreationForm):
-
     class Meta:
         model = User
-        fields = ('email', 'password1', 'password2')
-
+        fields = ("email", "password1", "password2")
 
 
 class UserForm(StyleMixin, UserChangeForm):
     class Meta:
         model = User
-        fields = ('email', 'password', 'first_name', 'last_name', 'phone', 'country',)
+        fields = (
+            "email",
+            "password",
+            "first_name",
+            "last_name",
+            "phone",
+            "country",
+        )
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.fields['password'].widget = forms.HiddenInput()
+        self.fields["password"].widget = forms.HiddenInput()
