@@ -1,0 +1,1402 @@
+[
+    {
+        "name": "Программист Python Junior (BigData)",
+        "url": "https://hh.ru/vacancy/89529418",
+        "pay": 45000,
+        "requirement": "Высшее образование (можно неоконченное/неполное) технического ВУЗа (с курсов по <highlighttext>Python</highlighttext> не принимаем). Логичный и структурированный подход к решению задач...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/90044556",
+        "pay": 60000,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт работы в ОС Linux. Знание SQL. Умение работать с Git. Умение документировать свой код. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python developer джун+ / миддл- (в офис)",
+        "url": "https://hh.ru/vacancy/89827402",
+        "pay": 100000,
+        "requirement": "Опыт коммерческой разработки от года. Уверенное знание <highlighttext>Python</highlighttext>, популярных фреймворков и принципов ООП. Опыт применения алгоритмов к реальным задачам, оптимизации...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Начинающий системный администратор",
+        "url": "https://hh.ru/vacancy/88993767",
+        "pay": 40000,
+        "requirement": "5 лет на рынке.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Junior Data Scientist (Стажер)",
+        "url": "https://hh.ru/vacancy/89413885",
+        "pay": null,
+        "requirement": "Иметь навыки программирования на <highlighttext>Python</highlighttext>.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/90029139",
+        "pay": 100000,
+        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Junior аналитик данных",
+        "url": "https://hh.ru/vacancy/88565841",
+        "pay": null,
+        "requirement": "Понимание работы баз данных (индекс, составной индекс). Базовое владение <highlighttext>python</highlighttext>. Уверенное владение pandas + numpy. Минимальный опыт работы с git.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Backend developer Python",
+        "url": "https://hh.ru/vacancy/90240683",
+        "pay": 270000,
+        "requirement": "Глубокое понимание <highlighttext>Python</highlighttext>. Знания Django, FastAPI. Проектирование сервисов и API. Владение pytest как средством для написания unit-тестов, написанием фикстур...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист - Data Scientist",
+        "url": "https://hh.ru/vacancy/90254683",
+        "pay": 60000,
+        "requirement": "Математическая подготовка, знание линейной алгебры, теории вероятностей и статистики, классического ML. Отличное знание <highlighttext>Python</highlighttext>, опыт с Jupyter Notebook. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/89783217",
+        "pay": null,
+        "requirement": "Высшее математическое, экономическое или техническое образование. Математическое мышление, понимание логических взаимосвязей элементов. Умение понимать и анализировать цифры, выявлять влияние факторов. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data Engineer (ETL)",
+        "url": "https://hh.ru/vacancy/90016766",
+        "pay": 80000,
+        "requirement": "Минимальный опыт работы в 1С. Навыки программирования на <highlighttext>Python</highlighttext>/SQL. Наличие представления об администрировании облачных сервисов (Опыт в SberCloud...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист Python/Go (в офис)",
+        "url": "https://hh.ru/vacancy/88565352",
+        "pay": null,
+        "requirement": "Работа с большими данными в БД как SQL, так и NoSQL. Программирование асинхронных приложений на <highlighttext>python</highlighttext> и golang. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Computer Vision Engineer (ML)",
+        "url": "https://hh.ru/vacancy/90138590",
+        "pay": null,
+        "requirement": "Опыт работы в сфере машинного обучения не менее года. Знание алгоритмов классического машинного обучения и современных нейросетевых архитектур для задач...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Junior-тестировщик",
+        "url": "https://hh.ru/vacancy/89601969",
+        "pay": 30000,
+        "requirement": "Базовые знания методологии разработки программного обеспечения. Общее представление о Web-технология, понимание для чего и где используется. Любить тестирование. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python-developer",
+        "url": "https://hh.ru/vacancy/89957471",
+        "pay": 150000,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, ООП. Опыт работы с PostgreSQL: построение оптимальных sql-запросов (без использования ORM), умение профилировать запросы. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/89136503",
+        "pay": null,
+        "requirement": "Знаешь один из языков программирования: Java или <highlighttext>Python</highlighttext>. Имеешь опыт наставничества. Тех, кто не боится ответственности. Тех, кто работает на...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Pentester",
+        "url": "https://hh.ru/vacancy/89647300",
+        "pay": null,
+        "requirement": "Навыки программирования на одном из скриптовых языков (<highlighttext>Python</highlighttext>, Ruby, PHP и т.п.). Понимание работы сетей на базе TCP/IP...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/88460969",
+        "pay": 60000,
+        "requirement": "Понимание наших технологий и стека. Опыт работы в коммерческих проектах не менее полугода. Желание развиваться на go.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Технический директор (СТО)",
+        "url": "https://hh.ru/vacancy/88137053",
+        "pay": 400000,
+        "requirement": "...и <highlighttext>Python</highlighttext> не менее 5 лет. Опыт проектирования и разработки масштабируемых, высоконагруженных веб-приложений на базе JS- и <highlighttext>Python</highlighttext>-фреймворков. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Финансовый аналитик",
+        "url": "https://hh.ru/vacancy/89764282",
+        "pay": null,
+        "requirement": "Продвинутый уровень владения MS Excel, приветствуется знание SQL, <highlighttext>Python</highlighttext>. Аналитический склад ума, наблюдательность, внимательность, готовность к работе, требующей длительной концентрации...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных Финансово-экономического департамента",
+        "url": "https://hh.ru/vacancy/89892648",
+        "pay": null,
+        "requirement": "Уверенное владение Excel (в том числе Power Query). Знание основ SQL, <highlighttext>Python</highlighttext> (Pandas, Matplotlib, Numpy). Готовность выполнить небольшое тестовое задание.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных (Process mining)",
+        "url": "https://hh.ru/vacancy/90156051",
+        "pay": null,
+        "requirement": "Опыт работы с данными (написание SQL-запросов, работа в <highlighttext>Python</highlighttext>-библиотеке pandas, уверенные знания Excel). Понимание основ математической статистики. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/89775148",
+        "pay": 110000,
+        "requirement": "базовое понимание таких языков программирования как <highlighttext>python</highlighttext>, bash, batch. — приветствуется знание любых классических языков программирования и знание git. — ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист C#",
+        "url": "https://hh.ru/vacancy/89814307",
+        "pay": 150000,
+        "requirement": "Иногда нам приходится обращаться к <highlighttext>Python</highlighttext>, поэтому знание его основ не будет лишним. Умение работать с базами данных и сетевыми...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист по планированию и моделированию нагрузки",
+        "url": "https://hh.ru/vacancy/89592993",
+        "pay": null,
+        "requirement": "Готовы к большому количеству коммуникаций с разными профилями пользователей. Знакомы с языком программирования <highlighttext>Python</highlighttext> на начальном уровне (можете читать код...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист-тестировщик (отдел автотестирования)",
+        "url": "https://hh.ru/vacancy/78050090",
+        "pay": 46000,
+        "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89235416",
+        "pay": null,
+        "requirement": "Знание SQL на уровне middle, практический опыт анализа данных. Знание и практическое применение <highlighttext>python</highlighttext> будет преимуществом. Знание Excel, умение работать...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки хостинга и VPS (Удалённо)",
+        "url": "https://hh.ru/vacancy/89957810",
+        "pay": 45000,
+        "requirement": "Чтение и понимание скриптов, написанных на Bash, <highlighttext>Python</highlighttext>. Навык администрирования, установки и настройки VPS (CentOS, Ubuntu, Debian и т.д.). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89860839",
+        "pay": 100000,
+        "requirement": "Power BI, Microsoft Excel. Знание SQL, <highlighttext>Python</highlighttext>. Опыт работы в аналитике, консалтинге, либо аудите.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data engineer",
+        "url": "https://hh.ru/vacancy/90139487",
+        "pay": null,
+        "requirement": "Умение аргументированно обосновывать свое мнение и решения. Будет плюсом: Знания <highlighttext>Python</highlighttext>. Опыт работы с хранилищами данных. Понимание банковских продуктов и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Руководитель направления разработки",
+        "url": "https://hh.ru/vacancy/90014397",
+        "pay": 355000,
+        "requirement": "Первое время, вы будете плотно погружаться в код, но затем на этой должности у Вас не будет времени, чтобы писать...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data analyst/Аналитик данных",
+        "url": "https://hh.ru/vacancy/87616191",
+        "pay": null,
+        "requirement": "Знания математики, статистики, теории игр. Знания sql, clickhouse. Знания <highlighttext>python</highlighttext>, pandas, catboost, tensorflow/pythorch/lightautoml (для моделирования).",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/89732609",
+        "pay": null,
+        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 3 лет. - Знание ООП, следование принципам SOLID. - Знание фреймворков Django, Flask, FastAPI (одного или нескольких). - ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Младший Аналитик (удаленно)",
+        "url": "https://hh.ru/vacancy/89731318",
+        "pay": 40000,
+        "requirement": "Опыт в проведении маркетинговых исследований и анализа конкурентов. Знание инструментов для парсинга данных и создания сводных таблиц.( <highlighttext>Python</highlighttext>, SQL). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/85489891",
+        "pay": null,
+        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Devops/Инженер по сопровождению ПО",
+        "url": "https://hh.ru/vacancy/89985250",
+        "pay": null,
+        "requirement": "Высшее образование (техническое по IT-направлению). Базовые знания (основы) о системах управления базами данных. Знание основ программного решения ansible. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Дата-инженер в платформу данных",
+        "url": "https://hh.ru/vacancy/90234671",
+        "pay": null,
+        "requirement": "У вас есть опыт работы инженером или разработчиком от 3 лет. Знаете один из языков: <highlighttext>Python</highlighttext> или Java. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/89109374",
+        "pay": 60000,
+        "requirement": "Навык работы в Power BI, MS Excel, Google Sheets, в перспективе - <highlighttext>Python</highlighttext>. Аналитические способности и высокий уровень самоорганизации. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data scientist",
+        "url": "https://hh.ru/vacancy/89786270",
+        "pay": null,
+        "requirement": "Наличие высшего технического или экономического образования. Хорошее понимание эконометрики / практический опыт анализа данных. Опыт работы в области data science. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Старший системный администратор",
+        "url": "https://hh.ru/vacancy/88691697",
+        "pay": 90000,
+        "requirement": "Ты умеешь администрировать сервера, умеешь работать с техническим журналом, решать проблемы производительности программ. Знаешь <highlighttext>Python</highlighttext> в объеме, позволяющим автоматизировать различные...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data аналитик",
+        "url": "https://hh.ru/vacancy/89189133",
+        "pay": null,
+        "requirement": "Уверенное знание SQL, <highlighttext>Python</highlighttext>. Опыт в области бизнес-анализа и/или построения отчетности. Будет плюсом: Опыт работы c знание BitBucket...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Бизнес-аналитик BI",
+        "url": "https://hh.ru/vacancy/85216340",
+        "pay": null,
+        "requirement": "У вас есть опыт работы аналитиком от 2 лет. Свободно владеете SQL. Умеете собирать требования с бизнеса и переводить их...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик LowCode",
+        "url": "https://hh.ru/vacancy/89873100",
+        "pay": null,
+        "requirement": "Знание одного из современных языков программирования (C#, Java, <highlighttext>Python</highlighttext> и другие). В ходе работы потребуется читать/писать скрипты на Groovy...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Менеджер продукта",
+        "url": "https://hh.ru/vacancy/89896532",
+        "pay": null,
+        "requirement": "Опыт от 1 года в одном из направлений: управление разработкой IT-продукта, product/project manager, продуктовый/системный/бизнес аналитик, тестировщик...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по тестированию (автотестирование)",
+        "url": "https://hh.ru/vacancy/89682651",
+        "pay": 150000,
+        "requirement": "Хорошее владение инструментами автоматизации тестирования. Знание языка программирования (<highlighttext>Python</highlighttext>, Go, Kotlin). Твоим преимуществом будет: Умение формировать поток синтетических входящих данных...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Экономист-аналитик",
+        "url": "https://hh.ru/vacancy/89977543",
+        "pay": null,
+        "requirement": "...С (желательно Power BL, Power Query, Google docs). Стрессоустойчивость. Внимательность. Грамотная речь. Хорошая память. Желание развиваться и изучать <highlighttext>Python</highlighttext>, SQL.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по внедрению и сопровождению программного обеспечения",
+        "url": "https://hh.ru/vacancy/89603233",
+        "pay": 80000,
+        "requirement": "Опыт работы с Active Directory или OpenLdap. Знание <highlighttext>Python</highlighttext> и какого-либо фреймворка (Django, Flask и тд.). Опыт работы в...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Начинающий программист 1С",
+        "url": "https://hh.ru/vacancy/90199933",
+        "pay": null,
+        "requirement": "Преимуществом будет базовый навык программирования на любом из языков (например, c# c++ Java JavaScript Delphi Swift VB.NET <highlighttext>Python</highlighttext> PHP) желательно.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер сопровождения ИТ-систем Сбербанка",
+        "url": "https://hh.ru/vacancy/90199265",
+        "pay": null,
+        "requirement": "Высшее образование (желательно техническое по IT-направлению). Базовые знания (основы) о системах управления базами данных. Знание основ программного решения ansible. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Руководитель отдела ИТ",
+        "url": "https://hh.ru/vacancy/88989652",
+        "pay": null,
+        "requirement": "Высшее профильное образование. PHP, <highlighttext>Python</highlighttext> (+django), html, css, javascript, mySQL. Опыт управления командой разработчиков.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик (IT компания)",
+        "url": "https://hh.ru/vacancy/88450630",
+        "pay": null,
+        "requirement": "Знание БД (в частности PostgreSQL) будет являться преимуществом. Знание <highlighttext>Python</highlighttext> (будет являться преимуществом). Личные качества: самоорганизация, ответственность, желание обучаться новому...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер-программист (С/С++)",
+        "url": "https://hh.ru/vacancy/82214737",
+        "pay": null,
+        "requirement": "Уверенное владение инструментами разработки (ARM, SDK, FPGA). Знание технического английского и умение работать с документацией. Знание скриптовых языков - <highlighttext>Python</highlighttext>/Tcl...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер DevOps",
+        "url": "https://hh.ru/vacancy/90273728",
+        "pay": null,
+        "requirement": "Опыт администрирования Unix-систем (RHEL, настройка, конфигурирования). Опыт разработки скриптов (shell, <highlighttext>python</highlighttext>, Groovy). Опыт работы и администрирование СУБД (желательно Oracle...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89374708",
+        "pay": null,
+        "requirement": "Опыт работы от 1 года в данной сфере. Понимание логистических процессов склада (будет Вашим преимуществом). Владение SQL, <highlighttext>Python</highlighttext> на уровне...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки",
+        "url": "https://hh.ru/vacancy/89619341",
+        "pay": null,
+        "requirement": "Умение работать с XML (xslt, XPath), JSON. Базовое знание <highlighttext>Python</highlighttext>. Грамотная устная и письменная речь, лояльность, сдержанность, стрессоустойчивость, готовность к...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик в отдел маркетинга",
+        "url": "https://hh.ru/vacancy/90153821",
+        "pay": null,
+        "requirement": "Хорошие навыки работы с Excel. Умение работать с большими массивами данных и автоматизации рабочих процессов: на <highlighttext>Python</highlighttext>, SQL.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Build-инженер/программист",
+        "url": "https://hh.ru/vacancy/90082711",
+        "pay": 125000,
+        "requirement": "Опыт работы с CMake, autotools и другими системами сборки. Знание <highlighttext>python</highlighttext> и bash на уровне написания скриптов. Желательно. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Стажер-инженер SRE, Екатеринбург",
+        "url": "https://hh.ru/vacancy/90065276",
+        "pay": null,
+        "requirement": "Если у вас есть навыки программирования на любом языке. Знакомы с Iac, CI/CD, DevOps практиками, облаками. Соблюдаете дедлайны и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558451",
+        "pay": null,
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/80211661",
+        "pay": 50000,
+        "requirement": "Знание и опыт разработки в одной из СУБД: Oracle, Postgres, MS SQL. Знание <highlighttext>Python</highlighttext>, Django. Опыт работы от 1 года.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер данных/Data engineer",
+        "url": "https://hh.ru/vacancy/88243090",
+        "pay": null,
+        "requirement": "<highlighttext>Python</highlighttext> - базовый уровень владения. Допускается опыт программирования на других языках (php, java, c#, go) с желанием писать на <highlighttext>python</highlighttext>. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по выгрузкам данных (ETL)",
+        "url": "https://hh.ru/vacancy/89262448",
+        "pay": 150000,
+        "requirement": "Умение применять <highlighttext>Python</highlighttext> или другой язык программирования для обработки данных, преобразования форматов, выполнения запросов к БД. Отличное знание SQL. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер VoIP",
+        "url": "https://hh.ru/vacancy/90105127",
+        "pay": null,
+        "requirement": "Опыт работы с Linux на уровне администратора. Понимание работы стека TCP/IP и базовые знания по сетевым технологиям. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Эксперт по мониторингу/Администратор Zabbix",
+        "url": "https://hh.ru/vacancy/86284890",
+        "pay": null,
+        "requirement": "Опыт работы с Rest API и SNMP. Опыт работы с Ansible. Написание скриптов автоматизации для мониторинга на <highlighttext>python</highlighttext>, bash. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data analyst по аудиту розничного бизнеса",
+        "url": "https://hh.ru/vacancy/89991119",
+        "pay": null,
+        "requirement": "Понимание архитектуры распределенной базы данных (Spark или Scala, Hive). Навыки формирования запросов к БД (Oracle, MS SQL, Hadoop), знание <highlighttext>Python</highlighttext>...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий дата-инженер",
+        "url": "https://hh.ru/vacancy/89706669",
+        "pay": null,
+        "requirement": "Да-да, Spark пока у нас нет, только Airflow. Знания <highlighttext>Python</highlighttext>, PL/pgSQL и SQL. Сложные запросы, аналитически функции, понимание...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data Analyst / Аналитик данных",
+        "url": "https://hh.ru/vacancy/90107347",
+        "pay": null,
+        "requirement": "д. Знание <highlighttext>Python</highlighttext> для работы с данными (pandas, numpy). Умение визуализировать результаты в <highlighttext>python</highlighttext> среде с помощью библиотек matplotlib, seaborn...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по тестированию",
+        "url": "https://hh.ru/vacancy/89003574",
+        "pay": null,
+        "requirement": "Опыт работы в средах виртуализации. Базовые знания <highlighttext>Python</highlighttext>. Опыт использования Postman. Опыт работы с инструментом TestRail. Опыт проведения тест-анализа. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по сопровождению",
+        "url": "https://hh.ru/vacancy/85252154",
+        "pay": null,
+        "requirement": "Опыт автоматизации работы с помощью Ansible. Опыт разработки на <highlighttext>Python</highlighttext>. Опыт работы с Jenkins, Git. Понимание и опыт работы с...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "QA Engineer",
+        "url": "https://hh.ru/vacancy/89600170",
+        "pay": null,
+        "requirement": "Знаете теорию, принципы, техники тестирования ПО и умеете применять их на практике. Умеете детально разбираться в спецификациях и требованиях проекта. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик риск-стратегий",
+        "url": "https://hh.ru/vacancy/89493134",
+        "pay": null,
+        "requirement": "Опыт работы с Atlassian Jira и Confluence. Умение читать и понимать код на <highlighttext>Python</highlighttext>. Знание предметной области кредитования (скоринг, андеррайтинг...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Go-разработчик в Телеметрию",
+        "url": "https://hh.ru/vacancy/88960499",
+        "pay": null,
+        "requirement": "...с Redis, Redis Cluster, Sentry, Vault, Ansible, Kibana, Clickhouse. CI/CD: был опыт в написании pipelines, понимание устройства. Владение <highlighttext>Python</highlighttext>.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист Python (middle, middle+)",
+        "url": "https://hh.ru/vacancy/86546098",
+        "pay": null,
+        "requirement": "Знание <highlighttext>Python</highlighttext> 2 и 3. Опыт промышленной разработки на <highlighttext>Python</highlighttext> от 3 лет. Опыт быстрого погружения в проект. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Главный эксперт СХД (SberInfra)",
+        "url": "https://hh.ru/vacancy/90279188",
+        "pay": null,
+        "requirement": "Знание и опыт работы с DNS, DHCP, AD. Опыт автоматизации задач (Ansible/<highlighttext>Python</highlighttext>/bash). Знание, опыт работы с СХД, SDS...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Главный аналитик отдела анализа, планирования и отчетности",
+        "url": "https://hh.ru/vacancy/90202722",
+        "pay": null,
+        "requirement": "Опыт работы с промышленными базами данных и составления средней (и выше) сложности SQL-запросов. Будет преимуществом знание SQL, <highlighttext>Python</highlighttext> и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/89719594",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/89875483",
+        "pay": 110000,
+        "requirement": "Знания сетевых технологий на уровне CCNA\\CCNP или аналоги других вендоров (наличие действующего сертификата не требуется). Ansible. <highlighttext>Python</highlighttext> (Netmiko, Napalm...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по сопровождению (Sber FinLine)",
+        "url": "https://hh.ru/vacancy/89711449",
+        "pay": null,
+        "requirement": "Опыт автоматизация процессов / разворачивания систем (ansible, groovy, bash, <highlighttext>python</highlighttext>). Опыт участия в DevOps-практиках (CI, CD) не менее года. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист отдел расследования и аналитики в прикладных системах",
+        "url": "https://hh.ru/vacancy/89960824",
+        "pay": null,
+        "requirement": "Опыт работы от 1 года в сфере информационной безопасности или ИТ. Уверенное владение: SQL (PostgreSQL), <highlighttext>Python</highlighttext> (Pandas, Numpy), MS Excel. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик программного обеспечения и баз данных",
+        "url": "https://hh.ru/vacancy/88076241",
+        "pay": null,
+        "requirement": "Владение стеком технологий : Oracle и/или PostgreSQL / Greenplum. Опыт разработки отчётов и витрин данных. Оптимизация кода. Знание языка SQL на...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер Linux",
+        "url": "https://hh.ru/vacancy/82308565",
+        "pay": null,
+        "requirement": "Опыт разработки скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext> и пр.). Понимание работы основных сетевых протоколов стека TCP/IP. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/89367414",
+        "pay": 50000,
+        "requirement": "Профильное образование. Опыт работы от 1 года. Знание языка <highlighttext>Python</highlighttext>. Знание принципов ООП. Знание алгоритмов. Знание основ работы с Git. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист С++",
+        "url": "https://hh.ru/vacancy/89965496",
+        "pay": 170000,
+        "requirement": "Высшее/неполное высшее образование. Опыт разработки на С++. Уверенное знание STL. Понимание эффективных алгоритмов и структур данных. Опыт разработки под...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/89789625",
+        "pay": null,
+        "requirement": "Владеете английским на уровне В1 и выше. Будет преимуществом: Умение автоматизировать рабочие процессы любыми средствами (<highlighttext>python</highlighttext>, ansible и пр.).",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик SAP ERP (Модуль PM)",
+        "url": "https://hh.ru/vacancy/89950288",
+        "pay": null,
+        "requirement": "Знаете языки программирования (ABAP, C#, <highlighttext>Python</highlighttext> или другие). Владеете навыками работы с офисными приложениями пакета MS Office: Outlook, Word, Excel...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/88552771",
+        "pay": null,
+        "requirement": "Знакомство с одним или несколькими языками программирования (Java, <highlighttext>Python</highlighttext>, C# ...). Понимание MDM Master Data Management. Знание английского на уровне свободной...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "QA инженер (python)",
+        "url": "https://hh.ru/vacancy/89500008",
+        "pay": null,
+        "requirement": "Коммуникабельность, умение работы в команде с аналитиками и разработчиками. Знания и умения работы с Jira/Confluence/<highlighttext>Python</highlighttext>/PyTest/Jenkins/Git...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик отдела продаж",
+        "url": "https://hh.ru/vacancy/89523227",
+        "pay": 60000,
+        "requirement": "Знание методов прогнозирования. Знание ABC- и XYZ-анализа. Знание <highlighttext>Python</highlighttext> приветствуется. Опыт работы в продажах или понимание схемы процесса продажи...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Эксперт СХД",
+        "url": "https://hh.ru/vacancy/85599006",
+        "pay": null,
+        "requirement": "Опыт эксплуатации промышленных систем высокой доступности (24х7х365). Опыт разработки скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик баз данных",
+        "url": "https://hh.ru/vacancy/89960471",
+        "pay": null,
+        "requirement": "Знание <highlighttext>Python</highlighttext>. Опыт миграции на новый стек или готовность к таким изменениям. Уметь задавать вопрос «зачем?» и выявлять проблематику, докапываться...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/86068038",
+        "pay": null,
+        "requirement": "Опыт автоматизации типовых задач (Bash, <highlighttext>python</highlighttext>, perl, ansible playbook). Понимание основ TCP/IP, сетевой инфраструктуры. Опыт настройки, оптимизации производительности, выявления...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "ML инженер (middle, middle+)",
+        "url": "https://hh.ru/vacancy/90050517",
+        "pay": null,
+        "requirement": "Знание и опыт работы с профессиональными видеокартами, такими как NVIDIA Pascal, NVIDIA Volta, NVIDIA Ampere. Знание <highlighttext>Python</highlighttext> (numpy, pandas, tensorflow...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Team Lead Data Science (руководитель направления по исследованию данных)",
+        "url": "https://hh.ru/vacancy/90076925",
+        "pay": null,
+        "requirement": "Умение грамотно структурировать и презентовать информацию. Стек: <highlighttext>Python</highlighttext>, SQL. Опыт работы с библиотеками: Sklearn, Pandas, Statsmodels, Xgboost/Lightgbm/Catboost, RandomForest.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/89365896",
+        "pay": null,
+        "requirement": "Нам важен опыт. Понимание принципов межсервисного взаимодействия и построения распределенных отказоустойчивых систем. Умение собирать образы с применением best practices, работа...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий инженер по информационной безопасности",
+        "url": "https://hh.ru/vacancy/89841851",
+        "pay": null,
+        "requirement": "Опыт администрирования windows / linux. Знание хотя бы одного языка программирования (<highlighttext>python</highlighttext> / golang / bash) для автоматизации, интеграции open source. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "MLops Engineer",
+        "url": "https://hh.ru/vacancy/89216388",
+        "pay": null,
+        "requirement": "Знание жизненного цикла ML проектов. -Опыт работы с поисковыми системами Nutch, Selenium. -Опыт по автоматизации решения типовых задач(<highlighttext>Python</highlighttext>, Bash...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Руководитель группы разработки (Team Lead)",
+        "url": "https://hh.ru/vacancy/85978960",
+        "pay": null,
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма: Java, <highlighttext>Python</highlighttext>, Go ). Опыт построения решений в микросервисной...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик ML Middle +",
+        "url": "https://hh.ru/vacancy/88681342",
+        "pay": null,
+        "requirement": "Опыт коммерческой разработки на Go не менее 3 лет. Знание <highlighttext>Python</highlighttext> или C++ на уровне Middle и выше. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "ГИС-аналитик",
+        "url": "https://hh.ru/vacancy/88886801",
+        "pay": null,
+        "requirement": "Понимание рабочих процессов дистанционного зондирования земли и геопространственного анализа. Знания QGIS, ArcGIS, Earth Engine. <highlighttext>Python</highlighttext>, SQL, PostgreSQL, JavaScript, Big Data...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/90234683",
+        "pay": null,
+        "requirement": "Свободно владеете SQL. Работали с базами данных в качестве аналитика или разработчика минимум 2 года. Понимаете теорию СУБД- и ETL...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик-контролер",
+        "url": "https://hh.ru/vacancy/89438298",
+        "pay": 30000,
+        "requirement": "Умение работать с большим массивом данных. Знание Exсel, умение работать с Google таблицами. Опыт работы с <highlighttext>Python</highlighttext> будет преимуществом. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик Go Middle/Senior",
+        "url": "https://hh.ru/vacancy/87991601",
+        "pay": null,
+        "requirement": "DevOps, Docker. Разработки на других языках программирования, в особенности на C++, <highlighttext>Python</highlighttext>. Профилирования, Мониторинга, логирования и снятия метрик с работающей...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий инженер по сопровождению (2-я линия)",
+        "url": "https://hh.ru/vacancy/88232951",
+        "pay": null,
+        "requirement": "Высшее образование (желательно техническое по IT-направлению). Базовые знания (основы) о системах управления базами данных. Знание основ программного решения ansible. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Администратор Linux серверов и виртуальной инфраструктуры",
+        "url": "https://hh.ru/vacancy/88153567",
+        "pay": 60000,
+        "requirement": "Навыки автоматизации работы с помощью Bash, <highlighttext>Python</highlighttext>. Уверенные знание сетевого стека (TCP/IP), динамической маршрутизации и принципов работы сетевых сервисов...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Педагог дополнительного образования",
+        "url": "https://hh.ru/vacancy/90076979",
+        "pay": 35000,
+        "requirement": "Желание к изучению нового: Для педагога старших детей: языки программирования (<highlighttext>Python</highlighttext>, C++,С), программирование контроллеров, 3D-печать, техническое зрение. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный администратор ЛВС",
+        "url": "https://hh.ru/vacancy/88999959",
+        "pay": 80000,
+        "requirement": "...системного администрирования от 5 лет. Навыки построения СКС, ЛВС. Понимание принципов TCP/IP. Знание скриптовых языков программирования Shell, Perl, <highlighttext>Python</highlighttext>.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/88351603",
+        "pay": null,
+        "requirement": "Желателен опыт работы с TeamCity, Nexus, VmWare, Openstack. Желателен опыт автоматизации с помощью Terraform / Ansible / <highlighttext>Python</highlighttext>. Опыт работы с системами...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Site Reliability Engineer (SRE) / Software Engineer",
+        "url": "https://hh.ru/vacancy/90250924",
+        "pay": null,
+        "requirement": "Есть опыт работы c:",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик на С++ в Лавку",
+        "url": "https://hh.ru/vacancy/89149627",
+        "pay": null,
+        "requirement": "Хорошо знаете и понимаете C++, STL, умеете аккуратно писать код и имеете привычку проверять его. Знакомы с продуктовыми и бизнес...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Linux-разработчик",
+        "url": "https://hh.ru/vacancy/89686967",
+        "pay": null,
+        "requirement": "Понимание общих принципов внутреннего устройства GNU/Linux систем. Понимание общих принципов контейнеризации/виртуализации/изоляции. Знание базовых алгоритмов и структур данных. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Devops specialist",
+        "url": "https://hh.ru/vacancy/89688813",
+        "pay": null,
+        "requirement": "Уверенное владение скриптовыми языками Bash, CMD, Powershell). Уверенное владение <highlighttext>Python</highlighttext>. Опыт работы с Ansible. Уверенное написание плейбуков, ролей, кофигурация шаблонов. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/88325215",
+        "pay": null,
+        "requirement": "Уверенное знание языка программирования <highlighttext>Python</highlighttext>. Уверенные знания баз данных (преимущественно MySQL, основы postgresql). Понимание стека веб технологий (Html, JS, CSS). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист аналитического отдела",
+        "url": "https://hh.ru/vacancy/84886476",
+        "pay": null,
+        "requirement": "Навыки визуализации данных. Навыки обработки больших массивов данных (SQL, Excel, PowerBI, <highlighttext>Python</highlighttext>, Tableau) будет преимуществом. Опыт работы в консалтинговых компаниях...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Middle Python developer",
+        "url": "https://hh.ru/vacancy/89982261",
+        "pay": null,
+        "requirement": "Опыт разработки веб-приложений с использованием фреймворков экосистемы <highlighttext>Python</highlighttext> (asyncio, fastapi, django и др.). Понимание принципов объектно-ориентированного программирования. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер-аналитик (алгоритмист)",
+        "url": "https://hh.ru/vacancy/87435241",
+        "pay": 320000,
+        "requirement": "Понимание ТАУ, теории навигации. Навыки работы с Matlab / Mathcad / Mathematica / <highlighttext>Python</highlighttext> Numpy / Anaconda. Опыт реализации проектов по созданию автономных мобильных...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/87463943",
+        "pay": null,
+        "requirement": "Имеешь опыт использования ClickHouse. Имеешь опыт работы с одним из web фреймворков: Flask/FastAPI/DRF. Разрабатываешь ПО в парадигме ООП. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps engineer (Middle / Senior)",
+        "url": "https://hh.ru/vacancy/88362341",
+        "pay": null,
+        "requirement": "Опыт разворачивания, поддержки и администрирования систем непрерывной интеграции (Jenkins / Gitlab CI). Навыки автоматизации на bash, <highlighttext>Python</highlighttext>. Практический опыт работы с...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89730872",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Главный специалист по нормативно-справочной информации",
+        "url": "https://hh.ru/vacancy/88728602",
+        "pay": null,
+        "requirement": "Опыт работы по направлению НСИ. Понимание архитектуры данных, опыт обработки больших массивов данных любыми способами. Умение анализировать данные, выявлять ошибки...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/88262489",
+        "pay": null,
+        "requirement": "Плюсом будут технические знания в части написания скриптов на bash-скриптов, знание основ языков программирования <highlighttext>Python</highlighttext>, C++ и Go; опыт...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "ML-инженер",
+        "url": "https://hh.ru/vacancy/80890013",
+        "pay": null,
+        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Педагог по направлению «Информационные технологии и программирование», технопарк \"Кванториум\"",
+        "url": "https://hh.ru/vacancy/88695873",
+        "pay": 79000,
+        "requirement": "Владение одним из языков программирования и более: C#, <highlighttext>Python</highlighttext>, Java, PHP. Знание ООП (объектно-ориентированное программирование). Опыт разработки клиентской части...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер-программист сопровождения прикладных платформ и систем",
+        "url": "https://hh.ru/vacancy/89206249",
+        "pay": null,
+        "requirement": "10 и выше, MS SQL Server 2008 и выше; 1С: Предприятие 8. Владение языком программирования <highlighttext>Python</highlighttext>, владение приложениями MS...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "IT-Аудитор",
+        "url": "https://hh.ru/vacancy/89612213",
+        "pay": 150000,
+        "requirement": "Есть опыт работы с SQL и <highlighttext>Python</highlighttext>. Знаешь стандарты IT и ИБ: ГОСТ Р 57580, ISO 27001, NIST, PCI DSS...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "1C разработчик",
+        "url": "https://hh.ru/vacancy/89356899",
+        "pay": null,
+        "requirement": "Разыскиваем нового Безумного Макса с опытом в 1С-разработке от 3 лет. Важны высокая квалификация, отличные знания кода и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "IT рекрутер",
+        "url": "https://hh.ru/vacancy/90112248",
+        "pay": null,
+        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Эксперт по сопровождению и развитию BI и ГИС систем",
+        "url": "https://hh.ru/vacancy/89862086",
+        "pay": null,
+        "requirement": "Базовые навыки программирования <highlighttext>Python</highlighttext>, VBA/VBS, SQL, для чтения кода и понимания принципа работы вспомогательных скриптов автоматизации. Знание и опыт...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Старший бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/79511637",
+        "pay": null,
+        "requirement": "Релевантный опыт в области системного и бизнес-анализа от 1 года. Знание методологий разработки ПО в части работы с требованиями. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный программист",
+        "url": "https://hh.ru/vacancy/87769575",
+        "pay": 60000,
+        "requirement": "...delphi для java или <highlighttext>python</highlighttext>. Имеет опыт работы с языками: c, c++, c#, object pascal, java, <highlighttext>python</highlighttext>. С вас высокий...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик по информационной безопасности (управление доступами)",
+        "url": "https://hh.ru/vacancy/89767905",
+        "pay": null,
+        "requirement": "...SQL, Oracle), сети (Cisco, Juniper), механизмов и средств удаленного управления доступом. Знание языков программирования (<highlighttext>python</highlighttext>, powershell, sql-запросы, регулярные выражения).",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий аналитик",
+        "url": "https://hh.ru/vacancy/89424156",
+        "pay": null,
+        "requirement": "...работы в банках или страховых компаниях в аналитических отделах. Продвинутый пользователь Excel. Опыт работы с sql запросами. Желательно знание <highlighttext>Python</highlighttext>.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по сопровождению",
+        "url": "https://hh.ru/vacancy/87683503",
+        "pay": null,
+        "requirement": "Высшее образование (техническое по IT-направлению). Базовые знания (основы) о системах управления базами данных. Знание основ программного решения ansible. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий программист",
+        "url": "https://hh.ru/vacancy/89845337",
+        "pay": 250000,
+        "requirement": "Знание технологий и объектно-ориентированных языков программирования (С#, <highlighttext>Python</highlighttext>). Разработка по принципу чистого кода, умение читать чужой код. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Педагог дополнительного образования",
+        "url": "https://hh.ru/vacancy/89358953",
+        "pay": 20000,
+        "requirement": "Опыт преподавания в сфере ИКТ приветствуется, но еще мы очень ценим желание учиться и развиваться в профессиональной сфере! ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки",
+        "url": "https://hh.ru/vacancy/88100777",
+        "pay": null,
+        "requirement": "Плюсом будут технические знания в части написания скриптов на bash-скриптов, знание основ языков программирования <highlighttext>Python</highlighttext>, C++ и Go; опыт...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Pre-middle Golang Developer",
+        "url": "https://hh.ru/vacancy/89241592",
+        "pay": null,
+        "requirement": "Знание внутреннего устройства ОС Windows, Linux. Статически анализ кода. Знакомство с fuzzing-тестированием. Написание системных <highlighttext>Python</highlighttext> и Poweshell скриптов.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик данных Яндекс Недвижимость",
+        "url": "https://hh.ru/vacancy/89290502",
+        "pay": null,
+        "requirement": "Будет плюсом, если вы: Имеете представление о рынке недвижимости. Понимаете, как работает A/B-тестирование. Владеете <highlighttext>Python</highlighttext>. Слышали о ETL...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Middle / Senior Backend Python Developer",
+        "url": "https://hh.ru/vacancy/89746537",
+        "pay": null,
+        "requirement": "Наличие опыта в веб-разработке от 3-х лет. Уверенное владение <highlighttext>Python</highlighttext> 3 (Tornado, fastapi, aiohttp или аналогичный асинхронный фреймворк). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Lead Data Engineer",
+        "url": "https://hh.ru/vacancy/88615384",
+        "pay": null,
+        "requirement": "Да-да, Spark пока у нас нет, только Airflow. Знания <highlighttext>Python</highlighttext>, PL/pgSQL и SQL. Сложные запросы, аналитически функции, понимание...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик (middle)",
+        "url": "https://hh.ru/vacancy/89347772",
+        "pay": null,
+        "requirement": "Умение писать скрипты на bash/<highlighttext>python</highlighttext>. Разбираться в коде на C\\C++ (и уметь писать патчи), уровень middle. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Менеджер по эффективности продаж VAS-услуг (Аналитик)",
+        "url": "https://hh.ru/vacancy/89590268",
+        "pay": null,
+        "requirement": "Уверенные навыки работы с надстройками Power Query, Power Pivot, с базами данных. Навыки программирования на <highlighttext>Python</highlighttext> или подобных скриптовых языках...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/89161977",
+        "pay": null,
+        "requirement": "Свободно владеете SQL. Работали с базами данных в качестве аналитика или разработчика минимум 2 года. Понимаете теорию СУБД и ETL...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки (АСУТП/SCADA) по направлению ПО MasterSCADA (МПС Софт)",
+        "url": "https://hh.ru/vacancy/89274683",
+        "pay": null,
+        "requirement": "Базовое знание одного или нескольких скриптовых языков программирования: <highlighttext>Python</highlighttext>, JavaScript, Lua и т.д. Опыт работы с архитектурой REST и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик-администратор Power BI",
+        "url": "https://hh.ru/vacancy/89123916",
+        "pay": 180000,
+        "requirement": "Знакомство с JavaScript, CSS и другими библиотеками JavaScript. Опыт работы с SQL, <highlighttext>Python</highlighttext>. Будет плюсом: - Опыт работы с Apache Kafka. - ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Linux developer",
+        "url": "https://hh.ru/vacancy/89436946",
+        "pay": 190000,
+        "requirement": "Понимание общих принципов внутреннего устройства GNU/Linux систем. Понимание общих принципов контейнеризации/виртуализации/изоляции. Знание базовых алгоритмов и структур данных. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер сопровождения (платформа Managed Kubernetes)",
+        "url": "https://hh.ru/vacancy/89971308",
+        "pay": null,
+        "requirement": "...задач Ansible, Jenkins. Умение и опыт работы в Jira и Confluence. Уверенное чтение кода на <highlighttext>Python</highlighttext>. Знание SQL-языка запросов.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик бизнес-процессов",
+        "url": "https://hh.ru/vacancy/87170453",
+        "pay": null,
+        "requirement": "Опыт разработки от года и выше на любом языке программирования (<highlighttext>Python</highlighttext>, C, PHP, JS, C#, Go, C++, Java, R и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий системный аналитик",
+        "url": "https://hh.ru/vacancy/67546181",
+        "pay": null,
+        "requirement": "Опыт работы аналитиком не менее 2-х лет. Умение структурировано и понятно излагать информацию. Хороший уровень письменной и устной речи. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик DWH (DWH analyst) (Каменск-Уральск)",
+        "url": "https://hh.ru/vacancy/87433863",
+        "pay": null,
+        "requirement": "Опыт работы с инструментами BI (Business Intelligence) и Big Data. Знание <highlighttext>Python</highlighttext> или других скриптовых языков программирования. Опыт работы в...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Devops-инженер",
+        "url": "https://hh.ru/vacancy/89505639",
+        "pay": null,
+        "requirement": "Умение читать чужой код и писать на скриптовых языках (bash/<highlighttext>python</highlighttext>/groovy). Английский язык: знания, достаточные для переписки по техническим...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий инженер больших данных/ Middle Big Data Engineer",
+        "url": "https://hh.ru/vacancy/87717397",
+        "pay": null,
+        "requirement": "Уверенно знает SQL (оптимизация запросов, создание объектов). Работает Git. Работает с командной строкой Linux (bash).",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python Developer (Удалённо)",
+        "url": "https://hh.ru/vacancy/89572364",
+        "pay": 250000,
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3х лет после окончания технического ВУЗа. Знание <highlighttext>Python</highlighttext> 3.10+. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист С++",
+        "url": "https://hh.ru/vacancy/89637606",
+        "pay": 100000,
+        "requirement": "Знание английского языка (умение читать документацию). ️ Опыт работы с Ubuntu, OpenCV, FFMPEG, TensorRT, <highlighttext>Python</highlighttext>, PostgreSQL, Qt. ️ Понимание методов глубокого обучения...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643032",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Backend Developer Python (Upper-Middle/Senior)",
+        "url": "https://hh.ru/vacancy/90044271",
+        "pay": 170000,
+        "requirement": "Имеешь опыт управления командой от 6 месяцев. Имеешь хорошее теоретическое знание всех основных алгоритмов/типов/принципов/паттернов. Имеешь знания фреймворков...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Администратор СУБД Clickhouse",
+        "url": "https://hh.ru/vacancy/89296571",
+        "pay": 170000,
+        "requirement": "Знание архитектуры и особенностей работы СУБД Clickhouse. Опыт разворачивания и настройки высоконагруженных, кластеризованных и отказоустойчивых инсталляций в Linux-среде. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по автоматизации",
+        "url": "https://hh.ru/vacancy/89790326",
+        "pay": null,
+        "requirement": "Опыт работы с ОС Linux, СУБД, технологиями виртуализации. Опыт написания скриптов на <highlighttext>Python</highlighttext> обязателен. Наличие представления о сетевой моделью OSI...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер ИТ",
+        "url": "https://hh.ru/vacancy/85948937",
+        "pay": null,
+        "requirement": "Базовый уровень технического английского языка. Опыт автоматизации с использованием Bash, Powershell, <highlighttext>Python</highlighttext>. Умение использовать в работе софт мониторинга и логгирования.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер-программист С++ (проект REGUL)",
+        "url": "https://hh.ru/vacancy/88385106",
+        "pay": null,
+        "requirement": "Глубокое знание С/С++. Знание стандартных механизмов операционных систем. Знание основ эффективной разработки высоконадежных кроссплатформенных приложений. Знание шаблонов проектирования. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Application security engineer",
+        "url": "https://hh.ru/vacancy/89012829",
+        "pay": null,
+        "requirement": "Опыт в поиске уязвимостей в мобильных приложениях. Умение читать и писать код (С#, Java, <highlighttext>Python</highlighttext>, Go и др.). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "IT Researcher / Sourcer",
+        "url": "https://hh.ru/vacancy/89958387",
+        "pay": null,
+        "requirement": "Опыт работы на позиции IT Researcher/Sourcer от 6 месяцев. Владение методами поиска кандидатов. Понимание сферы IT (основные компании, направления...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Golang-разработчик (Statist)",
+        "url": "https://hh.ru/vacancy/85871585",
+        "pay": null,
+        "requirement": "...правильно построить CI/CD pipeline. Опыт работы с Kubernetes. Опыт работы на другом стеке (<highlighttext>Python</highlighttext>, Java, Kotlin и т.п.).",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист Python Middle",
+        "url": "https://hh.ru/vacancy/89150957",
+        "pay": 100000,
+        "requirement": "Высшее образование (можно неоконченное/неполное) технического ВУЗа (с курсов по <highlighttext>Python</highlighttext> не принимаем). Логичный и структурированный подход к решению задач...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "IOS разработчик мобильных приложений (Middle / Senior)",
+        "url": "https://hh.ru/vacancy/89404775",
+        "pay": null,
+        "requirement": "Отлично понимаете iOS SDK, Swift, структуры и алгоритмы. Знаете и умеете применять шаблоны проектирования в своих проектах. Предлагаете обдуманные и...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/89997518",
+        "pay": null,
+        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Golang-разработчик бэкенда мобильного приложения Яндекс Путешествий",
+        "url": "https://hh.ru/vacancy/88874148",
+        "pay": null,
+        "requirement": "Читаете, понимаете и можете править код на Kotlin, Java, <highlighttext>Python</highlighttext> или готовы этому научиться. Разрабатывали сложные бэкенд-приложения или системы...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Технический эксперт по информационной безопасности (Мониторинг и реагирование)",
+        "url": "https://hh.ru/vacancy/88957283",
+        "pay": null,
+        "requirement": "Навыки автоматизации задач с помощью скриптовых языков (bash, <highlighttext>Python</highlighttext>, Powershell). Наличие профильных сертификатов (SANS, Offensive Security, eLearnSecurity, EC-Council). ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий инженер научно-технического отдела",
+        "url": "https://hh.ru/vacancy/89815407",
+        "pay": 65000,
+        "requirement": "опыт работы с универсальными математическими библиотеками и пакетами типа <highlighttext>Python</highlighttext>, Matlab, Statistica. — знание методов неразрушающего контроля - акустическая эмиссия (желательно). — ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик Golang Middle +",
+        "url": "https://hh.ru/vacancy/89334621",
+        "pay": null,
+        "requirement": "Разработки на других языках программирования, в особенности на C++, Go, <highlighttext>Python</highlighttext>. Профилирования, Мониторинга, логирования и снятия метрик с работающей системы. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Инженер по эксплуатации систем кибербезопасности",
+        "url": "https://hh.ru/vacancy/88116558",
+        "pay": null,
+        "requirement": "Понимание базовых веб-технологий. Умение прочесть код скрипта / написать простую автоматизацию (<highlighttext>Python</highlighttext>, PS, bash). Базовые компетенции в ИБ (OWASP TOP...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Cпециалист технической поддержки",
+        "url": "https://hh.ru/vacancy/89853426",
+        "pay": null,
+        "requirement": "Плюсом будут технические знания в части написания скриптов на bash-скриптов, знание основ языков программирования <highlighttext>Python</highlighttext>, C++ и Go; опыт...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Ведущий аналитик",
+        "url": "https://hh.ru/vacancy/87450319",
+        "pay": null,
+        "requirement": "Знание принципов организации баз данных. Опыт работы с SQL, <highlighttext>Python</highlighttext> и\\или Loginom,Deductor, SPSS будут дополнительным преимуществом. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Продуктовый аналитик / Product Analyst",
+        "url": "https://hh.ru/vacancy/88736554",
+        "pay": 160000,
+        "requirement": "Хорошее знание математической статистики. Владение SQL. Уверенное владение <highlighttext>Python</highlighttext> и data-related библиотеками. Опыт работы с колоночными базами данных. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик ML",
+        "url": "https://hh.ru/vacancy/87989062",
+        "pay": null,
+        "requirement": "Высшее образование. Знание <highlighttext>Python</highlighttext> или C++ на уровне Middle и выше. Опыт работы с OpenCV, PyTorch\\. Базовые навыки администрирования Linux. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/89123493",
+        "pay": null,
+        "requirement": "Знание БД (в частности PostgreSQL) будет являться преимуществом. Знание <highlighttext>Python</highlighttext> (будет являться преимуществом). Личные качества: самоорганизация, ответственность, желание обучаться новому...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Продуктовый аналитик Middle",
+        "url": "https://hh.ru/vacancy/89891438",
+        "pay": null,
+        "requirement": "Опыт работы в коммерческой аналитике от 2лет! Отличные знания SQL, Excel, умение работать с большими массивами данных. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Учитель/репетитор/преподаватель по информатике и программированию",
+        "url": "https://hh.ru/vacancy/90147740",
+        "pay": 10000,
+        "requirement": "Опыт подготовки учеников к ЕГЭ и ОГЭ, программирование на языке <highlighttext>Python</highlighttext> и С++ (последнее - будет Вашим преимуществом). Профильное образование: высшее...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/88616624",
+        "pay": null,
+        "requirement": "Разработка скриптов автоматизации на shell/bash/<highlighttext>python</highlighttext>/sql. Желание развиваться в сторону техстека Greenplum, Apache Foundation (hadoop, nifi, airflow, kylin...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Fullstack Middle QA-инженер в команду Otello",
+        "url": "https://hh.ru/vacancy/88729943",
+        "pay": null,
+        "requirement": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от 2 лет, 3 года тестирования в целом. Понимание основ тестирования и владение техниками тест...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Администратор Linux AD",
+        "url": "https://hh.ru/vacancy/81543833",
+        "pay": null,
+        "requirement": "Опыт написания скриптов для автоматизации административных задач (Powershell, Bash, <highlighttext>Python</highlighttext>, и пр.). Опыт настройки и администрирования AD, DNS. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Linux инженер",
+        "url": "https://hh.ru/vacancy/86597397",
+        "pay": null,
+        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Системный инженер (SOC)",
+        "url": "https://hh.ru/vacancy/88464398",
+        "pay": 100000,
+        "requirement": "Опыт внедрения SIEM и/или SOAR/IRP-решений. Опыт автоматизации скриптовыми языками (<highlighttext>python</highlighttext>, bash, powershell). Опыт работы со стеком ELK. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Site Reliability Engineer (SRE) / Software Engineer",
+        "url": "https://hh.ru/vacancy/88684520",
+        "pay": null,
+        "requirement": "Разделяете принцип проактивности: лучше предотвратить сбой, чем потом его устранять. Понимаете принципы построения CI/CD-пайплайнов и IaC-подхода.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Regular PHP Developer",
+        "url": "https://hh.ru/vacancy/89454999",
+        "pay": 130000,
+        "requirement": "Vue.js. Плюсом будет знание дополнительного языка программирования: GoLang, <highlighttext>Python</highlighttext>, Node.js (Typescript). Понимание работы k8s. Умение работать с Redis. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Аналитик по информационной безопасности",
+        "url": "https://hh.ru/vacancy/89255559",
+        "pay": null,
+        "requirement": "Linux на уровне администратора. Работа с Git. Опыт разработки на <highlighttext>Python</highlighttext>. Интерес к сфере ИБ и разработке. Опыт аналогичной работы...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "System/DevOps Engineer",
+        "url": "https://hh.ru/vacancy/87255803",
+        "pay": 170000,
+        "requirement": "Уметь работать через консоль будь то bash или powershell.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "QA Automation (Python)",
+        "url": "https://hh.ru/vacancy/89186543",
+        "pay": null,
+        "requirement": "Владение языком программирования <highlighttext>Python</highlighttext> (3). Рytest framework - умение писать тесты, фикстуры, библиотеки. Опыт автоматизированного web-тестирования - REST/SOAP/HTTP. Git. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Middle/Senior frontend разработчик",
+        "url": "https://hh.ru/vacancy/89232751",
+        "pay": null,
+        "requirement": "Опыт коммерческой разработки от 1,5 лет. Классно, если взаимодействовали с разными ролями в команде — аналитиками, тестировщиками, бэкендерами. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "QA инженер (Mobile)",
+        "url": "https://hh.ru/vacancy/87444849",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "ETL developer",
+        "url": "https://hh.ru/vacancy/85939909",
+        "pay": null,
+        "requirement": "Уверенные знания SQL middle+ (Postgres, Clickhouse). Понимание ETL процедур ( REST, SQL, Java, <highlighttext>Python</highlighttext>, и способов интеграции. Опыт общения со стриминговыми...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Frontend Angular developer",
+        "url": "https://hh.ru/vacancy/89001203",
+        "pay": null,
+        "requirement": "Опыт работы с <highlighttext>python</highlighttext> и\\или взаимодействия бэкенд – фронтенд. Опыт работы с docker. Опыт кроссплатформенной и адаптивной верстки.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Старший продуктовый аналитик в Недвижимость",
+        "url": "https://hh.ru/vacancy/88242104",
+        "pay": null,
+        "requirement": "Умеете аргументированно отстаивать свою точку зрения. Самостоятельны в работе. Готовы работать с большими массивами данных. Умеете работать с базами данных...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Руководитель отдела системного анализа",
+        "url": "https://hh.ru/vacancy/69559421",
+        "pay": null,
+        "requirement": "Управленческий опыт в роли руководителя системных аналитиков не менее 1-го года. Будет преимуществом, если есть опыт выстраивания процесса с...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/89535772",
+        "pay": null,
+        "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Руководитель группы продуктовых аналитиков в управление клиентского сервиса",
+        "url": "https://hh.ru/vacancy/87123847",
+        "pay": null,
+        "requirement": "Базовые знания SQL, знание <highlighttext>Python</highlighttext> будет преимуществом. Навык работы с данными, умение видеть за ними проблемы или открытия для бизнеса. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "DevOps Engineer (Брокерский бизнес)",
+        "url": "https://hh.ru/vacancy/88222056",
+        "pay": null,
+        "requirement": "Хорошее знание Linux RedHat. Владение скриптовыми языками программирования - bash/ Ansible/ <highlighttext>python</highlighttext>/ groovy, etc. Опыт работы с СУБД (Postgre, Oracle, MS...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Программист 1С",
+        "url": "https://hh.ru/vacancy/89041991",
+        "pay": 150000,
+        "requirement": "Оптимизация скорости работы модуля. Наши ожидания. Опыт профессиональной разработки на «1С:Предприятие 8» от 3-х лет. ",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Разработчик систем RPA",
+        "url": "https://hh.ru/vacancy/87154168",
+        "pay": null,
+        "requirement": "Опыт промышленных проектов по разработке информационных систем на платформах RPA в качестве разработчика/ системного аналитика. Опыт проведения обследований и разработки...",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Наладчик КИПиА",
+        "url": "https://hh.ru/vacancy/89534047",
+        "pay": null,
+        "requirement": "Умение работать в MS Office: Excel, Word. - Знание языка(ов) программирования: С/С++ || <highlighttext>Python</highlighttext> || VBA || ASM || Step7 || CoDeSys приветствуется.",
+        "city": "Екатеринбург"
+    },
+    {
+        "name": "Data Engineer (удаленно)",
+        "url": "https://hh.ru/vacancy/89368758",
+        "pay": 180000,
+        "requirement": "Опыт работы в должности Разработчика BI от 3-х лет. Уверенный знания Pentaho, Apache AirFlow/ Jenkins, SQL. Опыт разработки в...",
+        "city": "Екатеринбург"
+    }
+]

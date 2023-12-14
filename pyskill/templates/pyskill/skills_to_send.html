@@ -1,0 +1,36 @@
+{% extends 'pyskill/base_3.html' %}
+{% load static %}
+{% block content %}
+<div class="album py-5 bg-body-tertiary">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">hard skill</th>
+      <th scope="col">Количество вакансий, где требуется hard skill</th>
+      <th scope="col">% вакансий, где hard skill необходим</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for key,value in pure_skills.items %}
+    <tr>
+      <th scope="row" class="text-center">{{ forloop.counter }}</th>
+      <td class="text-center">{{ key }}</td>
+      <td class="text-center">{{ value.0 }}</td>
+      <td class="text-center">{{ value.1 }} % </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+        </div>
+</main>
+
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+
+    </body>
+</html>
+
+{% endblock %}

@@ -1,0 +1,821 @@
+[
+    {
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/87834253",
+        "pay": null,
+        "requirement": "ОБЯЗАТЕЛЬНО!! опыт работы в данной должности от 1 года. Знание теории тестирования. Аналитические способности. Знание как минимум 1 СУБД, Postman. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Разработчик Искусственного Интеллекта",
+        "url": "https://hh.ru/vacancy/89613607",
+        "pay": 200000,
+        "requirement": "Широкий IT и AI кругозор. Опыт работы с <highlighttext>Python</highlighttext> 3.8+, SQL Alchemy, Redis, опыт анализа данных, использования фреймворков...",
+        "city": "Самара"
+    },
+    {
+        "name": "Cпециалист по работе с данными (Data Scientist)",
+        "url": "https://hh.ru/vacancy/88031704",
+        "pay": null,
+        "requirement": "Опыт работы с <highlighttext>Python</highlighttext> (в части анализа данных). Хорошие знания основных библиотек анализа данных: Pandas, Matplotlib, Numpy, Scipy, Sklearn и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/89510700",
+        "pay": null,
+        "requirement": "Опыт промышленной разработки на <highlighttext>Python</highlighttext> от 2 лет. Опыт разработки веб-приложений Fastapi. Опыт работы с базами данных (Postgres, MongoDB...",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер технической поддержки (3я линия)",
+        "url": "https://hh.ru/vacancy/89281923",
+        "pay": null,
+        "requirement": "Навык работы с Linux. Опыт работы с Apache Kafka, PostgreSQL, <highlighttext>Python</highlighttext>. Высшее, техническое образование. Стаж не менее 2 лет. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/90208108",
+        "pay": null,
+        "requirement": "Знание С++| C#: классы, указатели, шаблоны. - Знание <highlighttext>Python</highlighttext>: библиотеки Matplotlib, SciPy, NumPy. Будет преимуществом. - Опыт работы с библиотеками для генерации...",
+        "city": "Самара"
+    },
+    {
+        "name": "QA-специалист",
+        "url": "https://hh.ru/vacancy/89533735",
+        "pay": null,
+        "requirement": "Большим плюсом будет опыт написания UI-тестов и владение одним из перечисленных языков программирования на начальном уровне: <highlighttext>Python</highlighttext>, C/C++...",
+        "city": "Самара"
+    },
+    {
+        "name": "Junior DevOps (Платежи и переводы)",
+        "url": "https://hh.ru/vacancy/89363367",
+        "pay": null,
+        "requirement": "Опыт написания скриптов автоматизации (bash, powershell). Опыт разработки на <highlighttext>python</highlighttext>/groovy/js (любой из). Владение инструментами разработки: git, maven, gradle. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер DevOps (Системный администратор)",
+        "url": "https://hh.ru/vacancy/86253331",
+        "pay": 110000,
+        "requirement": "Администрирование СУДБ MS SQL, Postgresql. Знание скриптовых языков Bash, <highlighttext>Python</highlighttext>, Powershell. Знание методологий Continues Integration и Continues Delivery. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Программист",
+        "url": "https://hh.ru/vacancy/89741790",
+        "pay": 40000,
+        "requirement": "Образование высшее (приветствуется). Знание языка <highlighttext>Python</highlighttext>. Знание контролеров PLC. Клиентоориентированность. Знание ПК. Дисциплинированность, стрессоустойчивость. Умение работать в команде.",
+        "city": "Самара"
+    },
+    {
+        "name": "Начальник сектора",
+        "url": "https://hh.ru/vacancy/90014469",
+        "pay": null,
+        "requirement": "Разбирается в тонкостях аналитики. - Умеет проводить исследования по эффективности работы сотрудников. - Понимает в принципах разработки. - Умеет оптимизировать данные. 1. ",
+        "city": "Самара"
+    },
+    {
+        "name": "IT аналитик",
+        "url": "https://hh.ru/vacancy/89414641",
+        "pay": 40000,
+        "requirement": "...организации рабочего процесса. Знание специальных программ: SQL на базовом уровне. Умение работать с нотацией BPMN. Приветствуется знание Битрикс24, <highlighttext>Python</highlighttext>.",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/82504608",
+        "pay": null,
+        "requirement": "Знание языков программирования (<highlighttext>python</highlighttext>, SQL). Опыт работы с BI системами (power bi, metabase, Dash). Опыт работы с базами данных и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик баз данных",
+        "url": "https://hh.ru/vacancy/87411253",
+        "pay": null,
+        "requirement": "Прохождение профильных курсов в GeekBrains/ Skillbox/ Нетология/ SkillFactory и др. Знание <highlighttext>Python</highlighttext>, SQL, Tableau, Excel на продвинутом уровне. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер внедрения (DevOps)",
+        "url": "https://hh.ru/vacancy/67669336",
+        "pay": null,
+        "requirement": "Опыт работы со средствами автоматизации сборки и распространения (GitLab CI, Jenkins). Опыт работы с JIRA. Знание Powershell, Bash, <highlighttext>Python</highlighttext>, YAML. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Fullstack Разработчик",
+        "url": "https://hh.ru/vacancy/89282518",
+        "pay": 130000,
+        "requirement": "Знание <highlighttext>Python</highlighttext>, Node.js, Nest.js на профессиональном уровне. Владение React/Vue. Django/Flask или Node.JS. Знание паттернов проектирования web-приложений. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик SQL (банковская сфера)",
+        "url": "https://hh.ru/vacancy/89797145",
+        "pay": null,
+        "requirement": "...основ теории вероятностей и математической статистики. Опыт работы с DWH, Tableau. Знание <highlighttext>Python</highlighttext> и/или Apache Superset будут являться преимуществом.",
+        "city": "Самара"
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/46229759",
+        "pay": 150000,
+        "requirement": "Английский язык. Давайте работать вместе!",
+        "city": "Самара"
+    },
+    {
+        "name": "Разработчик нейронных сетей",
+        "url": "https://hh.ru/vacancy/89479603",
+        "pay": 60000,
+        "requirement": "Опыт программирования на <highlighttext>Python</highlighttext> и С++ от 2-х лет. Опыт кроссплатформенной разработки. Знание АI технологий, базовых алгоритмов компьютерного зрения...",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист по биоинформатике",
+        "url": "https://hh.ru/vacancy/88568952",
+        "pay": null,
+        "requirement": "Знание программного обеспечения для биоинформатики Linux. Опыт программирования на <highlighttext>Python</highlighttext>, R. Опыт обработки данных высокопроизводительного секвенирования. Опыт проведения НИР, написания...",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер Openstack",
+        "url": "https://hh.ru/vacancy/89747841",
+        "pay": 300000,
+        "requirement": "Опыт написания скриптов и приложений на <highlighttext>python</highlighttext>. Опыт организации процессов CI/CD. Опыт построения систем мониторинга и резервного копирования. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Devops инженер",
+        "url": "https://hh.ru/vacancy/88700408",
+        "pay": null,
+        "requirement": "Хорошее знание Powershell, Bash, <highlighttext>Python</highlighttext>, YAML. Опыт работы с системой контроля версий Git. Опыт работы со средствами автоматизации сборки и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Программист PHP - fullstack разработчик middle",
+        "url": "https://hh.ru/vacancy/89850708",
+        "pay": 50000,
+        "requirement": "Уверенные знания CMS Bitrix, Wordpress, MODX, Tilda. - Знания PHP, JavaScript, jQuery, SQL. - Опыт работы frontend-разработки. - Способность понимать и дополнять...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps инженер (Банковские бизнес-процессы)",
+        "url": "https://hh.ru/vacancy/89496277",
+        "pay": null,
+        "requirement": "Уверенные навыки работы с одним из языков программирования bash, <highlighttext>python</highlighttext>, go, powershell, YAML. Желательные личные качества: аккуратность, ответственность, внимательность. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий инженер",
+        "url": "https://hh.ru/vacancy/89986733",
+        "pay": null,
+        "requirement": "Базовые знания (основы) о системах управления базами данных. Знание основ программного решения ansible. Навыки написания SQL-запросов. Навыки работы и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист по автоматизации",
+        "url": "https://hh.ru/vacancy/89963091",
+        "pay": null,
+        "requirement": "Базовые знания Power BI, SQL . Знание языков программирования (<highlighttext>Python</highlighttext> Pandas, VBA) - преимущество . Опытный пользователь MS Office (Outlook, Word, Power Point).",
+        "city": "Самара"
+    },
+    {
+        "name": "QA Automation engineer",
+        "url": "https://hh.ru/vacancy/89770449",
+        "pay": null,
+        "requirement": "Опыт автоматизации java. Понимание базовых принципов работы сети и сервисов (HTTP,REST). Опыт использования инструментов тестирования (Selenium, Rest-assured, SOAPUI...",
+        "city": "Самара"
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/89218339",
+        "pay": null,
+        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Go-разработчик в Телеметрию",
+        "url": "https://hh.ru/vacancy/88960566",
+        "pay": null,
+        "requirement": "...с Redis, Redis Cluster, Sentry, Vault, Ansible, Kibana, Clickhouse. CI/CD: был опыт в написании pipelines, понимание устройства. Владение <highlighttext>Python</highlighttext>.",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер по эксплуатации внутризоновой сети",
+        "url": "https://hh.ru/vacancy/85928092",
+        "pay": null,
+        "requirement": "Высшее образование в области передачи и обработки информации. Рассматриваются также студенты старших курсов в области передачи и обработки информации. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Разработчик Oracle-PostgreSQL",
+        "url": "https://hh.ru/vacancy/89278231",
+        "pay": null,
+        "requirement": "Знание ora2pg. Умение писать сложные SQL-запросы. Опыт разработки ETL-потоков. Опыт работы с Airflow. Знание <highlighttext>Python</highlighttext>.",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер технической поддержки L3",
+        "url": "https://hh.ru/vacancy/88798508",
+        "pay": null,
+        "requirement": "Есть базовые навыки работы с Postman. Опыт работы с контейнеризацией Docker. Знания языка <highlighttext>Python</highlighttext> и его модулей: datetime, JSON, re...",
+        "city": "Самара"
+    },
+    {
+        "name": "QA Engineer (Auto)",
+        "url": "https://hh.ru/vacancy/89732850",
+        "pay": 130000,
+        "requirement": "Знание инструментов автоматизации (Selenium/Selenide/Cucumber). Знакомство с языками программирования (<highlighttext>Python</highlighttext>/Java/JavaScript). Базовое знание Linux. Знание гибких методологий разработки...",
+        "city": "Самара"
+    },
+    {
+        "name": "Старший аналитик по безопасности (SOC)",
+        "url": "https://hh.ru/vacancy/89444699",
+        "pay": null,
+        "requirement": "Опыт анализа логов от различных систем, умение их правильно интерпретировать. Опыт программирования на <highlighttext>Python</highlighttext>, Go, Powershell для автоматизации рутинных задач. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Backend/Fullstack-разработчик",
+        "url": "https://hh.ru/vacancy/89161913",
+        "pay": 60000,
+        "requirement": "Понимание принципов SOLID и шаблонов проектирования. Опыт работы на php, Go, c#, <highlighttext>python</highlighttext>. Понимание устройства реляционных баз данных, опыт их...",
+        "city": "Самара"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/89719600",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Маркетолог-аналитик / Маркетинговый аналитик",
+        "url": "https://hh.ru/vacancy/89205355",
+        "pay": 80000,
+        "requirement": "...прогнозов продаж; знание языков программирования для аналитики массивных данных (SQL, <highlighttext>Python</highlighttext>) будет преимуществом. Знаешь основные маркетинговые метрики (CPA, CPO, LTV...",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий системный администратор",
+        "url": "https://hh.ru/vacancy/88934115",
+        "pay": null,
+        "requirement": "Знание Bash, иметь навыки программирования на PHP/Java/<highlighttext>Python</highlighttext> или другом языке. Опыт работы с базами данных: PostgreSQL, MySQL, MongoDB...",
+        "city": "Самара"
+    },
+    {
+        "name": "Программист с навыками администрирования",
+        "url": "https://hh.ru/vacancy/89248524",
+        "pay": null,
+        "requirement": "Готовность выполнить тестовое задание перед прохождением первичного собеседования. Знания PHP, <highlighttext>Python</highlighttext> + Django, MySQL, MongoDB. Уверенные знания HTML, CSS (Bootstrap...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps инженер (г.Самара)",
+        "url": "https://hh.ru/vacancy/78051707",
+        "pay": null,
+        "requirement": "Хорошее знание Powershell, Bash, <highlighttext>Python</highlighttext>, YAML. Опыт работы с системой контроля версий Git. Опыт работы со средствами автоматизации сборки и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Эксперт систем хранения данных",
+        "url": "https://hh.ru/vacancy/85599005",
+        "pay": null,
+        "requirement": "Опыт эксплуатации промышленных систем высокой доступности (24х7х365). Опыт разработки скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>...",
+        "city": "Самара"
+    },
+    {
+        "name": "Devops инженер",
+        "url": "https://hh.ru/vacancy/77422072",
+        "pay": null,
+        "requirement": "Понимание принципов мониторинга систем. Будет плюсом опыт разработки на Java, <highlighttext>python</highlighttext>. Будет плюсом опыт работы с Jenkins или другими CI.",
+        "city": "Самара"
+    },
+    {
+        "name": "Middle DevOps Engineer",
+        "url": "https://hh.ru/vacancy/90275933",
+        "pay": null,
+        "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер Linux",
+        "url": "https://hh.ru/vacancy/82308568",
+        "pay": null,
+        "requirement": "Опыт разработки скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext> и пр.). Понимание работы основных сетевых протоколов стека TCP/IP. ",
+        "city": "Самара"
+    },
+    {
+        "name": "QA Automation Engineer",
+        "url": "https://hh.ru/vacancy/46368256",
+        "pay": 80000,
+        "requirement": "Опыт разработки автоматизированных тестов. Опыт работы с Selenium, Postman. Знания <highlighttext>Python</highlighttext>, Java или других языков на уровне написания средств автоматизации...",
+        "city": "Самара"
+    },
+    {
+        "name": "Технический специалист",
+        "url": "https://hh.ru/vacancy/86461925",
+        "pay": null,
+        "requirement": "Опыт работы с системами мониторинга и логирования. Опыт программирования на скриптовых языках (bash/<highlighttext>python</highlighttext>/go). Знание сетевых технологий TCP/IP. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/88236374",
+        "pay": null,
+        "requirement": "Опыт проектной работы, работы в Unix системах и программирования на языке <highlighttext>Python</highlighttext> приветствуется. Хорошая стрессоустойчивость, обучаемость, умение работать в команде...",
+        "city": "Самара"
+    },
+    {
+        "name": "Руководитель группы разработки (Team Lead)",
+        "url": "https://hh.ru/vacancy/90215738",
+        "pay": null,
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист по информационной безопасности (Аналитик SOC)",
+        "url": "https://hh.ru/vacancy/89060770",
+        "pay": null,
+        "requirement": "Желание развиваться в сфере ИБ. Опыт работы в Linux. Программирование на скриптовых языках (<highlighttext>Python</highlighttext>, Powershell, Bash). Английский язык (чтение технической...",
+        "city": "Самара"
+    },
+    {
+        "name": "Технический Presale специалист",
+        "url": "https://hh.ru/vacancy/89303689",
+        "pay": null,
+        "requirement": "Опыт администрирования систем (Linux). Знание IT технологий. Знание продуктов отечественных ИТ производителей. Знание отечественных НПА, в области СЗИ. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Senior Java developer",
+        "url": "https://hh.ru/vacancy/89273481",
+        "pay": null,
+        "requirement": "Опыт работы с полнотекстовыми движками (Elastic, Solr, Lucene или др.). Знания <highlighttext>python</highlighttext>, опыт работы с большими данными, нейросетями. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Старший специалист информационной безопасности",
+        "url": "https://hh.ru/vacancy/90026133",
+        "pay": 150000,
+        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps Engineer (Custom Solutions)",
+        "url": "https://hh.ru/vacancy/89398363",
+        "pay": null,
+        "requirement": "Знание технологий виртуализации и контейнеризации (Docker, LXC). Знание скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Базовые знания языка SQL. Знание TCP/IP...",
+        "city": "Самара"
+    },
+    {
+        "name": "Главный инженер (DevOps)",
+        "url": "https://hh.ru/vacancy/85101014",
+        "pay": null,
+        "requirement": "Опыт работы со средствами автоматизации сборки и распространения (GitLab CI, Jenkins) Опыт работы с JIRA Знание Powershell, Bash, <highlighttext>Python</highlighttext>, YAML.",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps engineer",
+        "url": "https://hh.ru/vacancy/89562467",
+        "pay": null,
+        "requirement": "...rest query/response интеграции с серверным компонентам devops, упаковка приложений в контейнер виртуализации, управление статусами контейнера, …) на языках <highlighttext>Python</highlighttext>, Groovy.",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик (middle)",
+        "url": "https://hh.ru/vacancy/90061663",
+        "pay": null,
+        "requirement": "...основ теории вероятностей и математической статистики. Опыт работы с DWH либо с Tableau. Приветствуется знание <highlighttext>Python</highlighttext> и/или Apache Superset.",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps инженер (ДОПС)",
+        "url": "https://hh.ru/vacancy/89508103",
+        "pay": null,
+        "requirement": "Знание\\Опыт работы с Kubernetes, istio. Знание основ языков программирования <highlighttext>Python</highlighttext>, Bash, Java, Groovy будет плюсом. Желание учиться и развиваться...",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор Open Source",
+        "url": "https://hh.ru/vacancy/88534559",
+        "pay": null,
+        "requirement": "Знания в области распределения нагрузки и масштабирования. Опыт автоматизации на скриптовых языках (shell/perl/<highlighttext>python</highlighttext>/etc). Готовность и способность к...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/85322592",
+        "pay": null,
+        "requirement": "Хорошее знание Linux RedHat. Владение скриптовыми языками программирования - bash, Ansible, <highlighttext>python</highlighttext>, groovy, etc. Опыт работы с СУБД (Postgre, Oracle, MS...",
+        "city": "Самара"
+    },
+    {
+        "name": "ГИС-аналитик",
+        "url": "https://hh.ru/vacancy/88886805",
+        "pay": null,
+        "requirement": "Понимание рабочих процессов дистанционного зондирования земли и геопространственного анализа. Знания QGIS, ArcGIS, Earth Engine. <highlighttext>Python</highlighttext>, SQL, PostgreSQL, JavaScript, Big Data...",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий инженер AD/ DNS",
+        "url": "https://hh.ru/vacancy/82663068",
+        "pay": null,
+        "requirement": "Опыт написания скриптов для автоматизации административных задач (Powershell, Bash, <highlighttext>Python</highlighttext>, и пр.). Опыт настройки и администрирования AD, DNS. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Python-разработчик, Middle/Middle+",
+        "url": "https://hh.ru/vacancy/89365726",
+        "pay": null,
+        "requirement": "Гибкость: продукты Контура постоянно адаптируются под рынок и пользователей, нужно уметь работать в меняющихся условиях.",
+        "city": "Самара"
+    },
+    {
+        "name": "Функциональный архитектор проектов В2В",
+        "url": "https://hh.ru/vacancy/88615171",
+        "pay": null,
+        "requirement": "Высшее техническое образование. Стаж по профилю (архитектор) не менее 2 лет, опыт управления проектами не менее 2 лет. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер по АСУ ТП 1 категории",
+        "url": "https://hh.ru/vacancy/89636231",
+        "pay": null,
+        "requirement": "Навыки работы с пакетами Microsoft Office (Word, Excel, Access, Visio), AutoCAD. Желательно знание языков программирования высокого уровня (<highlighttext>Python</highlighttext>, Java и...",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер – программист (микроконтроллеры)",
+        "url": "https://hh.ru/vacancy/86848890",
+        "pay": null,
+        "requirement": "Опыт создания вспомогательного ПО для ПК с использованием языков C++/C#/<highlighttext>Python</highlighttext>. Знание принципов работы с РТОС, и средств межпотокового...",
+        "city": "Самара"
+    },
+    {
+        "name": "Физик-исследователь/научный сотрудник",
+        "url": "https://hh.ru/vacancy/90068227",
+        "pay": 120000,
+        "requirement": "Знание в области обработки аналоговых сигналов. Знание и опыт программирования (VB, <highlighttext>Python</highlighttext>, C, C++) с ориентацией на построение математических моделей...",
+        "city": "Самара"
+    },
+    {
+        "name": "Senior инженер технической поддержки (Команда разработки CMDB)",
+        "url": "https://hh.ru/vacancy/90002382",
+        "pay": null,
+        "requirement": "Понимание контейнеризации, K8s, docker. Bash, Powershell, <highlighttext>Python</highlighttext> или любой другой скриптовый язык. Базовые понимания CI/CD и желание...",
+        "city": "Самара"
+    },
+    {
+        "name": "Администратор MS Exchange",
+        "url": "https://hh.ru/vacancy/88982749",
+        "pay": null,
+        "requirement": "Понимание работы протокола TLS и режимов его работы. Опыт написания скриптов для автоматизации администрирования на Powershell, <highlighttext>Python</highlighttext>, Perl, Bash.",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик данных / преподаватель",
+        "url": "https://hh.ru/vacancy/89685712",
+        "pay": 20000,
+        "requirement": "Владение материалом, релевантный опыт.",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер-программист (микроконтроллеры)",
+        "url": "https://hh.ru/vacancy/88559308",
+        "pay": null,
+        "requirement": "Опыт создания вспомогательного ПО для ПК с использованием языков C++/C#/<highlighttext>Python</highlighttext>. Знание принципов работы с РТОС, и средств межпотокового...",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий инженер внедрения инфраструктурных средств защиты информации",
+        "url": "https://hh.ru/vacancy/90018132",
+        "pay": null,
+        "requirement": "Опыт работы с сетевым оборудованием Cisco, Huawei, Eltex. Наличие навыков написания скриптов на bash, <highlighttext>python</highlighttext>. Знание законодательства РФ в сфере...",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/87992750",
+        "pay": null,
+        "requirement": "Знание БД (в частности PostgreSQL) будет являться преимуществом. Знание <highlighttext>Python</highlighttext> (будет являться преимуществом). Личные качества: самоорганизация, ответственность, желание обучаться новому...",
+        "city": "Самара"
+    },
+    {
+        "name": "QA Engineer для проектов на JS и Python",
+        "url": "https://hh.ru/vacancy/89846117",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558455",
+        "pay": null,
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643039",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер по эксплуатации систем кибербезопасности",
+        "url": "https://hh.ru/vacancy/88116585",
+        "pay": null,
+        "requirement": "Понимание базовых веб-технологий. Умение прочесть код скрипта / написать простую автоматизацию (<highlighttext>Python</highlighttext>, PS, bash). Базовые компетенции в ИБ (OWASP TOP...",
+        "city": "Самара"
+    },
+    {
+        "name": "Gо разработчик",
+        "url": "https://hh.ru/vacancy/89977349",
+        "pay": null,
+        "requirement": "Опыт работы с любым языком программирования: PHP, <highlighttext>Python</highlighttext>, Java, .Net от 4-х лет. Опыт работы с БД (PostgreSQL). ",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий системный администратор",
+        "url": "https://hh.ru/vacancy/89831745",
+        "pay": null,
+        "requirement": "Опыт администрирования систем мониторинга. Опыт администрирования 1С платформы и конфигураций. Опыт работы с сетевым оборудованием Cisco, Ruckus; сетевыми устройствами...",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор баз данных",
+        "url": "https://hh.ru/vacancy/89194504",
+        "pay": null,
+        "requirement": "Опыт оптимизации SQL-запросов и производительности баз данных. Навыки автоматизации рутинных операций на скриптовых языках (shell/<highlighttext>python</highlighttext>/etc).",
+        "city": "Самара"
+    },
+    {
+        "name": "Python - разработчик (Middle/Senior)",
+        "url": "https://hh.ru/vacancy/89744822",
+        "pay": null,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, Django (минимум 1.5 года коммерческого опыта). Опыт написания Raw SQL запросов к MySql и Clickhouse. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер по автоматизации тестирования (Python)",
+        "url": "https://hh.ru/vacancy/84817886",
+        "pay": null,
+        "requirement": "Опыт разработки автотестовтестов на <highlighttext>Python</highlighttext> от 2 лет. Умение работать с Selenium/Selenide/Playwright. Понимание REST API, HTTP/HTTPS. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/86631659",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий продуктовый аналитик",
+        "url": "https://hh.ru/vacancy/89316884",
+        "pay": null,
+        "requirement": "Понимание принципов работы с Google Analytics и другими инструментами Google. Знание языка программирования <highlighttext>Python</highlighttext> на базовом уровне или выше. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер-наставник по направлению \"Python\"",
+        "url": "https://hh.ru/vacancy/88205751",
+        "pay": 150000,
+        "requirement": "...примере <highlighttext>Python</highlighttext> и JavaScript. Приветствуется опыт создания паттернов проектирования, на примере паттерна MVC и WEB-Framework-а Django для <highlighttext>Python</highlighttext>. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий специалист по информационной безопасности",
+        "url": "https://hh.ru/vacancy/89554975",
+        "pay": null,
+        "requirement": "Умение работать с автоматизацией (bash, <highlighttext>python</highlighttext>). Требования: Высшее образование (желательно сл.направления: информационная безопасность, организация и технология защиты информации, компьютерная безопасность). ",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89730879",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/89159900",
+        "pay": null,
+        "requirement": "Опыт эксплуатации систем сетевого мониторинга. Уверенные навыки написания скриптов на Poweshell или <highlighttext>Python</highlighttext>. Опыт развертывания ПО через SCCM или Intune...",
+        "city": "Самара"
+    },
+    {
+        "name": "Golang- разработчик (Senior)",
+        "url": "https://hh.ru/vacancy/89741887",
+        "pay": null,
+        "requirement": "Способность самостоятельно прорабатывать задачи и выявлять недостающие требования совместно с project - менеджером. Будет плюсом знание знание <highlighttext>Python</highlighttext>, Rust, Docker, Ansible...",
+        "city": "Самара"
+    },
+    {
+        "name": "Ведущий специалист по информационной безопасности",
+        "url": "https://hh.ru/vacancy/88154205",
+        "pay": null,
+        "requirement": "Умение работать с автоматизацией (bash, <highlighttext>python</highlighttext>). Высшее образование (желательно сл.направления: информационная безопасность, организация и технология защиты информации, компьютерная безопасность). ",
+        "city": "Самара"
+    },
+    {
+        "name": "Главный эксперт по цифровым технологиям аудита",
+        "url": "https://hh.ru/vacancy/89997466",
+        "pay": null,
+        "requirement": "Преимуществом является: Знание математических методов в экономике (специализация «Математика в экономике). Знание SQL, <highlighttext>Python</highlighttext>. - Наличие сертификатов ФСФР. Практический опыт продаж...",
+        "city": "Самара"
+    },
+    {
+        "name": "Team Lead",
+        "url": "https://hh.ru/vacancy/89199688",
+        "pay": null,
+        "requirement": "Опыт руководства командой от 2х и более лет. Коммерческий опыт разработки на <highlighttext>Python</highlighttext>. Умение проводить экспресс оценку требований, делегирование...",
+        "city": "Самара"
+    },
+    {
+        "name": "Аналитик в направление речевых технологий",
+        "url": "https://hh.ru/vacancy/77987709",
+        "pay": null,
+        "requirement": "Интерес к технологиям распознавания речи. Высшее техническое образование или образование в сфере лингвистики. Знание <highlighttext>python</highlighttext>. Будет плюсом опыт системным аналитиком.",
+        "city": "Самара"
+    },
+    {
+        "name": "Преподаватель программирования",
+        "url": "https://hh.ru/vacancy/89265457",
+        "pay": 28000,
+        "requirement": "Высшее или среднее профессиональное образование. Знания языка/языков программирования. Знания современных инструментальных средств разработки и тестирования программного обеспечения.",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/84853060",
+        "pay": null,
+        "requirement": "Опыт администрирования парка из 500+ серверов. Опыт автоматизации процессов администрирования (shell, perl, <highlighttext>python</highlighttext>, Ansible). Опыт в CI/CD (GitLab...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/89365901",
+        "pay": null,
+        "requirement": "Нам важен опыт. Понимание принципов межсервисного взаимодействия и построения распределенных отказоустойчивых систем. Умение собирать образы с применением best practices, работа...",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер-помощник руководителя в IT-компанию - Ассистент руководителя (Удаленно)",
+        "url": "https://hh.ru/vacancy/90151362",
+        "pay": null,
+        "requirement": "Интересоваться экскурсиями и квестами. Уметь находить подход к людям. Иметь минимальные навыки продаж, работы с возражениями. Хорошо читать и писать...",
+        "city": "Самара"
+    },
+    {
+        "name": "Machine Learning Engineer (исследование безопасности ML)",
+        "url": "https://hh.ru/vacancy/88347276",
+        "pay": null,
+        "requirement": "Хорошие технические познания в <highlighttext>Python</highlighttext>, опыт с другими языками тоже приветствуются. - Опыт работы с Linux-based ОС, Docker. - ",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор OpenSource",
+        "url": "https://hh.ru/vacancy/67696626",
+        "pay": null,
+        "requirement": "Знания в области распределения нагрузки и масштабирования. Опыт автоматизации на скриптовых языках (shell/perl/<highlighttext>python</highlighttext>/etc). Готовность и способность к...",
+        "city": "Самара"
+    },
+    {
+        "name": "Системный администратор почтовых систем",
+        "url": "https://hh.ru/vacancy/88536332",
+        "pay": null,
+        "requirement": "Опыт администрирования HA Proxy и средств обеспечения работы мобильных устройств (MDM и VPN) будет преимуществом. Знание bash/perl/<highlighttext>python</highlighttext>3...",
+        "city": "Самара"
+    },
+    {
+        "name": "Machine Learning Engineer (Ad-hoc)",
+        "url": "https://hh.ru/vacancy/88347612",
+        "pay": null,
+        "requirement": "Хорошие технические познания в <highlighttext>Python</highlighttext>, опыт с другими языками тоже приветствуются. - Опыт работы с Linux-based ОС, Docker. - ",
+        "city": "Самара"
+    },
+    {
+        "name": "Machine Learning Engineer (Продукты безопасности)",
+        "url": "https://hh.ru/vacancy/88347868",
+        "pay": null,
+        "requirement": "Хорошие технические познания в <highlighttext>Python</highlighttext>, опыт с другими языками тоже приветствуются. - Опыт работы с Linux-based ОС, Docker. - ",
+        "city": "Самара"
+    },
+    {
+        "name": "Технический писатель в Runtime Cloud",
+        "url": "https://hh.ru/vacancy/89729326",
+        "pay": null,
+        "requirement": "Имеете опыт или представление об оркестрации сервисов, например знакомы с kubernetes. Знакомы с <highlighttext>Python</highlighttext>, C++ и другими языками программирования. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Сетевой администратор",
+        "url": "https://hh.ru/vacancy/89121128",
+        "pay": null,
+        "requirement": "...и системами обеспечения информационной безопасности российского производства. Опыт автоматизации рутинных задач с использованием скриптовых языков (<highlighttext>Python</highlighttext>, Bash и т.д.).",
+        "city": "Самара"
+    },
+    {
+        "name": "Specialist DevOps",
+        "url": "https://hh.ru/vacancy/87615618",
+        "pay": null,
+        "requirement": "Знание Helm3, Kustomize, jsonnet. Знание одного из языков разработки: <highlighttext>Python</highlighttext>, Golang. Опыт работы с облачными провайдерами на технологии: Openstack...",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист 2 линии технической поддержки ПО (IT)",
+        "url": "https://hh.ru/vacancy/89385924",
+        "pay": null,
+        "requirement": "Навыки работы с различными API. Опыт работы с Ceph. Способность писать и разбираться в чужих скриптах (bash, <highlighttext>python</highlighttext>).",
+        "city": "Самара"
+    },
+    {
+        "name": "Специалист 2 линии технической поддержки ПО (IT)",
+        "url": "https://hh.ru/vacancy/89385999",
+        "pay": null,
+        "requirement": "Навыки работы с различными API. Опыт работы с Ceph. Способность писать и разбираться в чужих скриптах (bash, <highlighttext>python</highlighttext>).",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/78369476",
+        "pay": null,
+        "requirement": "Опыт работы с Git. Умение писать скрипты, плейбукина Ansible, Bash, <highlighttext>Python</highlighttext>. Администрирование баз данных: Postgresql. Знание и умение работать с...",
+        "city": "Самара"
+    },
+    {
+        "name": "Консультант по внедрению",
+        "url": "https://hh.ru/vacancy/89693188",
+        "pay": null,
+        "requirement": "Умение читать код. Знание основ SQL. Знание основ бухгалтерского учета. Самоорганизацию, способность быстро изучить новые сферы деятельности. Хорошие коммуникативные навыки. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Инженер внедрения на продукт Naumen Erudite",
+        "url": "https://hh.ru/vacancy/89460591",
+        "pay": null,
+        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, bash). Опыт использования систем контейнеризации - Docker. Опыт работы с реляционными базами...",
+        "city": "Самара"
+    },
+    {
+        "name": "Преподаватель в онлайн-школу программирования",
+        "url": "https://hh.ru/vacancy/89879528",
+        "pay": 40000,
+        "requirement": "Компьютерная грамотность. Окончил или учишься в IT, техническом или педагогическом ВУЗе или, возможно, обучался сам, закончил различные курсы, да и...",
+        "city": "Самара"
+    },
+    {
+        "name": "QA Engineer (проекты на JS и Python)",
+        "url": "https://hh.ru/vacancy/86631890",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Разработчик DWH",
+        "url": "https://hh.ru/vacancy/89779420",
+        "pay": null,
+        "requirement": "Экспертное знание SQL на уровне аналитических функций. <highlighttext>Python</highlighttext> - на уровне написания дагов для Airflow. Опыт работы с одной из MPP...",
+        "city": "Самара"
+    },
+    {
+        "name": "DevOps-инженер (Брокерский бизнес)",
+        "url": "https://hh.ru/vacancy/89476097",
+        "pay": null,
+        "requirement": "Хорошее знание Linux RedHat. Владение скриптовыми языками программирования - bash, Ansible, <highlighttext>python</highlighttext>, groovy, etc. Опыт работы с СУБД (Postgre, Oracle, MS...",
+        "city": "Самара"
+    },
+    {
+        "name": "Автор студенческих работ (программирование)",
+        "url": "https://hh.ru/vacancy/89091437",
+        "pay": 50000,
+        "requirement": "Программирование на таких языках как: Basic, Pascal, Maple, MATLAB, Scilab, Prolog, C++/CLI, C#, Java, JavaScript, <highlighttext>Python</highlighttext> и т.д. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
+        "url": "https://hh.ru/vacancy/87724391",
+        "pay": 18000,
+        "requirement": "Умеете читать языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Имеете высшее или неоконченное высшее образование (техническое будет плюсом). Помогали людям онлайн. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Программист 1С",
+        "url": "https://hh.ru/vacancy/89041992",
+        "pay": 150000,
+        "requirement": "Оптимизация скорости работы модуля. Наши ожидания. Опыт профессиональной разработки на «1С:Предприятие 8» от 3-х лет. ",
+        "city": "Самара"
+    },
+    {
+        "name": "Репетитор по информатике (удаленно)",
+        "url": "https://hh.ru/vacancy/88520598",
+        "pay": null,
+        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
+        "city": "Самара"
+    }
+]

@@ -1,0 +1,31 @@
+{% extends 'pyskill/base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <div class="card">
+                <div class="card-header">
+                    Мой профиль
+                </div>
+                <div class="card-body">
+                    <form method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        {{ form.as_p }}
+                        <button type="submit" class="btn btn-success">Сохранить</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+<footer class="text-body-secondary py-5">
+  <div class="container">
+    <p class="mb-1">PySkill &copy; All rights reserved</p>
+  </div>
+</footer>
+<script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+
+    </body>
+</html>
+{% endblock %}

@@ -1,0 +1,674 @@
+[
+    {
+        "name": "Стажер IT",
+        "url": "https://hh.ru/vacancy/89986853",
+        "pay": null,
+        "requirement": "Понимание механизм работы протоколов: TCP/IP, DNS, DHCP, HTTP, SMTP, FTP. Знакомство со скриптовыми языками PowerShell/Bash/<highlighttext>Python</highlighttext>/JS. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/86615827",
+        "pay": 25000,
+        "requirement": "Знание хотя бы одного языка программирования на базовом уровне (<highlighttext>Python</highlighttext>, C#, C++ и/или Go). Базовые знания в области информационной...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/80736556",
+        "pay": 30000,
+        "requirement": "Опыт проектирования, поддержки и разработки серверных компонентов на <highlighttext>Python</highlighttext>. Знание Microsoft SQL server и PostgreSql. Опыт работы с Git. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/89222499",
+        "pay": 60000,
+        "requirement": "...на <highlighttext>Python</highlighttext> от 2-х лет. Понимание основ работы сетей (TCP/IP, HTTP, SSL). Опыт написания тестов на <highlighttext>Python</highlighttext>. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Backend-разработчик Python (FastAPI/Flask)",
+        "url": "https://hh.ru/vacancy/89215195",
+        "pay": 50000,
+        "requirement": "рассматриваем соискателей, которые прошли курсы Яндекс Практикума, Skillfactory и др. - уверенное знание <highlighttext>Python</highlighttext> и опыт работы с ним. - ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89396973",
+        "pay": 110000,
+        "requirement": "<highlighttext>Python</highlighttext>: знание стандартных средств обработки данных (pandas, dask, seaborn, matplotlib). Опыт анализа реальных данных на <highlighttext>Python</highlighttext>. SQL: работа с большими...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Python-разработчик (Middle)",
+        "url": "https://hh.ru/vacancy/89595075",
+        "pay": 100000,
+        "requirement": "SQLAlchemy. Django. Flask. Знания <highlighttext>Python</highlighttext>,Git,ОС Linux,ООП. Понимание основ работы сетей (TCP/IP, HTTP, SSL). Опыт написания высоконагруженных...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA Engineer",
+        "url": "https://hh.ru/vacancy/76979556",
+        "pay": null,
+        "requirement": "...Плюсом будет: Владение английским языком. Опыт взаимодействия с CI/CD. Опыт в автоматизированном тестировании на Selenium + Java/<highlighttext>Python</highlighttext>, Cypress.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер ИТ / ИТ специалист",
+        "url": "https://hh.ru/vacancy/88362555",
+        "pay": 45000,
+        "requirement": "Знание принципов построения сетей, модели OSI. Понимание протокола TCP/IP. Понимание принципов работы DHCP и DNS. Знание аппаратной части серверов...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист С++",
+        "url": "https://hh.ru/vacancy/89430063",
+        "pay": null,
+        "requirement": "Знание и опыт работы с языком программирования C++. Навыки разработки с использованием STL. Знание классических алгоритмов и структур данных. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/88401965",
+        "pay": 40000,
+        "requirement": "Знание языков программирования (хотя бы одного): Sql, pl/sql, <highlighttext>python</highlighttext>, php. Знание операционных систем (Windows, Linux). Грамотная устная и письменная...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий аналитик",
+        "url": "https://hh.ru/vacancy/89590513",
+        "pay": null,
+        "requirement": "Опыт работы в eCom, знания <highlighttext>Python</highlighttext>, визуализации в любом BI-инструменте (Qlik Sense, Visiology, Power BI, Tableauи т.п) - будут...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/89563729",
+        "pay": null,
+        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер по нагрузочному тестированию",
+        "url": "https://hh.ru/vacancy/90261458",
+        "pay": null,
+        "requirement": "...приложений (Java/NodeJS/<highlighttext>Python</highlighttext>). Опыт работы с СУБД Oracle, PostgreSQL. Знание одного из языков программирования (Java, Kotlin, <highlighttext>Python</highlighttext>, C#, C). ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/89611461",
+        "pay": null,
+        "requirement": "Опыт работы в качестве Системного администратора Linux не менее 3-х лет. Хорошее знакомство с PostgreSQL, RabbitMQ, ELK. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Data analyst (Middle / Senior)",
+        "url": "https://hh.ru/vacancy/89383299",
+        "pay": null,
+        "requirement": "Коммуникабельность, умение работать в команде. Знание языка <highlighttext>Python</highlighttext> для анализа данных. Опыт работы в DataLens. Английский язык на уровне upper...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Аудитор информационной безопасности / Пентест",
+        "url": "https://hh.ru/vacancy/89769609",
+        "pay": 47000,
+        "requirement": "Опыт решения задач на hackthebox, root-me, w3challs, crackme. Знание какого-либо ЯП (<highlighttext>Python</highlighttext>/Ruby/C#/JS). ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Junior DevOps Engineer",
+        "url": "https://hh.ru/vacancy/81668194",
+        "pay": null,
+        "requirement": "Опыт в настройке и администрирование Веб-серверов : tomcat, IIS, nginx, apache - желательно. Языки программирования <highlighttext>Python</highlighttext>, SQL - желательно. Знание английского языка...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик ETL",
+        "url": "https://hh.ru/vacancy/88669942",
+        "pay": null,
+        "requirement": "Высшее техническое образование. Опыт работы с базами данных в качестве разработчика от 1 года. Свободное владение SQL. Понимание теории СУБД...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Менеджер по тестированию продуктов",
+        "url": "https://hh.ru/vacancy/89796625",
+        "pay": null,
+        "requirement": "Знание принципов работы биллинговой системы. Приветствуется знания и навыки программирования на языке <highlighttext>Python</highlighttext> и Selenium. Знания в области автоматизации и...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Тестировщик ПО (QA)",
+        "url": "https://hh.ru/vacancy/89715404",
+        "pay": null,
+        "requirement": "Опыт работы с Jira, Git. Будет плюсом: Базовые знания SQL. Базовые знания <highlighttext>Python</highlighttext>. Опыт проведения нагрузочного тестирования. Использование Postman на...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Middle/Middle+ Python backend разработчик",
+        "url": "https://hh.ru/vacancy/86874431",
+        "pay": null,
+        "requirement": "Знание <highlighttext>Python</highlighttext> (3.6+). Нововведения <highlighttext>Python</highlighttext> 3.6+. ORM-библиотеки. Django ORM (SQLAlchemy - плюс). Веб-фреймворки: Django (Flask...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/86467823",
+        "pay": null,
+        "requirement": "Уверенное владение <highlighttext>Python</highlighttext>, Django. Знание SQL и способы оптимизации запросов к БД. Мы по максимуму используем Django ORM, но в...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89968899",
+        "pay": null,
+        "requirement": "Знание SQL. Опыт проектирования модели баз данных. Опыт работы с ETL/ELT инструментами. Знание принципов проектирования и управления БД (преимущественно...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Аналитик второй линии поддержки",
+        "url": "https://hh.ru/vacancy/89576042",
+        "pay": 75000,
+        "requirement": "знание основ web-технологий и навыки программирования, желательно на <highlighttext>Python</highlighttext>. — грамотный русский язык, владение английским на уровне для чтения документации. — ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/89396175",
+        "pay": 100000,
+        "requirement": "Знание <highlighttext>Python</highlighttext>, умение написать свой класс с методами. Уметь обрабатывать и преобразовывать данные из разных источников. Навыки работы с библиотеками...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер технического мониторинга",
+        "url": "https://hh.ru/vacancy/89046102",
+        "pay": null,
+        "requirement": "Управление конфигурациями Ansible. Опыт написание скриптов автоматизации (bash/<highlighttext>python</highlighttext> и др). Хорошее знание TCP/IP стэка, и базовых принципов работы...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Аналитик (руководитель группы)",
+        "url": "https://hh.ru/vacancy/89708643",
+        "pay": null,
+        "requirement": "Опыт работы в аналитике от 5 лет. Высшее профессиональное образование. Опыт работы с большими массивами данных. Знание методов анализа продаж...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Project Manager (web)",
+        "url": "https://hh.ru/vacancy/88003371",
+        "pay": 55000,
+        "requirement": "Знание методологий и методов управления разработкой ПО. Понимание технической области разработки веб-приложений (<highlighttext>Python</highlighttext>, Backend, JavaScript, Frontend) или/ и информационная...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Project Manager (mobile)",
+        "url": "https://hh.ru/vacancy/90110901",
+        "pay": 50000,
+        "requirement": "Знание методологий и методов управления разработкой ПО. Понимание технической области разработки клиентских приложений Android: Java/Kotlin или бекендов (<highlighttext>Python</highlighttext>/C++...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA engineer (ЦК Интеграции)",
+        "url": "https://hh.ru/vacancy/88229652",
+        "pay": null,
+        "requirement": "Умение составлять тест-планы, тест-кейсы. Также будет преимуществом умение использовать shell/ <highlighttext>python</highlighttext>/ другие скриптовые языки, опыт работы с Jenkins...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/89397421",
+        "pay": null,
+        "requirement": "Понимание метрик оценки производительности (CPU, I/O, Network и т.д.). Опыт написание скриптов (<highlighttext>Python</highlighttext>, Bash). Опыт работы с Cloud...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "ML-инженер",
+        "url": "https://hh.ru/vacancy/80321809",
+        "pay": null,
+        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик C#",
+        "url": "https://hh.ru/vacancy/89163550",
+        "pay": 130000,
+        "requirement": "Знание языка SQL, опыт работы с MS SQL, PostgreSQL. Знание HTML, JavaScript, CSS, <highlighttext>python</highlighttext>, ML.NET приветствуется. Опыт работы с GIT.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист JavaScript",
+        "url": "https://hh.ru/vacancy/80736535",
+        "pay": 50000,
+        "requirement": "Желательно владение Flask, <highlighttext>python</highlighttext>, SQL (Postgre, MS SQL). Это вакансия для разработчиков с опытом работы с веб-технологиями не менее...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик С++ / Python (middle +)",
+        "url": "https://hh.ru/vacancy/87687886",
+        "pay": 90000,
+        "requirement": "знание библиотек STL, Qt5, Boost (или отдельных компонент). Опыт разработки на <highlighttext>Python</highlighttext> (3.6+): - опыт разработки асинхронных приложений. - ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий специалист департамента инвестиций",
+        "url": "https://hh.ru/vacancy/80133406",
+        "pay": 43000,
+        "requirement": "Продвинутый пользователь, Microsoft Excel, Power Query. Знание ЯП <highlighttext>Python</highlighttext> и Excel VBA будет преимуществом. Умение разбираться в вопросах, соответствующих специфике...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Support Engineer",
+        "url": "https://hh.ru/vacancy/89180922",
+        "pay": null,
+        "requirement": "Опыт оформления проектной, технической документации. Владение <highlighttext>Python</highlighttext>/ Bash/ Powershell для написания нестандартных проверок. Опыт настройки уведомлений (e-mail, SMS, Teams). ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Go-разработчик в Телеметрию",
+        "url": "https://hh.ru/vacancy/88960564",
+        "pay": null,
+        "requirement": "...с Redis, Redis Cluster, Sentry, Vault, Ansible, Kibana, Clickhouse. CI/CD: был опыт в написании pipelines, понимание устройства. Владение <highlighttext>Python</highlighttext>.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps/SRE инженер, Средний (Middle) | Softezza, РФ",
+        "url": "https://hh.ru/vacancy/90050722",
+        "pay": 150000,
+        "requirement": "Понимание целей внедрения DevOps. *Уверенная работа с Linux (Debian/Ubuntu). *Знание <highlighttext>Python</highlighttext>/Groovy/Bash. *Практический опыт работы с Ansible/Jenkins...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "ГИС-аналитик",
+        "url": "https://hh.ru/vacancy/88886807",
+        "pay": null,
+        "requirement": "Понимание рабочих процессов дистанционного зондирования земли и геопространственного анализа. Знания QGIS, ArcGIS, Earth Engine. <highlighttext>Python</highlighttext>, SQL, PostgreSQL, JavaScript, Big Data...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA automation engineer (Python)",
+        "url": "https://hh.ru/vacancy/87127228",
+        "pay": 200000,
+        "requirement": "Опыт работы с языком программирования <highlighttext>Python</highlighttext>. Владение английским языком не ниже уровня B2. Опыт в тестировании веб-приложений. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Site Reliability Engineer (SRE)",
+        "url": "https://hh.ru/vacancy/75575096",
+        "pay": null,
+        "requirement": "Есть опыт работы с:",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89730878",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Middle Product Analyst / Ведущий продуктовый аналитик в Loveplanet",
+        "url": "https://hh.ru/vacancy/89062228",
+        "pay": null,
+        "requirement": "ОПЫТ РАБОТЫ С APPANNIE, APPSFLYER, FIREBASE, BIGQUERY, POWER BI, GOOGLE ANALYTICS. БАЗОВОЕ ЗНАНИЕ <highlighttext>PYTHON</highlighttext>. Развитые навыки управления командой. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643038",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист .Net",
+        "url": "https://hh.ru/vacancy/89626964",
+        "pay": 100000,
+        "requirement": "Иметь опыт разработки приложений (.Net Core, C#). Приветствуется если у вас есть опыт: Опыт работы с брокерами сообщений (RabbitMq). ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/89899565",
+        "pay": null,
+        "requirement": "Уметь автоматизировать и писать скрипты на Bash, Ruby, <highlighttext>Python</highlighttext>, Perl, минимум на одном из них. Знать сети и четко разбираться...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558457",
+        "pay": null,
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель программирования для детей по Scratch, Roblox, Python, Unity, Web",
+        "url": "https://hh.ru/vacancy/89732661",
+        "pay": 40000,
+        "requirement": "Тебе интересна удаленная работа. Увлекает онлайн-обучение и ты следишь за новинками. Есть опыт в преподавании курсов Scratch, Roblox, <highlighttext>Python</highlighttext>...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/86011049",
+        "pay": null,
+        "requirement": "Понимание принципов работы компьютерных сетей и сетевого взаимодействия. - Продвинутое знание Bash. - Основы Perl, <highlighttext>Python</highlighttext>, Go (системные скрипты, автоматизация). - ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA Engineer для проектов на JS и Python",
+        "url": "https://hh.ru/vacancy/89846130",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Руководитель разработки голосовых роботов",
+        "url": "https://hh.ru/vacancy/89611937",
+        "pay": null,
+        "requirement": "Есть опыт руководства несколькими командами разработки от 20 человек. Умеете оптимизировать процессы: ускорять релизы, повышать пропускную способность команды. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Java разработчик Middle/Middle+",
+        "url": "https://hh.ru/vacancy/89269443",
+        "pay": 140000,
+        "requirement": "Backend: JAVA, PHP (Laravel, Simfony), <highlighttext>Python</highlighttext> (Django, Flask, asyncio), Node.js. Frontend: React Js, Vue.JS. - Опыт программирования на Java от 2...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Full-stack разработчик",
+        "url": "https://hh.ru/vacancy/74084448",
+        "pay": null,
+        "requirement": "Знание Typescript. Опыт backend-разработки (предпочтительно на Ruby и/или <highlighttext>Python</highlighttext>, PHP). Интерес в области организации realtime приложений без использования...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Site Reliability Engineer (SRE)",
+        "url": "https://hh.ru/vacancy/88949681",
+        "pay": null,
+        "requirement": "Linux и сопутствующие утилиты. Git. Ansible. PostgreSQL/MySQL/CH. Nft/iptables. Понимание общих концепций безопасности, автоматизации и построения инфраструктуры. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps-Engineer (Cloud)",
+        "url": "https://hh.ru/vacancy/86070533",
+        "pay": null,
+        "requirement": "Bash. Golang. Prometheus / Grafana / Zabbix. Ansible. Jenkins. Docker. Git. PostgreSQL / MySQL / MariaDB. Hashicorp Vault. Ceph. Nginx, Apache.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Middle ETL Developer",
+        "url": "https://hh.ru/vacancy/88651472",
+        "pay": null,
+        "requirement": "Знание SQL на уровне эксперта. Уверенное знание <highlighttext>Python</highlighttext>. Опыт работы с Airflow не менее 1 года (умение разработки DAG для...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "C++ Developer/C++ Разработчик",
+        "url": "https://hh.ru/vacancy/89560686",
+        "pay": null,
+        "requirement": "Опыт тестирования кода с помощью автотестов. Знание DPDK, SPDK, PMDK. Знание Rust/<highlighttext>Python</highlighttext>. Знание основных библиотек разработки HPC-инфраструктуры. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA-Инженер (mobile)",
+        "url": "https://hh.ru/vacancy/54770325",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Senior python разработчик",
+        "url": "https://hh.ru/vacancy/89196227",
+        "pay": null,
+        "requirement": "Знакомы с устройством протокола HTTP/1.1 (HTTP/2 будет плюсом). Понимаете, как разворачивать свой код. Умеете работать самостоятельно и...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Специалист по мониторингу",
+        "url": "https://hh.ru/vacancy/89550350",
+        "pay": null,
+        "requirement": "Опыт работы с Grafana. Опыт написания скриптов на <highlighttext>Python</highlighttext>. Опыт работы с Ansible. Опыт работы с системами корпоративной IP-телефонной...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Разработчик отдела разработки BI",
+        "url": "https://hh.ru/vacancy/89780169",
+        "pay": null,
+        "requirement": "Плюсом будет знание одного или нескольких языков программирования (С#, <highlighttext>python</highlighttext>, VBA или др.). Желателен опыт построения ETL-процессов (SSIS, N...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "ETL-разработчик отдела разработки BI",
+        "url": "https://hh.ru/vacancy/86487504",
+        "pay": null,
+        "requirement": "Опыт работы с Apache AirFlow и другими промышленными ETL-инструментами. Знание языка программирования <highlighttext>Python</highlighttext>. Уверенное знание языка запросов ANSI SQL...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/89365902",
+        "pay": null,
+        "requirement": "Нам важен опыт. Понимание принципов межсервисного взаимодействия и построения распределенных отказоустойчивых систем. Умение собирать образы с применением best practices, работа...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Middle DevOps Engineer",
+        "url": "https://hh.ru/vacancy/88591177",
+        "pay": null,
+        "requirement": "Опыт работы с системами контейнерезации и оркестрации (Docker, Docker SWARM, Podman). Опыт написания скриптов Bash, <highlighttext>Python</highlighttext>. Опыт написание технической документации. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий аналитик",
+        "url": "https://hh.ru/vacancy/88772738",
+        "pay": null,
+        "requirement": "Опыт работы в eCom, знания <highlighttext>Python</highlighttext>, визуализации в любом BI-инструменте (Qlik Sense, Visiology, Power BI, Tableauи т.п) - будут...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий специалист по сопровождению систем и сервисов",
+        "url": "https://hh.ru/vacancy/89624297",
+        "pay": null,
+        "requirement": "Опыт использования систем мониторинга: Zabbix, Prometheus, Grafana. Опыт написания скриптов на Bash, <highlighttext>Python</highlighttext>, PowerShell. Опыт работы с Jenkins, SaltStack, Puppet. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/89217175",
+        "pay": null,
+        "requirement": "Работали с Nginx/HAproxy. Работали с MySQL или PostgreSQL. Имели опыт настройки CI (github CI или gitlab CI). ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель информатики, программирования для детей",
+        "url": "https://hh.ru/vacancy/89615402",
+        "pay": null,
+        "requirement": "Алгоритмика» — международная школа программирования и математики. Более 6 лет мы делаем feature ready education, обучаем детей и взрослых навыкам XXI...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/86631660",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA Automation Engineer (Python)",
+        "url": "https://hh.ru/vacancy/89131848",
+        "pay": 150000,
+        "requirement": "Опыт работы в области QA более 3 лет. Знание языка программирования <highlighttext>Python</highlighttext> для создания автоматизированных тестов. Глубокое понимание теории тестирования...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Python-разработчик, Middle/Middle+",
+        "url": "https://hh.ru/vacancy/89365725",
+        "pay": null,
+        "requirement": "Гибкость: продукты Контура постоянно адаптируются под рынок и пользователей, нужно уметь работать в меняющихся условиях.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий Data Engineer",
+        "url": "https://hh.ru/vacancy/89537856",
+        "pay": null,
+        "requirement": "...или <highlighttext>Python</highlighttext>). Или 7+ лет Software Engineer (разработчик Java/Scala, Golang или <highlighttext>Python</highlighttext>). Уверенно уметь в Java (Scala, <highlighttext>Python</highlighttext>...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Go Developer",
+        "url": "https://hh.ru/vacancy/89260341",
+        "pay": null,
+        "requirement": "Знания Golang (gin, sqlboiler, gorm, gomock, echo). Знания <highlighttext>Python</highlighttext>. Опыт работы с: Docker, Kubernetes (контейнеризация и оркестрация). Опыт работы брокером...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер / DBA PostgreSQL",
+        "url": "https://hh.ru/vacancy/87913145",
+        "pay": null,
+        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Плюсом будет опыт работы. Движухи на уровне всей компании. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий Python разработчик",
+        "url": "https://hh.ru/vacancy/88109380",
+        "pay": null,
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от трех лет. Знание классических структур данных. Опыт разработки на Django и/или FastAPI. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Site Reliability Engineer (SRE back-office)",
+        "url": "https://hh.ru/vacancy/86726452",
+        "pay": null,
+        "requirement": "Linux и сопутствующие утилиты. Git. Ansible. Jenkins. Vault. PostgreSQL/MySQL/CH. Docker. Nginx. Nft/iptables. Понимание общих концепций безопасности, автоматизации...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Senior Developer (Старший разработчик)",
+        "url": "https://hh.ru/vacancy/88302986",
+        "pay": null,
+        "requirement": "Уверенные знания и опыт использования TypeScript (или JavaScript). Опыт проектирования backend и frontend части веб-приложений. Продакшн опыт разработки на...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Автор работ по программированию / программист",
+        "url": "https://hh.ru/vacancy/89321689",
+        "pay": null,
+        "requirement": "1. Умение работать с большими объемами информации. 2. Ответственность, умение распределять время и поставленные задачи с соблюдением сроков. 3. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
+        "url": "https://hh.ru/vacancy/87724393",
+        "pay": 18000,
+        "requirement": "Умеете читать языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Имеете высшее или неоконченное высшее образование (техническое будет плюсом). Помогали людям онлайн. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/89955558",
+        "pay": null,
+        "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps/SRE инженер",
+        "url": "https://hh.ru/vacancy/89132199",
+        "pay": null,
+        "requirement": "Уверенное знание как минимум одного из языков программирования (с++, java, <highlighttext>python</highlighttext>, golang, php, javascript). Опыт работы с Git. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист Power BI",
+        "url": "https://hh.ru/vacancy/89840001",
+        "pay": null,
+        "requirement": "Опыт работы с BI системами. Продвинутый Excel (сводные таблицы, сложные формулы). PowerPoint), Googlesheets. Знание <highlighttext>Python</highlighttext>.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель в онлайн-школу программирования",
+        "url": "https://hh.ru/vacancy/89837047",
+        "pay": 40000,
+        "requirement": "Компьютерная грамотность. Окончил или учишься в IT, техническом или педагогическом ВУЗе или, возможно, обучался сам, закончил различные курсы, да и...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Технический писатель в Runtime Cloud",
+        "url": "https://hh.ru/vacancy/89729328",
+        "pay": null,
+        "requirement": "Имеете опыт или представление об оркестрации сервисов, например знакомы с kubernetes. Знакомы с <highlighttext>Python</highlighttext>, C++ и другими языками программирования. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "QA Engineer (проекты на JS и Python)",
+        "url": "https://hh.ru/vacancy/86631898",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Руководитель группы разработки (Team Lead)",
+        "url": "https://hh.ru/vacancy/83337032",
+        "pay": null,
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель робототехники / программирования в детскую IT-школу",
+        "url": "https://hh.ru/vacancy/89661493",
+        "pay": 30000,
+        "requirement": "Главные критерии: общительность, начальные педагогические навыки, обучаемость и пунктуальность. * ответственный и внимательный. Общительность. Пунктуальность. Знание учебной программы. Чистоплотность. Честность. Ответственность.",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Ведущий инженер по автоматизированным системам управления производством",
+        "url": "https://hh.ru/vacancy/90009551",
+        "pay": null,
+        "requirement": "...Языки программирования PHP, МЭК 61131-3 (LAD, ST, FBD), SQL, <highlighttext>Python</highlighttext>, PHP Знание специализированных программ CodeSYS, TIA Portal. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Инженер/DBA Elasticsearch",
+        "url": "https://hh.ru/vacancy/87774829",
+        "pay": null,
+        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Навык конструктивного общения с командами разработки. Плюсом будет опыт работы. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель математики и информатики",
+        "url": "https://hh.ru/vacancy/89685536",
+        "pay": 30000,
+        "requirement": "От тебя: Большое желание развиваться. Опыт не так важен, но приветствуется. Знания по предмету, который хотел бы преподавать. Долгосрочное сотрудничество. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/89882183",
+        "pay": null,
+        "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Программист 1С",
+        "url": "https://hh.ru/vacancy/89041995",
+        "pay": 150000,
+        "requirement": "Оптимизация скорости работы модуля. Наши ожидания. Опыт профессиональной разработки на «1С:Предприятие 8» от 3-х лет. ",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Преподаватель IT дисциплин в Компьютерной Академии",
+        "url": "https://hh.ru/vacancy/89453518",
+        "pay": 20000,
+        "requirement": "Ответственность, пунктуальность, желание делиться знанием и опытом. Знание или опыт работы как минимум в одном из указанных выше направлений компьютерных...",
+        "city": "Ростов-на-Дону"
+    },
+    {
+        "name": "Репетитор по информатике (удаленно)",
+        "url": "https://hh.ru/vacancy/89371964",
+        "pay": 30000,
+        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
+        "city": "Ростов-на-Дону"
+    }
+]
