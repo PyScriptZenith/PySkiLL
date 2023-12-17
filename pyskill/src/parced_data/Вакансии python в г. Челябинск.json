@@ -1,9 +1,9 @@
 [
     {
-        "name": "Backend-разработчик (Golang)",
-        "url": "https://hh.ru/vacancy/90155992",
+        "name": "Python backend-developer (Middle)",
+        "url": "https://hh.ru/vacancy/90542595",
         "pay": null,
-        "requirement": "Умение работать с Docker. Технический английский. Опыт программирование на <highlighttext>Python</highlighttext>. Понимание REST сервисов и протоколов HTTP. Знакомство с технологиями аппаратной...",
+        "requirement": "От вас: — Знание <highlighttext>Python</highlighttext> (3.8 - 3.10). — Умение работать с многопоточностью/асинхронностью (asyncio, multiprocessing, multitheading). — Docker, docker-compose. — ",
         "city": "Челябинск"
     },
     {
@@ -14,10 +14,17 @@
         "city": "Челябинск"
     },
     {
-        "name": "DevOps-инженер",
-        "url": "https://hh.ru/vacancy/86528150",
-        "pay": 60000,
-        "requirement": "Опыт программирования на различных серверных языках программирование приветствуется (желательно <highlighttext>Python</highlighttext>, Go). Понимание принципов ООП, SOLID, KISS, DRY, YAGNI, паттернов GoF...",
+        "name": "BI-аналитик (Middle)",
+        "url": "https://hh.ru/vacancy/90539962",
+        "pay": null,
+        "requirement": "Будет плюсом: Знание основ реляционных БД и <highlighttext>Python</highlighttext>. Опыт работы с Excel или Google Таблицами, с колоночными базами данных (например...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Embedded разработчик (C / C++)",
+        "url": "https://hh.ru/vacancy/90542070",
+        "pay": null,
+        "requirement": "Опыт разработки unit-тестов и smoke-тестов. — Опыт коммерческой разработки встроенного. — Понимание протоколов обмена данными (modbus). — Знание высокоуровневых языков (<highlighttext>Python</highlighttext>...",
         "city": "Челябинск"
     },
     {
@@ -28,24 +35,24 @@
         "city": "Челябинск"
     },
     {
-        "name": "Site Reliability Engineer (SRE)",
-        "url": "https://hh.ru/vacancy/90054916",
+        "name": "Системный администратор/Инженер технической поддержки пользователей",
+        "url": "https://hh.ru/vacancy/90713106",
         "pay": null,
-        "requirement": "Есть опыт работы c:",
+        "requirement": "...работы в технической поддержке. Навык ремонта компьютерного оборудования. Опыт программирования скриптов .bat, powershell или знакомство с языками программирования: С, <highlighttext>Python</highlighttext>.",
         "city": "Челябинск"
     },
     {
-        "name": "BI-аналитик (Middle)",
-        "url": "https://hh.ru/vacancy/89186290",
-        "pay": null,
-        "requirement": "Будет плюсом: Знание основ реляционных БД и <highlighttext>Python</highlighttext>. Опыт работы с Excel или Google Таблицами, с колоночными базами данных (например...",
+        "name": "Разработчик банковского ПО",
+        "url": "https://hh.ru/vacancy/43425529",
+        "pay": 131500,
+        "requirement": "Владение одним или несколькими языками программирования (Java, C#, <highlighttext>Python</highlighttext>, C++ и т.п.). Уверенное владение объектно-ориентированным подходом к разработке...",
         "city": "Челябинск"
     },
     {
-        "name": "Стажер-инженер SRE (Челябинск)",
-        "url": "https://hh.ru/vacancy/90071152",
-        "pay": null,
-        "requirement": "Если у вас есть навыки программирования на любом языке. Знакомы с Iac, CI/CD, DevOps практиками, облаками. Соблюдаете дедлайны и...",
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/90593741",
+        "pay": 80000,
+        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
         "city": "Челябинск"
     },
     {
@@ -56,73 +63,10 @@
         "city": "Челябинск"
     },
     {
-        "name": "Специалист технической поддержки прикладного программного обеспечения",
-        "url": "https://hh.ru/vacancy/88385098",
-        "pay": 60000,
-        "requirement": "...запросы SQL, понимание принципов работы БД. Навыки работы с различными API. Способность писать и разбираться в чужих скриптах (bash, <highlighttext>python</highlighttext>).",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Аналитик второй линии поддержки",
-        "url": "https://hh.ru/vacancy/89576024",
-        "pay": 75000,
-        "requirement": "знание основ web-технологий и навыки программирования, желательно на <highlighttext>Python</highlighttext>. — грамотный русский язык, владение английским на уровне для чтения документации. — ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Системный администратор Linux Junior",
-        "url": "https://hh.ru/vacancy/79130572",
-        "pay": 70000,
-        "requirement": "Внимательны к деталям. Имеете опыт работы c РСУБД Oracle или с NoSQL-СУБД. Имеете опыт программирования на Java/Shell/<highlighttext>Python</highlighttext>.",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Разработчик банковского ПО",
-        "url": "https://hh.ru/vacancy/43425529",
-        "pay": 115000,
-        "requirement": "Владение одним или несколькими языками программирования (Java, C#, <highlighttext>Python</highlighttext>, C++ и т.п.). Уверенное владение объектно-ориентированным подходом к разработке...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Системный администратор/Инженер технической поддержки пользователей",
-        "url": "https://hh.ru/vacancy/78767785",
+        "name": "GoLang разработчик",
+        "url": "https://hh.ru/vacancy/90505664",
         "pay": null,
-        "requirement": "...работы в технической поддержке. Навык ремонта компьютерного оборудования. Опыт программирования скриптов .bat, powershell или знакомство с языками программирования: С, <highlighttext>Python</highlighttext>.",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Педагог дополнительного образования",
-        "url": "https://hh.ru/vacancy/90077480",
-        "pay": 30000,
-        "requirement": "Желание к изучению нового: Для педагога старших детей: языки программирования (<highlighttext>Python</highlighttext>, C++,С), программирование контроллеров, 3D-печать, техническое зрение. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Системный администратор (Linux)",
-        "url": "https://hh.ru/vacancy/88582647",
-        "pay": 65000,
-        "requirement": "...систем виртуализации (Proxmox). Опыт работы с базой данных (PostgreSQL, MS SQL). Практический опыт администрирования Linux (Debian), написание скриптов (bash,<highlighttext>python</highlighttext>).",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Инженер-программист в Банк",
-        "url": "https://hh.ru/vacancy/88721505",
-        "pay": 100000,
-        "requirement": "отличное знание любого из современных языков программирования (Java, C#, <highlighttext>Python</highlighttext>, C++ и т.п.). - уверенное владение объектно-ориентированным подходом к...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Автор работ по программированию Python",
-        "url": "https://hh.ru/vacancy/89320696",
-        "pay": null,
-        "requirement": "1. Умение работать с большими объемами информации. 2. Ответственность, умение распределять время и поставленные задачи с соблюдением сроков. 3. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Руководитель группы по анализу данных",
-        "url": "https://hh.ru/vacancy/89307564",
-        "pay": null,
-        "requirement": "Опыт работы с системами интерактивной бизнес-аналитики. Опыт преобразования данных с использованием SQL/<highlighttext>Python</highlighttext>. Умение работать с базами данных и...",
+        "requirement": "Знание классических алгоритмов (поиск, сортировка, структура данных). Будет плюсом: Опыт разработки на <highlighttext>Python</highlighttext>, Kotlin. Опыт работы с SQL. ",
         "city": "Челябинск"
     },
     {
@@ -133,52 +77,24 @@
         "city": "Челябинск"
     },
     {
-        "name": "ГИС-аналитик",
-        "url": "https://hh.ru/vacancy/88886804",
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/90477941",
         "pay": null,
-        "requirement": "Понимание рабочих процессов дистанционного зондирования земли и геопространственного анализа. Знания QGIS, ArcGIS, Earth Engine. <highlighttext>Python</highlighttext>, SQL, PostgreSQL, JavaScript, Big Data...",
+        "requirement": "...Windows на Linux. Понимаешь, как разворачивать инфраструктуру под АРМ с ОС Linux. Навыки работы c Bash и <highlighttext>Python</highlighttext>. Навыки программирования.",
         "city": "Челябинск"
     },
     {
-        "name": "Инженер АСУ ТП",
-        "url": "https://hh.ru/vacancy/88475772",
-        "pay": 90000,
-        "requirement": "Желательно: Опыт ведения пуско-наладочных работ. Знание одного или нескольких из: <highlighttext>python</highlighttext>, java-script, html, css, docker, k8s...",
+        "name": "Системный администратор Linux Junior",
+        "url": "https://hh.ru/vacancy/90667196",
+        "pay": 70000,
+        "requirement": "Внимательны к деталям. Имеете опыт работы c РСУБД Oracle или с NoSQL-СУБД. Имеете опыт программирования на Java/Shell/<highlighttext>Python</highlighttext>.",
         "city": "Челябинск"
     },
     {
-        "name": "Middle PHP Developer",
-        "url": "https://hh.ru/vacancy/90197795",
-        "pay": 100000,
-        "requirement": "PHP 8.1 (Symfony 5.4). <highlighttext>Python</highlighttext> 3.9 (Flask, RQ). Redis. Mysql. Docker. Supervisor.",
-        "city": "Челябинск"
-    },
-    {
-        "name": "ML-инженер",
-        "url": "https://hh.ru/vacancy/84504741",
-        "pay": null,
-        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Аналитик (Оптимакрос)",
-        "url": "https://hh.ru/vacancy/89526727",
-        "pay": null,
-        "requirement": "Грамотная речь, структурированное системное мышление. Знание учетных систем (1С и подобных). Опыт программирования VBA, SQL, <highlighttext>Python</highlighttext> и т.п.",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Программист/разработчик баз данных",
-        "url": "https://hh.ru/vacancy/89888711",
-        "pay": null,
-        "requirement": "Опыт разработки АСУ ТП и работы со SCADA-системами. Знание языков для статистической обработки данных (R или <highlighttext>Python</highlighttext>). ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Сетевой инженер",
-        "url": "https://hh.ru/vacancy/89789623",
-        "pay": null,
-        "requirement": "Владеете английским на уровне В1 и выше. Будет преимуществом: Умение автоматизировать рабочие процессы любыми средствами (<highlighttext>python</highlighttext>, ansible и пр.).",
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/86528150",
+        "pay": 60000,
+        "requirement": "Опыт программирования на различных серверных языках программирование приветствуется (желательно <highlighttext>Python</highlighttext>, Go). Понимание принципов ООП, SOLID, KISS, DRY, YAGNI, паттернов GoF...",
         "city": "Челябинск"
     },
     {
@@ -189,38 +105,45 @@
         "city": "Челябинск"
     },
     {
-        "name": "Разработчик Go Middle / Senior",
-        "url": "https://hh.ru/vacancy/87991605",
-        "pay": null,
-        "requirement": "DevOps, Docker. Разработки на других языках программирования, в особенности на C++, <highlighttext>Python</highlighttext>. Профилирования, Мониторинга, логирования и снятия метрик с работающей...",
+        "name": "Педагог дополнительного образования",
+        "url": "https://hh.ru/vacancy/90077480",
+        "pay": 30000,
+        "requirement": "Желание к изучению нового: Для педагога старших детей: языки программирования (<highlighttext>Python</highlighttext>, C++,С), программирование контроллеров, 3D-печать, техническое зрение. ",
         "city": "Челябинск"
     },
     {
-        "name": "Системный администратор",
-        "url": "https://hh.ru/vacancy/84864270",
-        "pay": null,
-        "requirement": "Высшее техническое или ИТ-образование. Опыт работы от 3 лет в аналогичной должности. Понимание методологий ITIL/ITSM. Опыт работы с...",
+        "name": "Специалист технической поддержки прикладного программного обеспечения",
+        "url": "https://hh.ru/vacancy/88385098",
+        "pay": 60000,
+        "requirement": "...запросы SQL, понимание принципов работы БД. Навыки работы с различными API. Способность писать и разбираться в чужих скриптах (bash, <highlighttext>python</highlighttext>).",
         "city": "Челябинск"
     },
     {
-        "name": "Системный администратор (Linux)",
-        "url": "https://hh.ru/vacancy/89800042",
+        "name": "Стажер-инженер SRE (Челябинск)",
+        "url": "https://hh.ru/vacancy/90071152",
         "pay": null,
-        "requirement": "Знания и практический опыт применения Java/Perl/<highlighttext>Python</highlighttext>/Bash (желательно). Опыт работы с реляционными базами данных, хотя бы одной из...",
+        "requirement": "Если у вас есть навыки программирования на любом языке. Знакомы с Iac, CI/CD, DevOps практиками, облаками. Соблюдаете дедлайны и...",
         "city": "Челябинск"
     },
     {
-        "name": "Педагог дополнительного образования технической направленности",
-        "url": "https://hh.ru/vacancy/89392497",
-        "pay": 20000,
-        "requirement": "Педагог дополнительного образования технической направленности. Образование среднее/высшее.",
+        "name": "Разработчик ML",
+        "url": "https://hh.ru/vacancy/90676318",
+        "pay": null,
+        "requirement": "Высшее образование. Знание <highlighttext>Python</highlighttext> или C++ на уровне Middle и выше. Опыт работы с OpenCV, PyTorch\\. Базовые навыки администрирования Linux. ",
         "city": "Челябинск"
     },
     {
-        "name": "QA-инженер (frontend)",
-        "url": "https://hh.ru/vacancy/88628272",
+        "name": "Ведущий инженер-программист",
+        "url": "https://hh.ru/vacancy/90440572",
         "pay": null,
-        "requirement": "Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript, Java, Kotlin, <highlighttext>Python</highlighttext> или C#. Есть опыт работы с DevTools, снифферами трафика...",
+        "requirement": "Опыт разработки архитектурно сложных проектов на <highlighttext>Python</highlighttext>. Участие в хакатонах и соревнованиях по машинному обучению или компьютерному зрению (например, Kaggle...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Middle PHP Developer",
+        "url": "https://hh.ru/vacancy/90197795",
+        "pay": 100000,
+        "requirement": "PHP 8.1 (Symfony 5.4). <highlighttext>Python</highlighttext> 3.9 (Flask, RQ). Redis. Mysql. Docker. Supervisor.",
         "city": "Челябинск"
     },
     {
@@ -231,52 +154,10 @@
         "city": "Челябинск"
     },
     {
-        "name": "Главный специалист отдела импортозамещения (IT-специалист, системный администратор, тестировщик)",
-        "url": "https://hh.ru/vacancy/85004251",
-        "pay": 44300,
-        "requirement": "уметь писать скриптов на bash, <highlighttext>python</highlighttext>, ansible (уверенное владение bash). - работать с foreman, puppet, saltstack. - знать сервисы FreeIPA, Samba, DNS...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Программист C# / Разработчик Unity (Junior) (удаленная работа не рассматривается)",
-        "url": "https://hh.ru/vacancy/80340878",
-        "pay": 45000,
-        "requirement": "Опыт работы в Unity. Опыт программирования на C#. Знание принципов ООП. Знание математики и геометрии. Умение разбираться в чужом коде. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/89719579",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Педагог дополнительного образования по Программированию",
-        "url": "https://hh.ru/vacancy/87952963",
-        "pay": 40000,
-        "requirement": "Минимальный опыт работы с детьми. Знание ПК. Знание языков программирования <highlighttext>Python</highlighttext>, Arduino. Образование: оконченное техническое/педагогическое образование и/или студенты...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Программист / Преподаватель программирования для детей офлайн (подработка)",
-        "url": "https://hh.ru/vacancy/89186239",
+        "name": "Программист/разработчик баз данных",
+        "url": "https://hh.ru/vacancy/89888711",
         "pay": null,
-        "requirement": "модный, востребованный и актуальный продукт в сфере образования. - Транслирование программ Школа программирования для детей \"IT творчество\" по методическим пособиям и...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Инженер-программист АСУ ТП",
-        "url": "https://hh.ru/vacancy/89555760",
-        "pay": null,
-        "requirement": "Приветствуется опыт разработки на языках C, C++, C#, <highlighttext>Python</highlighttext>, VB и др.. Приветствуется опыт администрирования ОС Windows, AstraLinux. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89643042",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "requirement": "Опыт разработки АСУ ТП и работы со SCADA-системами. Знание языков для статистической обработки данных (R или <highlighttext>Python</highlighttext>). ",
         "city": "Челябинск"
     },
     {
@@ -287,38 +168,73 @@
         "city": "Челябинск"
     },
     {
-        "name": "QA-инженер (mobile)",
-        "url": "https://hh.ru/vacancy/88629272",
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/89789623",
         "pay": null,
-        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "requirement": "Владеете английским на уровне В1 и выше. Будет преимуществом: Умение автоматизировать рабочие процессы любыми средствами (<highlighttext>python</highlighttext>, ansible и пр.).",
         "city": "Челябинск"
     },
     {
-        "name": "Системный администратор Junior+",
-        "url": "https://hh.ru/vacancy/87323316",
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/90337385",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Системный администратор (Linux)",
+        "url": "https://hh.ru/vacancy/88582647",
+        "pay": 65000,
+        "requirement": "...систем виртуализации (Proxmox). Опыт работы с базой данных (PostgreSQL, MS SQL). Практический опыт администрирования Linux (Debian), написание скриптов (bash,<highlighttext>python</highlighttext>).",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Backend-разработчик (Golang)",
+        "url": "https://hh.ru/vacancy/90155992",
         "pay": null,
-        "requirement": "Опыт работы с серверным оборудованием различных производителей. Владение скриптовыми языками: bash, <highlighttext>python</highlighttext>. Знания клиентских ОС (Windows, Linux, Mac OS). ",
+        "requirement": "Умение работать с Docker. Технический английский. Опыт программирование на <highlighttext>Python</highlighttext>. Понимание REST сервисов и протоколов HTTP. Знакомство с технологиями аппаратной...",
         "city": "Челябинск"
     },
     {
-        "name": "DevOps Engineer",
-        "url": "https://hh.ru/vacancy/87564646",
+        "name": "Инженер-программист в Банк",
+        "url": "https://hh.ru/vacancy/88721505",
+        "pay": 100000,
+        "requirement": "отличное знание любого из современных языков программирования (Java, C#, <highlighttext>Python</highlighttext>, C++ и т.п.). - уверенное владение объектно-ориентированным подходом к...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Ведущий программист",
+        "url": "https://hh.ru/vacancy/90372590",
         "pay": null,
-        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> + Django (у нас почти все DevOps-сервисы. На <highlighttext>python</highlighttext>). Опыт работы с Ansible. Уверенное написание плейбуков...",
+        "requirement": "Высшее техническое образование. Знание платформы MS SQL, Analysis Services, Reporting Services, Power BI. Оптимальное написание запросов с точки зрения производительности. ",
         "city": "Челябинск"
     },
     {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89730882",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "name": "Главный специалист отдела импортозамещения (IT-специалист, системный администратор, тестировщик)",
+        "url": "https://hh.ru/vacancy/85004251",
+        "pay": 44300,
+        "requirement": "уметь писать скриптов на bash, <highlighttext>python</highlighttext>, ansible (уверенное владение bash). - работать с foreman, puppet, saltstack. - знать сервисы FreeIPA, Samba, DNS...",
         "city": "Челябинск"
     },
     {
-        "name": "QA Engineer для проектов на JS и Python",
-        "url": "https://hh.ru/vacancy/89846140",
-        "pay": 160000,
-        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/84864270",
+        "pay": null,
+        "requirement": "Высшее техническое или ИТ-образование. Опыт работы от 3 лет в аналогичной должности. Понимание методологий ITIL/ITSM. Опыт работы с...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Ведущий инженер-программист",
+        "url": "https://hh.ru/vacancy/88751142",
+        "pay": null,
+        "requirement": "Высшее профессиональное образование. Опыт работы от 3-х лет, наличие завершенных проектов. Знание языка С/С ++. Навыки проектирования ПО...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Главный инженер linux на проекты внедрения",
+        "url": "https://hh.ru/vacancy/90735575",
+        "pay": null,
+        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, perl, bash, javascript). Знание современных API и форматов данных. ",
         "city": "Челябинск"
     },
     {
@@ -329,45 +245,38 @@
         "city": "Челябинск"
     },
     {
-        "name": "Специалист по количественным исследованиям (middle+/senior)",
-        "url": "https://hh.ru/vacancy/86558454",
-        "pay": null,
-        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
+        "name": "QA Engineer (проекты на JS и Python)",
+        "url": "https://hh.ru/vacancy/86631892",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
         "city": "Челябинск"
     },
     {
-        "name": "Системный аналитик Web систем",
-        "url": "https://hh.ru/vacancy/69089056",
+        "name": "ML-инженер",
+        "url": "https://hh.ru/vacancy/84504741",
         "pay": null,
-        "requirement": "Будет плюсом: Знание JSON, XML, REST, HTTP. Опыт Web разработки (php, JS, <highlighttext>Python</highlighttext>, Go и другие). Представление о том, что...",
+        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
         "city": "Челябинск"
     },
     {
-        "name": "Продуктовый Аналитик (Middle)",
-        "url": "https://hh.ru/vacancy/89225882",
-        "pay": 80000,
-        "requirement": "Фронтенд-компетенция: Опыт с React.JS или аналогичными фреймворками. - <highlighttext>Python</highlighttext>-мastery: Продвинутое программирование и знание библиотек. - Agile-экспертиза: Понимание принципов гибкой...",
+        "name": "QA-инженер (frontend)",
+        "url": "https://hh.ru/vacancy/88628272",
+        "pay": null,
+        "requirement": "Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript, Java, Kotlin, <highlighttext>Python</highlighttext> или C#. Есть опыт работы с DevTools, снифферами трафика...",
         "city": "Челябинск"
     },
     {
-        "name": "Программист C# / Разработчик Unity (Middle/Senior) (удаленная работа не рассматривается)",
-        "url": "https://hh.ru/vacancy/80340923",
+        "name": "QA-инженер (mobile)",
+        "url": "https://hh.ru/vacancy/88629272",
         "pay": null,
-        "requirement": "Опыт работы в Unity. Опыт программирования на C#. Опыт работы с Git. Знание принципов ООП. Знание математики и геометрии. ",
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
         "city": "Челябинск"
     },
     {
-        "name": "Руководитель группы разработки (TeamLead)",
-        "url": "https://hh.ru/vacancy/89678459",
+        "name": "Site Reliability Engineer (SRE)",
+        "url": "https://hh.ru/vacancy/90054916",
         "pay": null,
-        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Системный администратор",
-        "url": "https://hh.ru/vacancy/86927850",
-        "pay": null,
-        "requirement": "Опыт работы с серверным оборудованием различных производителей. Владение скриптовыми языками: bash, <highlighttext>python</highlighttext>. Знания клиентских ОС (Windows, Linux, Mac OS). ",
+        "requirement": "Есть опыт работы c:",
         "city": "Челябинск"
     },
     {
@@ -378,10 +287,45 @@
         "city": "Челябинск"
     },
     {
-        "name": "Технический писатель в Runtime Cloud",
-        "url": "https://hh.ru/vacancy/89729325",
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/87564646",
         "pay": null,
-        "requirement": "Имеете опыт или представление об оркестрации сервисов, например знакомы с kubernetes. Знакомы с <highlighttext>Python</highlighttext>, C++ и другими языками программирования. ",
+        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> + Django (у нас почти все DevOps-сервисы. На <highlighttext>python</highlighttext>). Опыт работы с Ansible. Уверенное написание плейбуков...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Инженер-наставник по направлению \"Python\"",
+        "url": "https://hh.ru/vacancy/90545075",
+        "pay": 250000,
+        "requirement": "...примере <highlighttext>Python</highlighttext> и JavaScript. Приветствуется опыт создания паттернов проектирования, на примере паттерна MVC и WEB-Framework-а Django для <highlighttext>Python</highlighttext>. ",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Ведущий инженер по автоматизированным системам управления производством",
+        "url": "https://hh.ru/vacancy/90009552",
+        "pay": null,
+        "requirement": "...Языки программирования PHP, МЭК 61131-3 (LAD, ST, FBD), SQL, <highlighttext>Python</highlighttext>, PHP Знание специализированных программ CodeSYS, TIA Portal. ",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Системный аналитик Web систем",
+        "url": "https://hh.ru/vacancy/69089056",
+        "pay": null,
+        "requirement": "Будет плюсом: Знание JSON, XML, REST, HTTP. Опыт Web разработки (php, JS, <highlighttext>Python</highlighttext>, Go и другие). Представление о том, что...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Teamlead Scala/Java",
+        "url": "https://hh.ru/vacancy/87889800",
+        "pay": null,
+        "requirement": "Хорошее знание JAVA или Scala. Будет плюсом знание <highlighttext>python</highlighttext>. Желателен опыт работы с инструментами Hadoop инфраструктуры. Опыт управления командой разработчиков...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Программист C# / Разработчик Unity (Junior) (удаленная работа не рассматривается)",
+        "url": "https://hh.ru/vacancy/80340878",
+        "pay": 45000,
+        "requirement": "Опыт работы в Unity. Опыт программирования на C#. Знание принципов ООП. Знание математики и геометрии. Умение разбираться в чужом коде. ",
         "city": "Челябинск"
     },
     {
@@ -389,13 +333,6 @@
         "url": "https://hh.ru/vacancy/79002351",
         "pay": 35000,
         "requirement": "Backend: ASP.Net Core + С#, <highlighttext>Python</highlighttext>. Frontend: JavaScript + jQuery+Bootstrap, Apache Superset. SQL Data Base: PostgreSQL. Server platform: Linux +...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Ведущий инженер-программист",
-        "url": "https://hh.ru/vacancy/88751142",
-        "pay": null,
-        "requirement": "Высшее профессиональное образование. Опыт работы от 3-х лет, наличие завершенных проектов. Знание языка С/С ++. Навыки проектирования ПО...",
         "city": "Челябинск"
     },
     {
@@ -413,6 +350,27 @@
         "city": "Челябинск"
     },
     {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643042",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Руководитель группы разработки (TeamLead)",
+        "url": "https://hh.ru/vacancy/89678459",
+        "pay": null,
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
+        "city": "Челябинск"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/89719579",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Челябинск"
+    },
+    {
         "name": "Программист 1С (департамент программного обеспечения)",
         "url": "https://hh.ru/vacancy/78268106",
         "pay": null,
@@ -420,24 +378,24 @@
         "city": "Челябинск"
     },
     {
-        "name": "Teamlead Scala/Java",
-        "url": "https://hh.ru/vacancy/87889800",
+        "name": "Программист C# / Разработчик Unity (Middle/Senior) (удаленная работа не рассматривается)",
+        "url": "https://hh.ru/vacancy/80340923",
         "pay": null,
-        "requirement": "Хорошее знание JAVA или Scala. Будет плюсом знание <highlighttext>python</highlighttext>. Желателен опыт работы с инструментами Hadoop инфраструктуры. Опыт управления командой разработчиков...",
+        "requirement": "Опыт работы в Unity. Опыт программирования на C#. Опыт работы с Git. Знание принципов ООП. Знание математики и геометрии. ",
         "city": "Челябинск"
     },
     {
-        "name": "Руководитель группы разработки",
-        "url": "https://hh.ru/vacancy/89205640",
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558454",
         "pay": null,
-        "requirement": "Опыт в разработке более пяти лет. Опыт разработки backend. Знание C++ или <highlighttext>Python</highlighttext>. Опыт работы с реляционными базами данных. ",
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
         "city": "Челябинск"
     },
     {
-        "name": "QA Engineer (проекты на JS и Python)",
-        "url": "https://hh.ru/vacancy/86631892",
-        "pay": 160000,
-        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "name": "Преподаватель программирования для детей (удаленно)",
+        "url": "https://hh.ru/vacancy/90574675",
+        "pay": null,
+        "requirement": "Опыт создания компьютерных игр и преподавания информатики или программирования детям школьного возраста. Наличие ноутбука или ПК и быстрого стабильного интернета. ",
         "city": "Челябинск"
     },
     {
@@ -445,27 +403,6 @@
         "url": "https://hh.ru/vacancy/89003334",
         "pay": 100000,
         "requirement": "Желательно знание других современных языков программирования (C#, Java, <highlighttext>Python</highlighttext>). Умение читать и понимать чужой код. Ответственность, нацеленность на...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Ведущий техник-технолог (специалист по сопровождению ИС)",
-        "url": "https://hh.ru/vacancy/89439785",
-        "pay": null,
-        "requirement": "Преимуществом будет: Умение использования VBA Excel. Знание и опыт использования JavaScript, C#, <highlighttext>Python</highlighttext>. Знание и умение создавать решения базирующиеся на...",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Ведущий инженер по автоматизированным системам управления производством",
-        "url": "https://hh.ru/vacancy/90009552",
-        "pay": null,
-        "requirement": "...Языки программирования PHP, МЭК 61131-3 (LAD, ST, FBD), SQL, <highlighttext>Python</highlighttext>, PHP Знание специализированных программ CodeSYS, TIA Portal. ",
-        "city": "Челябинск"
-    },
-    {
-        "name": "Преподаватель информатики",
-        "url": "https://hh.ru/vacancy/89489096",
-        "pay": null,
-        "requirement": "Ответственность, пунктуальность, желание делиться знанием и опытом. Знание или опыт работы в одной из предметных областей в сфере компьютерных технологий. ",
         "city": "Челябинск"
     },
     {
