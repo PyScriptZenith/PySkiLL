@@ -17,7 +17,7 @@ class HH:
         :return: список словарей с вакансиями
         """
 
-        def get_data(page=0):
+        def get_data(page=1):
             """
             Внутрення функция - парсим данные о вакансиях постранично
             :param page: номер страницы
@@ -38,11 +38,13 @@ class HH:
             return self.response_json
 
         self.data_store = []
-
-        for page in range(0, 2):
+        total = 0
+        for page in range(0, 15):
             self.content = get_data(page)
             self.data_store.extend(self.content["items"])
+            total += 100
+
 
             print("Загружаются данные с hh.ru: 100 вакансий загружено")
-
+            print(f"ИТОГО {total}")
         return self.data_store

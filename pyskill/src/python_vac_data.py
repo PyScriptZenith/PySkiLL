@@ -68,7 +68,6 @@ python_hard_skills = [
     "mysql",
     "html",
     "clickhouse",
-    "javascript",
     "ansible",
     "gitlab",
     "kubernetes",
