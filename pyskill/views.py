@@ -51,7 +51,7 @@ class DispatchCreateView(CreateView):
 
         mail_to_send = form.cleaned_data["mail_to_send"]
 
-        subject = "Subject"
+        subject = "Аналитика PySkiLL"
 
         # Формируем html - версию письма с добавлением шаблонных переменных
 
