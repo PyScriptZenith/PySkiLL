@@ -1,0 +1,10 @@
+pyskill\src\parced_data\Вакансии python в г. Москва.json
+pyskill\src\parced_data\Вакансии python в г. Санкт-Петербург.json
+pyskill\src\parced_data\Вакансии python в г. Новосибирск.json
+pyskill\src\parced_data\Вакансии python в г. Екатеринбург.json
+pyskill\src\parced_data\Вакансии python в г. Казань.json
+pyskill\src\parced_data\Вакансии python в г. Нижний Новгород.json
+pyskill\src\parced_data\Вакансии python в г. Челябинск.json
+pyskill\src\parced_data\Вакансии python в г. Самара.json
+pyskill\src\parced_data\Вакансии python в г. Уфа.json
+pyskill\src\parced_data\Вакансии python в г. Ростов-на-Дону.json
