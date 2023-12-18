@@ -43,8 +43,6 @@ class HH:
             self.content = get_data(page)
             self.data_store.extend(self.content["items"])
             total += 100
-
-
             print("Загружаются данные с hh.ru: 100 вакансий загружено")
             print(f"ИТОГО {total}")
         return self.data_store

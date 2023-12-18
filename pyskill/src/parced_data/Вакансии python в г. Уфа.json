@@ -35,10 +35,10 @@
         "city": "Уфа"
     },
     {
-        "name": "Инженер-программист",
-        "url": "https://hh.ru/vacancy/89601527",
-        "pay": 70000,
-        "requirement": "Знание языка C/C++ (знание Assembler, C#, <highlighttext>Python</highlighttext> приветствуется). Знание теории автоматического управления, желателен опыт разработки цифровых фильтров и регуляторов. ",
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/84959845",
+        "pay": 125000,
+        "requirement": "Опыта разработки на <highlighttext>Python</highlighttext> или любом диалекте SQL. Способности чувствовать «красоту кода». Опыта командной разработки. Профильного (ИТ/инженерного) образования. ",
         "city": "Уфа"
     },
     {
@@ -56,17 +56,24 @@
         "city": "Уфа"
     },
     {
-        "name": "Программист Python",
-        "url": "https://hh.ru/vacancy/84959845",
-        "pay": 125000,
-        "requirement": "Опыта разработки на <highlighttext>Python</highlighttext> или любом диалекте SQL. Способности чувствовать «красоту кода». Опыта командной разработки. Профильного (ИТ/инженерного) образования. ",
-        "city": "Уфа"
-    },
-    {
         "name": "Руководитель направления разработки",
         "url": "https://hh.ru/vacancy/90649311",
         "pay": 355000,
         "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Ищем программиста в команду (Орджоникидзевский район, Черниковка)",
+        "url": "https://hh.ru/vacancy/90097886",
+        "pay": null,
+        "requirement": "Выпускников или в том числе студентов технических и\\или педагогических ВУЗов/ Техникумов / училищ (образование: техническое, математическое, физическое, информатика), любящих детей...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/90593739",
+        "pay": 80000,
+        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
         "city": "Уфа"
     },
     {
@@ -84,73 +91,10 @@
         "city": "Уфа"
     },
     {
-        "name": "Backend-разработчик Python",
-        "url": "https://hh.ru/vacancy/90593739",
-        "pay": 80000,
-        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Ищем программиста в команду (Орджоникидзевский район, Черниковка)",
-        "url": "https://hh.ru/vacancy/90097886",
-        "pay": null,
-        "requirement": "Выпускников или в том числе студентов технических и\\или педагогических ВУЗов/ Техникумов / училищ (образование: техническое, математическое, физическое, информатика), любящих детей...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Аналитик (системный аналитик)",
-        "url": "https://hh.ru/vacancy/88717315",
-        "pay": 60000,
-        "requirement": "Умение читать код (языки C, Bash, Perl, <highlighttext>Python</highlighttext>). Знание нотаций моделирования бизнес-процессов (UML, BPMN). Знание форматов XML, JSON. ",
-        "city": "Уфа"
-    },
-    {
         "name": "Программист-тестировщик (отдел автотестирования)",
         "url": "https://hh.ru/vacancy/88432661",
         "pay": 46000,
         "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Разработчик ботов на Twin",
-        "url": "https://hh.ru/vacancy/89835878",
-        "pay": null,
-        "requirement": "Желательно знание языка программирования <highlighttext>Python</highlighttext> / JavaScript и основных библиотек для работы с чат-ботами, таких как <highlighttext>python</highlighttext>-telegram-bot, Flask...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Дежурный прикладной администратор платформы Цифровой рубль",
-        "url": "https://hh.ru/vacancy/90499043",
-        "pay": null,
-        "requirement": "Опыт работы по сопровождению информационных систем банка от 2-х лет. Навык работы хотя бы с одним скриптовым языком (<highlighttext>Python</highlighttext>...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Программист 1С",
-        "url": "https://hh.ru/vacancy/90515099",
-        "pay": 50000,
-        "requirement": "Опыт разработки 1С (можно без опыта). Опыт ведения собственных проектов. Желательно знание других языков программирования и технологий.",
-        "city": "Уфа"
-    },
-    {
-        "name": "Специалист технической поддержки (АСУТП/SCADA) по направлению ПО MasterSCADA (МПС Софт)",
-        "url": "https://hh.ru/vacancy/90697414",
-        "pay": null,
-        "requirement": "Базовое знание одного или нескольких скриптовых языков программирования: <highlighttext>Python</highlighttext>, JavaScript, Lua и т.д. Опыт работы с архитектурой REST и...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Главный специалист отдела сбора и анализа информации СВА",
-        "url": "https://hh.ru/vacancy/90211029",
-        "pay": null,
-        "requirement": "Необходимо общее понимание базовых принципов администрирования сетей, операционных систем, серверов управления баз данных; знание или готовность освоить <highlighttext>Python</highlighttext> в контексте...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Программист JS",
-        "url": "https://hh.ru/vacancy/84959838",
-        "pay": 125000,
-        "requirement": "Умение читать чужой код. Знание SQL. Знание <highlighttext>Python</highlighttext> или другой язык (С++, Java). Опыт работы в команде. Готовность экспериментировать и...",
         "city": "Уфа"
     },
     {
@@ -161,10 +105,38 @@
         "city": "Уфа"
     },
     {
+        "name": "Разработчик ботов на Twin",
+        "url": "https://hh.ru/vacancy/89835878",
+        "pay": null,
+        "requirement": "Желательно знание языка программирования <highlighttext>Python</highlighttext> / JavaScript и основных библиотек для работы с чат-ботами, таких как <highlighttext>python</highlighttext>-telegram-bot, Flask...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Специалист технической поддержки (АСУТП/SCADA) по направлению ПО MasterSCADA (МПС Софт)",
+        "url": "https://hh.ru/vacancy/90697414",
+        "pay": null,
+        "requirement": "Базовое знание одного или нескольких скриптовых языков программирования: <highlighttext>Python</highlighttext>, JavaScript, Lua и т.д. Опыт работы с архитектурой REST и...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Программист JS",
+        "url": "https://hh.ru/vacancy/84959838",
+        "pay": 125000,
+        "requirement": "Умение читать чужой код. Знание SQL. Знание <highlighttext>Python</highlighttext> или другой язык (С++, Java). Опыт работы в команде. Готовность экспериментировать и...",
+        "city": "Уфа"
+    },
+    {
         "name": "Автотестировщик Python",
         "url": "https://hh.ru/vacancy/90536390",
         "pay": null,
         "requirement": "Знаешь язык <highlighttext>Python</highlighttext> (уровень не ниже Junior+). Владеешь технологиями и подходами, применяемыми для тестирования Desktop и Web-приложений. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Аналитик (системный аналитик)",
+        "url": "https://hh.ru/vacancy/88717315",
+        "pay": 60000,
+        "requirement": "Умение читать код (языки C, Bash, Perl, <highlighttext>Python</highlighttext>). Знание нотаций моделирования бизнес-процессов (UML, BPMN). Знание форматов XML, JSON. ",
         "city": "Уфа"
     },
     {
@@ -175,10 +147,31 @@
         "city": "Уфа"
     },
     {
+        "name": "Главный специалист отдела сбора и анализа информации СВА",
+        "url": "https://hh.ru/vacancy/90211029",
+        "pay": null,
+        "requirement": "Необходимо общее понимание базовых принципов администрирования сетей, операционных систем, серверов управления баз данных; знание или готовность освоить <highlighttext>Python</highlighttext> в контексте...",
+        "city": "Уфа"
+    },
+    {
         "name": "IT рекрутер",
         "url": "https://hh.ru/vacancy/90641147",
         "pay": 50000,
         "requirement": "Опыт точечного и потокового найма IT специалистов от 2 лет. Умение найти общий язык с нанимающим менеджером и подход к...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/87495327",
+        "pay": null,
+        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Программист 1С",
+        "url": "https://hh.ru/vacancy/90515099",
+        "pay": 50000,
+        "requirement": "Опыт разработки 1С (можно без опыта). Опыт ведения собственных проектов. Желательно знание других языков программирования и технологий.",
         "city": "Уфа"
     },
     {
@@ -196,10 +189,17 @@
         "city": "Уфа"
     },
     {
-        "name": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/87495327",
+        "name": "Специалист службы технической поддержки",
+        "url": "https://hh.ru/vacancy/89880737",
+        "pay": 60000,
+        "requirement": "Знание и опыт работы с git. Опыт написания скриптов (Shell, Perl, Bash, <highlighttext>Python</highlighttext>). Опыт работы с DevTools, Selenium WebDriver, Postman. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Дежурный прикладной администратор платформы Цифровой рубль",
+        "url": "https://hh.ru/vacancy/90499043",
         "pay": null,
-        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
+        "requirement": "Опыт работы по сопровождению информационных систем банка от 2-х лет. Навык работы хотя бы с одним скриптовым языком (<highlighttext>Python</highlighttext>...",
         "city": "Уфа"
     },
     {
@@ -217,31 +217,10 @@
         "city": "Уфа"
     },
     {
-        "name": "Администратор AD / DNS",
-        "url": "https://hh.ru/vacancy/77499953",
+        "name": "Business Data Engineer",
+        "url": "https://hh.ru/vacancy/90004500",
         "pay": null,
-        "requirement": "Опыт написания скриптов для автоматизации административных задач (Powershell, Bash, <highlighttext>Python</highlighttext>, и пр.). Опыт настройки и администрирования AD, DNS. ",
-        "city": "Уфа"
-    },
-    {
-        "name": "Программист Python",
-        "url": "https://hh.ru/vacancy/88509749",
-        "pay": null,
-        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 3х лет. Опыт работы с Django + DRF или другим фреймворком. Опыт разработки под...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Системный аналитик DWH",
-        "url": "https://hh.ru/vacancy/90004567",
-        "pay": null,
-        "requirement": "Имеете высшее техническое образование. Свободно владеете SQL. Имеете базовые знания ETL и проектирования DWH.",
-        "city": "Уфа"
-    },
-    {
-        "name": "Специалист службы технической поддержки",
-        "url": "https://hh.ru/vacancy/89880737",
-        "pay": 60000,
-        "requirement": "Знание и опыт работы с git. Опыт написания скриптов (Shell, Perl, Bash, <highlighttext>Python</highlighttext>). Опыт работы с DevTools, Selenium WebDriver, Postman. ",
+        "requirement": "Высшее техническое образование. Опыт работы с базами данных в качестве разработчика от 1 года. Свободное владение SQL. Опыт проектирования объектов...",
         "city": "Уфа"
     },
     {
@@ -252,34 +231,6 @@
         "city": "Уфа"
     },
     {
-        "name": "ML-инженер",
-        "url": "https://hh.ru/vacancy/80321762",
-        "pay": null,
-        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Business Data Engineer",
-        "url": "https://hh.ru/vacancy/90004500",
-        "pay": null,
-        "requirement": "Высшее техническое образование. Опыт работы с базами данных в качестве разработчика от 1 года. Свободное владение SQL. Опыт проектирования объектов...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Лингвист-аналитик в команду чат-бота",
-        "url": "https://hh.ru/vacancy/89776601",
-        "pay": null,
-        "requirement": "Образование: среднее профессиональное/высшее. Опыт работы от 1 года по направлению лингвист-разработчик/лингвист-аналитик/компьютерный лингвист чат-бота, предпочтение...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/90337383",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Уфа"
-    },
-    {
         "name": "Системный администратор",
         "url": "https://hh.ru/vacancy/88193645",
         "pay": 35000,
@@ -287,24 +238,24 @@
         "city": "Уфа"
     },
     {
-        "name": "Администратор систем информационной безопасности",
-        "url": "https://hh.ru/vacancy/87263422",
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/88509749",
         "pay": null,
-        "requirement": "Опыт работы с сетевыми системами безопасности: WAF, NGFW, защиты от DDoS. Навык написания скриптов (bash, powershell, <highlighttext>python</highlighttext>). Наличие сертификатов по...",
+        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 3х лет. Опыт работы с Django + DRF или другим фреймворком. Опыт разработки под...",
         "city": "Уфа"
     },
     {
-        "name": "Senior backend developer",
-        "url": "https://hh.ru/vacancy/84959827",
-        "pay": 250000,
-        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+        "name": "Администратор AD / DNS",
+        "url": "https://hh.ru/vacancy/77499953",
+        "pay": null,
+        "requirement": "Опыт написания скриптов для автоматизации административных задач (Powershell, Bash, <highlighttext>Python</highlighttext>, и пр.). Опыт настройки и администрирования AD, DNS. ",
         "city": "Уфа"
     },
     {
-        "name": "Ведущий тестировщик (QA-инженер)",
-        "url": "https://hh.ru/vacancy/80433705",
-        "pay": 60000,
-        "requirement": "Знание хотя бы одного из языков программирования: c#, javascript, <highlighttext>python</highlighttext>, java. Умение работать в командной строке Windows/Linux и написания...",
+        "name": "Системный аналитик DWH",
+        "url": "https://hh.ru/vacancy/90004567",
+        "pay": null,
+        "requirement": "Имеете высшее техническое образование. Свободно владеете SQL. Имеете базовые знания ETL и проектирования DWH.",
         "city": "Уфа"
     },
     {
@@ -315,10 +266,17 @@
         "city": "Уфа"
     },
     {
-        "name": "Главный инженер отдела сопровождения интеграционных платформ",
-        "url": "https://hh.ru/vacancy/90287604",
+        "name": "ML-инженер",
+        "url": "https://hh.ru/vacancy/80321762",
         "pay": null,
-        "requirement": "Опыт работы по сопровождению информационных систем банка от 2-х лет. Навык работы хотя бы с одним скриптовым языком (<highlighttext>Python</highlighttext>...",
+        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Senior backend developer",
+        "url": "https://hh.ru/vacancy/84959827",
+        "pay": 250000,
+        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
         "city": "Уфа"
     },
     {
@@ -329,8 +287,22 @@
         "city": "Уфа"
     },
     {
+        "name": "Лингвист-аналитик в команду чат-бота",
+        "url": "https://hh.ru/vacancy/89776601",
+        "pay": null,
+        "requirement": "Образование: среднее профессиональное/высшее. Опыт работы от 1 года по направлению лингвист-разработчик/лингвист-аналитик/компьютерный лингвист чат-бота, предпочтение...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Администратор систем информационной безопасности",
+        "url": "https://hh.ru/vacancy/87263422",
+        "pay": null,
+        "requirement": "Опыт работы с сетевыми системами безопасности: WAF, NGFW, защиты от DDoS. Навык написания скриптов (bash, powershell, <highlighttext>python</highlighttext>). Наличие сертификатов по...",
+        "city": "Уфа"
+    },
+    {
         "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/86173323",
+        "url": "https://hh.ru/vacancy/90337383",
         "pay": 200000,
         "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
         "city": "Уфа"
@@ -343,10 +315,94 @@
         "city": "Уфа"
     },
     {
-        "name": "Инженер-геофизик (инженерные изыскания)",
-        "url": "https://hh.ru/vacancy/89617007",
-        "pay": 80000,
-        "requirement": "...Surfer, AutoCAD, GOSS, DeepSoil 7, ВОСТОК-2016. Приветствуется знание QGIS, <highlighttext>Python</highlighttext>. Готовы рассматривать кандидатов и с меньшим опытом работ, однако...",
+        "name": "Инженер-тестировщик (наладка и испытания) АСУ ТП",
+        "url": "https://hh.ru/vacancy/87754393",
+        "pay": 90000,
+        "requirement": "Знание Linux. Знание одного из языков C/C++, C#, Pascal, <highlighttext>python</highlighttext>, java, Delphi. Опыт работы с одним из вендоров ПЛК...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Главный инженер отдела сопровождения интеграционных платформ",
+        "url": "https://hh.ru/vacancy/90287604",
+        "pay": null,
+        "requirement": "Опыт работы по сопровождению информационных систем банка от 2-х лет. Навык работы хотя бы с одним скриптовым языком (<highlighttext>Python</highlighttext>...",
+        "city": "Уфа"
+    },
+    {
+        "name": "ML инженер (middle, middle+)",
+        "url": "https://hh.ru/vacancy/87636628",
+        "pay": null,
+        "requirement": "Знание и опыт работы с профессиональными видеокартами, такими как NVIDIA Pascal, NVIDIA Volta, NVIDIA Ampere. Знание <highlighttext>Python</highlighttext> (numpy, pandas, tensorflow...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Старший специалист информационной безопасности",
+        "url": "https://hh.ru/vacancy/90026134",
+        "pay": 150000,
+        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
+        "city": "Уфа"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/87385416",
+        "pay": null,
+        "requirement": "Опыт работы с TeamCity (понимание принципов, создание и редактирование сборочных конфигураций). Знакомство с Ant/Ivy, <highlighttext>Python</highlighttext> 3, сборкой Deb-пакетов...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Разработчик программного обеспечения (Javascript)",
+        "url": "https://hh.ru/vacancy/89792693",
+        "pay": null,
+        "requirement": "<highlighttext>Python</highlighttext> 3.6 (+ Celery, Falcon, Django, uWSGI). Знание основных структур данных и алгоритмов обработки данных. Опыт разработки frontend и...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Ведущий тестировщик (QA-инженер)",
+        "url": "https://hh.ru/vacancy/80433705",
+        "pay": 60000,
+        "requirement": "Знание хотя бы одного из языков программирования: c#, javascript, <highlighttext>python</highlighttext>, java. Умение работать в командной строке Windows/Linux и написания...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/89719587",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Golang Developer (Уфа)",
+        "url": "https://hh.ru/vacancy/90072314",
+        "pay": 179500,
+        "requirement": "Уверенно знаете Go. Понимаете, что такое ООП, шаблоны проектирования. Знакомы с основными алгоритмами, структурами данных. Понимаете необходимости и умение покрывать...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Golang developer",
+        "url": "https://hh.ru/vacancy/89681826",
+        "pay": null,
+        "requirement": "Знаете, кроме Go, еще хотя бы один из языков программирования <highlighttext>Python</highlighttext>, Java, C++. Имеете углубленные знания по устройству СУБД PostgreSQL...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/86173323",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Руководитель направления по интегрированному моделированию",
+        "url": "https://hh.ru/vacancy/87446445",
+        "pay": null,
+        "requirement": "Опыт автоматизации рабочих процессов средствами WF в Resolve и в среде программирования <highlighttext>Python</highlighttext>. Опыт работы с ГДМ в рамках интегрированной...",
+        "city": "Уфа"
+    },
+    {
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558458",
+        "pay": null,
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
         "city": "Уфа"
     },
     {
@@ -364,66 +420,10 @@
         "city": "Уфа"
     },
     {
-        "name": "Инженер-тестировщик (наладка и испытания) АСУ ТП",
-        "url": "https://hh.ru/vacancy/87754393",
-        "pay": 90000,
-        "requirement": "Знание Linux. Знание одного из языков C/C++, C#, Pascal, <highlighttext>python</highlighttext>, java, Delphi. Опыт работы с одним из вендоров ПЛК...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Golang developer",
-        "url": "https://hh.ru/vacancy/89681826",
-        "pay": null,
-        "requirement": "Знаете, кроме Go, еще хотя бы один из языков программирования <highlighttext>Python</highlighttext>, Java, C++. Имеете углубленные знания по устройству СУБД PostgreSQL...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Golang Developer (Уфа)",
-        "url": "https://hh.ru/vacancy/90072314",
-        "pay": 179500,
-        "requirement": "Уверенно знаете Go. Понимаете, что такое ООП, шаблоны проектирования. Знакомы с основными алгоритмами, структурами данных. Понимаете необходимости и умение покрывать...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Старший специалист информационной безопасности",
-        "url": "https://hh.ru/vacancy/90026134",
-        "pay": 150000,
-        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
-        "city": "Уфа"
-    },
-    {
         "name": "Руководитель направления Дирекции управления рисками информационной безопасности",
         "url": "https://hh.ru/vacancy/90148117",
         "pay": null,
         "requirement": "...и корпоративных баз данных (Oracle, MS SQL, PostgreSQL). Имеешь навыки построения запросов на языке SQL. Имеешь навыки программирования (<highlighttext>Python</highlighttext>, Java).",
-        "city": "Уфа"
-    },
-    {
-        "name": "ML инженер (middle, middle+)",
-        "url": "https://hh.ru/vacancy/87636628",
-        "pay": null,
-        "requirement": "Знание и опыт работы с профессиональными видеокартами, такими как NVIDIA Pascal, NVIDIA Volta, NVIDIA Ampere. Знание <highlighttext>Python</highlighttext> (numpy, pandas, tensorflow...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Руководитель направления по интегрированному моделированию",
-        "url": "https://hh.ru/vacancy/87446445",
-        "pay": null,
-        "requirement": "Опыт автоматизации рабочих процессов средствами WF в Resolve и в среде программирования <highlighttext>Python</highlighttext>. Опыт работы с ГДМ в рамках интегрированной...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/89719587",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Уфа"
-    },
-    {
-        "name": "Разработчик программного обеспечения (Javascript)",
-        "url": "https://hh.ru/vacancy/89792693",
-        "pay": null,
-        "requirement": "<highlighttext>Python</highlighttext> 3.6 (+ Celery, Falcon, Django, uWSGI). Знание основных структур данных и алгоритмов обработки данных. Опыт разработки frontend и...",
         "city": "Уфа"
     },
     {
@@ -441,17 +441,17 @@
         "city": "Уфа"
     },
     {
+        "name": "Ведущий инженер-программист АСУ ТП",
+        "url": "https://hh.ru/vacancy/53942340",
+        "pay": 100000,
+        "requirement": "Знание и понимание принципов ООП – будет плюсом. Знание одного из языков C#, <highlighttext>Python</highlighttext> – будет плюсом. Владение Linux - будет плюсом. ",
+        "city": "Уфа"
+    },
+    {
         "name": "Преподаватель по программированию",
         "url": "https://hh.ru/vacancy/90557546",
         "pay": 30000,
         "requirement": "Интерес к компьютерным технологиям. Навыки работы по программированию на языках Scratch, <highlighttext>Python</highlighttext>, C++. Умение работать с детьми. - получение опыта работы. - ",
-        "city": "Уфа"
-    },
-    {
-        "name": "DevOps-инженер",
-        "url": "https://hh.ru/vacancy/87385416",
-        "pay": null,
-        "requirement": "Опыт работы с TeamCity (понимание принципов, создание и редактирование сборочных конфигураций). Знакомство с Ant/Ivy, <highlighttext>Python</highlighttext> 3, сборкой Deb-пакетов...",
         "city": "Уфа"
     },
     {
@@ -469,38 +469,17 @@
         "city": "Уфа"
     },
     {
+        "name": "QA Engineer для проектов на JS и Python",
+        "url": "https://hh.ru/vacancy/85936808",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
+        "city": "Уфа"
+    },
+    {
         "name": "Программист ReactJS/Django (Наставническая деятельность)",
         "url": "https://hh.ru/vacancy/90592161",
         "pay": 150000,
         "requirement": "...а Django для <highlighttext>Python</highlighttext>. Приветствуется опыт создания переиспользуемых библиотек и модулей для ускорения разработки, на примере <highlighttext>Python</highlighttext>/pip и создание...",
-        "city": "Уфа"
-    },
-    {
-        "name": "Ведущий инженер-программист АСУ ТП",
-        "url": "https://hh.ru/vacancy/53942340",
-        "pay": 100000,
-        "requirement": "Знание и понимание принципов ООП – будет плюсом. Знание одного из языков C#, <highlighttext>Python</highlighttext> – будет плюсом. Владение Linux - будет плюсом. ",
-        "city": "Уфа"
-    },
-    {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89643041",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
-        "city": "Уфа"
-    },
-    {
-        "name": "Специалист по количественным исследованиям (middle+/senior)",
-        "url": "https://hh.ru/vacancy/86558458",
-        "pay": null,
-        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
-        "city": "Уфа"
-    },
-    {
-        "name": "Репетитор по информатике (удаленно)",
-        "url": "https://hh.ru/vacancy/85042790",
-        "pay": null,
-        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
         "city": "Уфа"
     },
     {
@@ -511,10 +490,17 @@
         "city": "Уфа"
     },
     {
-        "name": "Физик-исследователь/научный сотрудник",
-        "url": "https://hh.ru/vacancy/90068175",
-        "pay": 120000,
-        "requirement": "Знание в области обработки аналоговых сигналов. Знание и опыт программирования (VB, <highlighttext>Python</highlighttext>, C, C++) с ориентацией на построение математических моделей...",
+        "name": "QA-инженер (mobile)",
+        "url": "https://hh.ru/vacancy/87577969",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Репетитор по информатике (удаленно)",
+        "url": "https://hh.ru/vacancy/85042790",
+        "pay": null,
+        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
         "city": "Уфа"
     },
     {
@@ -525,17 +511,10 @@
         "city": "Уфа"
     },
     {
-        "name": "QA Engineer для проектов на JS и Python",
-        "url": "https://hh.ru/vacancy/85936808",
-        "pay": 160000,
-        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
-        "city": "Уфа"
-    },
-    {
-        "name": "QA-инженер (mobile)",
-        "url": "https://hh.ru/vacancy/87577969",
-        "pay": null,
-        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643041",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
         "city": "Уфа"
     },
     {
@@ -557,6 +536,13 @@
         "url": "https://hh.ru/vacancy/90299954",
         "pay": null,
         "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
+        "city": "Уфа"
+    },
+    {
+        "name": "Физик-исследователь/научный сотрудник",
+        "url": "https://hh.ru/vacancy/90068175",
+        "pay": 120000,
+        "requirement": "Знание в области обработки аналоговых сигналов. Знание и опыт программирования (VB, <highlighttext>Python</highlighttext>, C, C++) с ориентацией на построение математических моделей...",
         "city": "Уфа"
     },
     {
