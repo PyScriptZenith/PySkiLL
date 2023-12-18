@@ -1,16 +1,16 @@
 [
     {
-        "name": "Junior Frontend (удалённо) (React)",
+        "name": "Web Designer (удалённо) (UI/UX)",
         "url": "https://hh.ru/vacancy/90699973",
         "pay": null,
-        "requirement": "Знание основ HTML, CSS, опыт программирования от 2х лет (2 года обучения). Знание React.js, Next.js, SCSS/SASS от 1...",
+        "requirement": "Опыт работы дизайнером веб интерфейсов больше 2х лет. Продвинутое владение Figma/SketchPhotoshop/Illustrator. Уверенное знание основ дизайна (типографики, работы...",
         "city": "Казань"
     },
     {
-        "name": "Data scientist, Pyhon AI(Pytorch) junior",
-        "url": "https://hh.ru/vacancy/90142298",
-        "pay": null,
-        "requirement": "Хороший вариант, чтобы потом использовать это в курсовой или дипломной работе или показать, как практический опыт при устройстве в крупные...",
+        "name": "Backend разработчик Python (удалённо)",
+        "url": "https://hh.ru/vacancy/90772400",
+        "pay": 70000,
+        "requirement": "Опыт работы не менее 2 лет в области <highlighttext>Python</highlighttext>-разработки. Навыки написания эффективных и надежных скриптов на <highlighttext>Python</highlighttext>. ",
         "city": "Казань"
     },
     {
@@ -21,10 +21,24 @@
         "city": "Казань"
     },
     {
+        "name": "Data scientist, Pyhon AI(Pytorch) junior",
+        "url": "https://hh.ru/vacancy/90142298",
+        "pay": null,
+        "requirement": "Хороший вариант, чтобы потом использовать это в курсовой или дипломной работе или показать, как практический опыт при устройстве в крупные...",
+        "city": "Казань"
+    },
+    {
         "name": "Junior Python Odoo Framework разработчик",
         "url": "https://hh.ru/vacancy/90602275",
         "pay": null,
         "requirement": "Знание языка программирования <highlighttext>Python</highlighttext>. Понимание бизнес-процессов, построение логической цепочки действий. Умение декомпозировать последовательность процессов и участвующие объекты. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/89562533",
+        "pay": null,
+        "requirement": "Не менее 2 лет опыта в разработке на <highlighttext>Python</highlighttext>, включая работу с различными типами проектов (back-end, data-specific / etl...",
         "city": "Казань"
     },
     {
@@ -42,38 +56,10 @@
         "city": "Казань"
     },
     {
-        "name": "Python developer",
-        "url": "https://hh.ru/vacancy/89562533",
-        "pay": null,
-        "requirement": "Не менее 2 лет опыта в разработке на <highlighttext>Python</highlighttext>, включая работу с различными типами проектов (back-end, data-specific / etl...",
-        "city": "Казань"
-    },
-    {
         "name": "Аналитик SQL",
         "url": "https://hh.ru/vacancy/90474489",
         "pay": 90000,
         "requirement": "Обязательное наличие релевантного опыта работы от 2 лет. Преимущественные сферы опыта работы: телеком, банки, фармацевтика. Обязательные навыки: SQL, развитое критическое...",
-        "city": "Казань"
-    },
-    {
-        "name": "Программист - разработчик Telegram-ботов",
-        "url": "https://hh.ru/vacancy/89637915",
-        "pay": null,
-        "requirement": "Умение писать код на любом из языков. Главное, чтобы бот работал быстро и оперативно фиксились баги. Умение заранее обозначить возможную...",
-        "city": "Казань"
-    },
-    {
-        "name": "JavaScript-разработчик (TypeScript)",
-        "url": "https://hh.ru/vacancy/90019709",
-        "pay": null,
-        "requirement": "Понимание работы фронтенд части веб-приложений. Знание TypeScript, NodeJS, <highlighttext>Python</highlighttext>. Умение разбираться в чужом коде. Опыт работы в команде. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик данных (Data Scientist)",
-        "url": "https://hh.ru/vacancy/90656440",
-        "pay": null,
-        "requirement": "Уверенные знания мат. статистики, теории вероятности, моделирование. Опыт работы с <highlighttext>Python</highlighttext>, NumPy, Pandas, sklearn. Владение техниками и алгоритмами машинного обучения. ",
         "city": "Казань"
     },
     {
@@ -84,17 +70,17 @@
         "city": "Казань"
     },
     {
-        "name": "Инженер сопровождения IT инфраструктуры",
-        "url": "https://hh.ru/vacancy/88919221",
+        "name": "Аналитик данных (Data Scientist)",
+        "url": "https://hh.ru/vacancy/90656440",
         "pay": null,
-        "requirement": "Будет плюсом умение работать:",
+        "requirement": "Уверенные знания мат. статистики, теории вероятности, моделирование. Опыт работы с <highlighttext>Python</highlighttext>, NumPy, Pandas, sklearn. Владение техниками и алгоритмами машинного обучения. ",
         "city": "Казань"
     },
     {
-        "name": "Middle Python разработчик",
-        "url": "https://hh.ru/vacancy/90520696",
-        "pay": 140000,
-        "requirement": "Опыт разработки от 1 года и более. - Знание и опыт работы с FastAPI, SQLAlchemy 2, Pydantic 2, Alembic, Aiogram. - ",
+        "name": "Программист - разработчик Telegram-ботов",
+        "url": "https://hh.ru/vacancy/89637915",
+        "pay": null,
+        "requirement": "Умение писать код на любом из языков. Главное, чтобы бот работал быстро и оперативно фиксились баги. Умение заранее обозначить возможную...",
         "city": "Казань"
     },
     {
@@ -102,6 +88,20 @@
         "url": "https://hh.ru/vacancy/87618021",
         "pay": null,
         "requirement": "Опыт работы в качестве бэкенд разработчика на <highlighttext>Python</highlighttext> от 2-х лет. Понимание принципов межсистемных интеграций (API, message broker, integration...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер сопровождения IT инфраструктуры",
+        "url": "https://hh.ru/vacancy/88919221",
+        "pay": null,
+        "requirement": "Будет плюсом умение работать:",
+        "city": "Казань"
+    },
+    {
+        "name": "JavaScript-разработчик (TypeScript)",
+        "url": "https://hh.ru/vacancy/90019709",
+        "pay": null,
+        "requirement": "Понимание работы фронтенд части веб-приложений. Знание TypeScript, NodeJS, <highlighttext>Python</highlighttext>. Умение разбираться в чужом коде. Опыт работы в команде. ",
         "city": "Казань"
     },
     {
@@ -119,10 +119,10 @@
         "city": "Казань"
     },
     {
-        "name": "Python-программист (Python backend developer)",
-        "url": "https://hh.ru/vacancy/90456437",
-        "pay": 100000,
-        "requirement": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. ",
+        "name": "Аналитик данных / Data scientist",
+        "url": "https://hh.ru/vacancy/83570628",
+        "pay": null,
+        "requirement": "Опыт работы от 3-х лет. Знание алгоритмов анализа больших массивов данных. Знание <highlighttext>Python</highlighttext> (pandas, графические библиотеки), SQL. ",
         "city": "Казань"
     },
     {
@@ -130,6 +130,20 @@
         "url": "https://hh.ru/vacancy/90542379",
         "pay": null,
         "requirement": "Знание десктопных ГИС (QGIS, Mapinfo), опыт работы с инструментами анализа и обработки пространственных данных (GDAL, Grass, <highlighttext>python</highlighttext> или R). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Специалист технической поддержки (python,sql)",
+        "url": "https://hh.ru/vacancy/89668614",
+        "pay": 45000,
+        "requirement": "Желание обучаться и развивать свои навыки в следующих областях: разработка на <highlighttext>python</highlighttext>, разработка на sql, разворачивание приложений в Kubernetes, администрирование...",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle Python разработчик",
+        "url": "https://hh.ru/vacancy/90520696",
+        "pay": 140000,
+        "requirement": "Опыт разработки от 1 года и более. - Знание и опыт работы с FastAPI, SQLAlchemy 2, Pydantic 2, Alembic, Aiogram. - ",
         "city": "Казань"
     },
     {
@@ -147,41 +161,6 @@
         "city": "Казань"
     },
     {
-        "name": "Аналитик данных / Data scientist",
-        "url": "https://hh.ru/vacancy/83570628",
-        "pay": null,
-        "requirement": "Опыт работы от 3-х лет. Знание алгоритмов анализа больших массивов данных. Знание <highlighttext>Python</highlighttext> (pandas, графические библиотеки), SQL. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный программист (Junior Python developer)",
-        "url": "https://hh.ru/vacancy/90111159",
-        "pay": null,
-        "requirement": "Образование: Высшее (бакалавриат / магистратура/ аспирантура)/повышение квалификации. Желательно geo pandas. ООП. Понимание, что такое качество кода. Будет преимуществом: Опыт работы...",
-        "city": "Казань"
-    },
-    {
-        "name": "Специалист технической поддержки (python,sql)",
-        "url": "https://hh.ru/vacancy/89668614",
-        "pay": 45000,
-        "requirement": "Желание обучаться и развивать свои навыки в следующих областях: разработка на <highlighttext>python</highlighttext>, разработка на sql, разворачивание приложений в Kubernetes, администрирование...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик",
-        "url": "https://hh.ru/vacancy/90288268",
-        "pay": null,
-        "requirement": "...с большим количеством заказчиков и пользователей отчетности). Обязательное владение Excel и SQL на высоком уровне. Желательно Power BI. <highlighttext>Python</highlighttext> приветствуется.",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель отдела испытаний",
-        "url": "https://hh.ru/vacancy/90568369",
-        "pay": 120000,
-        "requirement": "Знания языков программирования С++, <highlighttext>Python</highlighttext>, опыт работы с Git. Опыт в проектировании, наладке, эксплуатации АСУ ТП. Личные качества: исполнительность, ответственность...",
-        "city": "Казань"
-    },
-    {
         "name": "Data Scientist",
         "url": "https://hh.ru/vacancy/87400111",
         "pay": null,
@@ -196,10 +175,17 @@
         "city": "Казань"
     },
     {
-        "name": "Системный аналитик DWH (junior/middle)",
-        "url": "https://hh.ru/vacancy/90480080",
+        "name": "Системный программист (Junior Python developer)",
+        "url": "https://hh.ru/vacancy/90111159",
         "pay": null,
-        "requirement": "Знание базовых алгоритмов и структур данных. Понимание REST, SOAP. Аналитические навыки.​​​​​​​. Знание <highlighttext>Python</highlighttext>. Понимание терминологии нефтяной промышленности. Знание основных показателей...",
+        "requirement": "Образование: Высшее (бакалавриат / магистратура/ аспирантура)/повышение квалификации. Желательно geo pandas. ООП. Понимание, что такое качество кода. Будет преимуществом: Опыт работы...",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель отдела испытаний",
+        "url": "https://hh.ru/vacancy/90568369",
+        "pay": 120000,
+        "requirement": "Знания языков программирования С++, <highlighttext>Python</highlighttext>, опыт работы с Git. Опыт в проектировании, наладке, эксплуатации АСУ ТП. Личные качества: исполнительность, ответственность...",
         "city": "Казань"
     },
     {
@@ -210,87 +196,17 @@
         "city": "Казань"
     },
     {
-        "name": "Системный администратор",
-        "url": "https://hh.ru/vacancy/90029140",
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/90288268",
+        "pay": null,
+        "requirement": "...с большим количеством заказчиков и пользователей отчетности). Обязательное владение Excel и SQL на высоком уровне. Желательно Power BI. <highlighttext>Python</highlighttext> приветствуется.",
+        "city": "Казань"
+    },
+    {
+        "name": "Python-программист (Python backend developer)",
+        "url": "https://hh.ru/vacancy/90456437",
         "pay": 100000,
-        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик качества данных",
-        "url": "https://hh.ru/vacancy/89737088",
-        "pay": null,
-        "requirement": "Логическое мышление, аналитический склад ума, внимание к деталям. Знания ETL, <highlighttext>Python</highlighttext> (приветствуется). Опыт работы с AirFlow (не обязательно). ",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик SQL",
-        "url": "https://hh.ru/vacancy/86119988",
-        "pay": null,
-        "requirement": "Высшее образование по профилю IT/математика. Знание MS SQL, <highlighttext>Python</highlighttext>, MS Excel. Опыт анализа большого объема данных, умение делать выводы. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Data-Engineer",
-        "url": "https://hh.ru/vacancy/90545464",
-        "pay": null,
-        "requirement": "Умение общаться с бизнес-аналитиками. Говорить просто о сложном. Умение предложить свой вариант решения задачи, если такое требуется. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Senior Python разработчик",
-        "url": "https://hh.ru/vacancy/90520633",
-        "pay": 300000,
-        "requirement": "Опыт разработки от 3 лет. - Знание и опыт работы с FastAPI, SQLAlchemy 2, Pydantic 2, Alembic, Aiogram. - Опыт работы с...",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель направления разработки",
-        "url": "https://hh.ru/vacancy/90649310",
-        "pay": 355000,
-        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
-        "city": "Казань"
-    },
-    {
-        "name": "Программист",
-        "url": "https://hh.ru/vacancy/90389742",
-        "pay": 30000,
-        "requirement": "Опыт работы в сфере ИТ. Грамотная и четкая речь, умение объяснять материал и обучать практическим навыкам владения программными средствами. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Data инженер",
-        "url": "https://hh.ru/vacancy/89698141",
-        "pay": 250000,
-        "requirement": "Опыт работы с Airflow / Oozie или другими планировщиками и оркестраторами. Опыт разработки на <highlighttext>Python</highlighttext> / Java / Scala. Опыт работы с Kafka...",
-        "city": "Казань"
-    },
-    {
-        "name": "Backend-разработчик Python",
-        "url": "https://hh.ru/vacancy/90593735",
-        "pay": 80000,
-        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
-        "city": "Казань"
-    },
-    {
-        "name": "Программист С/С++ Embedded",
-        "url": "https://hh.ru/vacancy/90478981",
-        "pay": 120000,
-        "requirement": "Знание языков C, C++, <highlighttext>Python</highlighttext> 3. Знание Linux систем (встраиваемых систем в микроконтроллеры). Опыт разработки под микроконтроллеры.",
-        "city": "Казань"
-    },
-    {
-        "name": "Риск-менеджер (Валидация)",
-        "url": "https://hh.ru/vacancy/90691427",
-        "pay": null,
-        "requirement": "Высшее техническое/экономическое образование. Знания в области математической статистики и машинного обучения. Знание <highlighttext>Python</highlighttext>, SQL. Опыт работы необязателен.",
-        "city": "Казань"
-    },
-    {
-        "name": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/90341644",
-        "pay": null,
-        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 3-х лет. Уверенное знание языка и библиотек <highlighttext>Python</highlighttext> 3.6+. Опыт работы с...",
+        "requirement": "Отличные знания <highlighttext>Python</highlighttext>. Опыт работы с библиотеками: Fast API, HttpX Asyncio, Pydantic, LangChain. Знания и опыт работы с Mongo DB. ",
         "city": "Казань"
     },
     {
@@ -301,17 +217,66 @@
         "city": "Казань"
     },
     {
-        "name": "Python разработчик",
-        "url": "https://hh.ru/vacancy/85594713",
-        "pay": null,
-        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
+        "name": "Data инженер",
+        "url": "https://hh.ru/vacancy/89698141",
+        "pay": 250000,
+        "requirement": "Опыт работы с Airflow / Oozie или другими планировщиками и оркестраторами. Опыт разработки на <highlighttext>Python</highlighttext> / Java / Scala. Опыт работы с Kafka...",
         "city": "Казань"
     },
     {
-        "name": "QA-инженер в команду Movika",
-        "url": "https://hh.ru/vacancy/88817707",
+        "name": "Data-Engineer",
+        "url": "https://hh.ru/vacancy/90545464",
         "pay": null,
-        "requirement": "Знакомы с основами веб-технологий и теорией тестирования. Базово знаете <highlighttext>Python</highlighttext>. Тестировали API (Postman, Insomnia, DevTools, снифферы) и микросервисную архитектуру. ",
+        "requirement": "Умение общаться с бизнес-аналитиками. Говорить просто о сложном. Умение предложить свой вариант решения задачи, если такое требуется. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Программист",
+        "url": "https://hh.ru/vacancy/90389742",
+        "pay": 30000,
+        "requirement": "Опыт работы в сфере ИТ. Грамотная и четкая речь, умение объяснять материал и обучать практическим навыкам владения программными средствами. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик качества данных",
+        "url": "https://hh.ru/vacancy/89737088",
+        "pay": null,
+        "requirement": "Логическое мышление, аналитический склад ума, внимание к деталям. Знания ETL, <highlighttext>Python</highlighttext> (приветствуется). Опыт работы с AirFlow (не обязательно). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель направления разработки",
+        "url": "https://hh.ru/vacancy/90649310",
+        "pay": 355000,
+        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/90029140",
+        "pay": 100000,
+        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик SQL",
+        "url": "https://hh.ru/vacancy/86119988",
+        "pay": null,
+        "requirement": "Высшее образование по профилю IT/математика. Знание MS SQL, <highlighttext>Python</highlighttext>, MS Excel. Опыт анализа большого объема данных, умение делать выводы. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный аналитик DWH (junior/middle)",
+        "url": "https://hh.ru/vacancy/90480080",
+        "pay": null,
+        "requirement": "Знание базовых алгоритмов и структур данных. Понимание REST, SOAP. Аналитические навыки.​​​​​​​. Знание <highlighttext>Python</highlighttext>. Понимание терминологии нефтяной промышленности. Знание основных показателей...",
+        "city": "Казань"
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "url": "https://hh.ru/vacancy/90593735",
+        "pay": 80000,
+        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
         "city": "Казань"
     },
     {
@@ -322,255 +287,45 @@
         "city": "Казань"
     },
     {
-        "name": "Продуктовый аналитик Middle",
-        "url": "https://hh.ru/vacancy/89891440",
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/85594713",
         "pay": null,
-        "requirement": "Опыт работы в коммерческой аналитике от 2лет! Отличные знания SQL, Excel, умение работать с большими массивами данных. ",
+        "requirement": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. ",
         "city": "Казань"
     },
     {
-        "name": "Инженер-тестировщик отдела испытаний и документации",
-        "url": "https://hh.ru/vacancy/88131146",
-        "pay": 80000,
-        "requirement": "Обучаемость, аккуратность, внимательность к деталям, самостоятельность. Будет преимуществом: навыки программирования на <highlighttext>Python</highlighttext>. Опыт проведения тестирования встроенного программного обеспечения, Разработки программ...",
-        "city": "Казань"
-    },
-    {
-        "name": "Сетевой инженер (инженер по сетевым технологиям)",
-        "url": "https://hh.ru/vacancy/90636073",
+        "name": "Риск-менеджер (Валидация)",
+        "url": "https://hh.ru/vacancy/90691427",
         "pay": null,
-        "requirement": "Опыт использования инструментов автоматизации для выполнения рутинных задач (Perl, <highlighttext>Python</highlighttext>, PHP). Понимание технологий туннелирования GRE. Понимание принципов работы систем виртуализации. ",
+        "requirement": "Высшее техническое/экономическое образование. Знания в области математической статистики и машинного обучения. Знание <highlighttext>Python</highlighttext>, SQL. Опыт работы необязателен.",
         "city": "Казань"
     },
     {
-        "name": "QA Automation Engineer",
-        "url": "https://hh.ru/vacancy/90529743",
-        "pay": 180000,
-        "requirement": "Стек технологий: Selenium Webdriver, опыт работы с системами Jenkins CI, Git, REST API, JSON, SQL, <highlighttext>Python</highlighttext>, Postman, Selenium. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Data Scientist",
-        "url": "https://hh.ru/vacancy/90718898",
-        "pay": null,
-        "requirement": "Уверенное знание языка и библиотек <highlighttext>Python</highlighttext>. Уверенное знание PyTorch и OpenCV. Опыт работы с Ray. Опыт разработки моделей обучения в...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps engineer (ЗОКИИ)",
-        "url": "https://hh.ru/vacancy/90350033",
-        "pay": null,
-        "requirement": "Имеешь опыт написания на скриптовых языках Groovy, <highlighttext>Python</highlighttext>. Представляешь как устроены Nginx, MQ и/или Apache Kafka, Oracle, Docker. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик",
-        "url": "https://hh.ru/vacancy/89652412",
-        "pay": null,
-        "requirement": "Актуальные навыки анализа данных на уровне ведущего аналитика - SQL, <highlighttext>Python</highlighttext>, Excel. Навыки анализа данных, поиска закономерностей и отклонений. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Data Engineer направления разработки витрин данных",
-        "url": "https://hh.ru/vacancy/90613235",
-        "pay": null,
-        "requirement": "Хорошее знание устройства Hadoop,Spark,Hive/Impala. Опыт разработки на <highlighttext>Python</highlighttext>/Scala/Java. Понимание основных концепций DWH. Понимание базовых команд...",
-        "city": "Казань"
-    },
-    {
-        "name": "Старший системный аналитик",
-        "url": "https://hh.ru/vacancy/90640575",
-        "pay": 80000,
-        "requirement": "Опыт работы в excel и гугл-таблицах. Опыт работы на релевантной должности. Опыт работы с базами данных, навык написания ТЗ. ",
-        "city": "Казань"
-    },
-    {
-        "name": "C++ Team Lead",
-        "url": "https://hh.ru/vacancy/87860481",
-        "pay": null,
-        "requirement": "знания в области многопоточных вычислений в Linux (libpthread, примитивы синхронизации). - знания в области <highlighttext>python</highlighttext> pyunit и cmake, git, gitlab. - ",
-        "city": "Казань"
-    },
-    {
-        "name": "Кредитный аналитик SQL",
-        "url": "https://hh.ru/vacancy/84109645",
-        "pay": null,
-        "requirement": "Высшее образование по профилю IT/математика. Знание MS SQL, <highlighttext>Python</highlighttext>, MS Excel. Опыт анализа большого объема данных, умение делать выводы.",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик по отчетности",
-        "url": "https://hh.ru/vacancy/88320978",
-        "pay": null,
-        "requirement": "Знание методов сбора, консолидации, оценки и анализа информации. Знание показателей эффективности интернет-рекламы. Знание принципов и методов бюджетирования интернет деятельности. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Бизнес-партнер по операционному контроллингу",
-        "url": "https://hh.ru/vacancy/89675209",
-        "pay": null,
-        "requirement": "Английский язык – на уровне intermediate, преимуществом будет уровень выше. Знания 1C и SAP, SQL и <highlighttext>Python</highlighttext>, инструментов визуализации Power...",
-        "city": "Казань"
-    },
-    {
-        "name": "Пентестер веб приложений",
-        "url": "https://hh.ru/vacancy/89649759",
-        "pay": null,
-        "requirement": "Знание как минимум одного языка программирования (go, java, <highlighttext>python</highlighttext>, php). Навыки анализа исходного кода (PHP, Java, js, C#, <highlighttext>Python</highlighttext>). ",
-        "city": "Казань"
-    },
-    {
-        "name": "QA инженер-сопровожденец",
-        "url": "https://hh.ru/vacancy/90712995",
-        "pay": null,
-        "requirement": "Знания основ программирования на уровне Junior (Преимущественно знание Javа и <highlighttext>Python</highlighttext>). Высшее техническое или экономическое образование. Практические навыки автоматизированного тестирования. ",
-        "city": "Казань"
-    },
-    {
-        "name": "ML\\CV engineer (middle)",
-        "url": "https://hh.ru/vacancy/90100132",
-        "pay": 280000,
-        "requirement": "Знание алгоритмов машинного обучения. Опыт работы с NLP и CV. Знание <highlighttext>Python</highlighttext> 3, Pandas, NumPy, OpenCV. Понимание фреймворков машинного обучения. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Python Developer",
-        "url": "https://hh.ru/vacancy/90697915",
-        "pay": null,
-        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
-        "city": "Казань"
-    },
-    {
-        "name": "Лингвист-аналитик в команду чат-бота",
-        "url": "https://hh.ru/vacancy/89776467",
-        "pay": null,
-        "requirement": "Образование: среднее профессиональное/высшее. Опыт работы от 1 года по направлению лингвист-разработчик/лингвист-аналитик/компьютерный лингвист чат-бота, предпочтение...",
-        "city": "Казань"
-    },
-    {
-        "name": "Devops",
-        "url": "https://hh.ru/vacancy/90441320",
-        "pay": null,
-        "requirement": "Владение скриптовыми языками программирования - bash, Ansible, <highlighttext>python</highlighttext>, groovy, etc. Опыт работы с СУБД (Postgre, Oracle, MS SQL). Опыт работы с...",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер-программист",
-        "url": "https://hh.ru/vacancy/90645880",
-        "pay": null,
-        "requirement": "Хорошее знание английского языка. Желательно. - Знание скриптовых языков (Shell, <highlighttext>Python</highlighttext> и др.). - Опыт программирования на C++. - Опыт создания прошивок с...",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель направления клиентской аналитики",
-        "url": "https://hh.ru/vacancy/89823222",
-        "pay": null,
-        "requirement": "Формирование выгрузок с использованием запросов. Обработка и визуализация данных. Опыт построение отчетов в аналитическом ПО MS Excel (продвинутый уровень), <highlighttext>Python</highlighttext>...",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный администратор / DevOps инженер",
-        "url": "https://hh.ru/vacancy/89988140",
-        "pay": 180000,
-        "requirement": "Опыт администрирования Linux. Опыт написания скриптов на bash/<highlighttext>python</highlighttext>. Опыт администрирования MongoDB, Redis, MySQL. Знание сетевых технологий и протоколов. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Разработчик на С++ в Лавку",
-        "url": "https://hh.ru/vacancy/89149630",
-        "pay": null,
-        "requirement": "Хорошо знаете и понимаете C++, STL, умеете аккуратно писать код и имеете привычку проверять его. Знакомы с продуктовыми и бизнес...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps-инженер (удаленно)",
-        "url": "https://hh.ru/vacancy/90632139",
-        "pay": null,
-        "requirement": "Опыт установки, настройки и использования EKF-стека и Prometheus с Grafana. Знание <highlighttext>Python</highlighttext>. Понимание Semantic Versioning 2.0.0. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Fullstack QA инженер",
-        "url": "https://hh.ru/vacancy/89749574",
-        "pay": null,
-        "requirement": "Вы знаете один из этих языков программирования: JS/Java/<highlighttext>Python</highlighttext>. Вы знаете Selenium WebDriver/Cucumber. У вас есть опыт написания...",
-        "city": "Казань"
-    },
-    {
-        "name": "Data analyst",
-        "url": "https://hh.ru/vacancy/90441208",
-        "pay": null,
-        "requirement": "Опыт работы на аналогичной позиции от 3-х лет (аналитик данных, дата аналитик). Уверенное знание языка <highlighttext>Python</highlighttext> (Библиотеки Pandas/Matplotlib...",
-        "city": "Казань"
-    },
-    {
-        "name": "Data Engineer",
-        "url": "https://hh.ru/vacancy/87895674",
-        "pay": null,
-        "requirement": "Опыт работы разработчиком программных продуктов не менее 1 года. Знание языков программирования: SQL, <highlighttext>Python</highlighttext>, Java. Знание технологий: Apache NiFi, Apache...",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер-программист микроконтроллеров (C++)",
-        "url": "https://hh.ru/vacancy/89676647",
-        "pay": null,
-        "requirement": "Языки программирования: знание C или C++ с желанием освоить GO и <highlighttext>Python</highlighttext>. Уверенные знания схемотехники, радиоэлектроники. Чтение аналого-цифровых принципиальных...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик (middle)",
-        "url": "https://hh.ru/vacancy/90061658",
-        "pay": null,
-        "requirement": "...основ теории вероятностей и математической статистики. Опыт работы с DWH либо с Tableau. Приветствуется знание <highlighttext>Python</highlighttext> и/или Apache Superset.",
-        "city": "Казань"
-    },
-    {
-        "name": "Project manager / Руководитель IT проекта",
-        "url": "https://hh.ru/vacancy/88882074",
-        "pay": null,
-        "requirement": "Опыт разработки парсеров на любом языке программирования (в приоритете C#, <highlighttext>Python</highlighttext>, Php). Понимание механизмов парсинга данных. Знание основных алгоритмов/структур...",
-        "city": "Казань"
-    },
-    {
-        "name": "Devops инженер",
-        "url": "https://hh.ru/vacancy/85242060",
-        "pay": null,
-        "requirement": "...систем и баз данных. Построение закрытых сетей. Опыт работы с PHP (composer, symfony) . Умеете писать на <highlighttext>Python</highlighttext>. Навыки администрирования Windows.",
-        "city": "Казань"
-    },
-    {
-        "name": "Визуализатор отчетов(bi отчеты)",
-        "url": "https://hh.ru/vacancy/89820760",
-        "pay": null,
-        "requirement": "Владение любым диалектом sql (опыт работы от 1 года. Приветствуется опыт работы с <highlighttext>Python</highlighttext>. Опыт работы во взыскании задолженности физ...",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий инженер-программист встраиваемых систем",
-        "url": "https://hh.ru/vacancy/89982003",
-        "pay": null,
-        "requirement": "Опыт работы с ПЛИС Altera/Xilinx. Опыт разработки на <highlighttext>Python</highlighttext>, MATLAB. Опыт разработки ПО для одноплатных компьютеров. Знание архитектуры микроконтроллеров...",
-        "city": "Казань"
-    },
-    {
-        "name": "QA automation Engineer",
-        "url": "https://hh.ru/vacancy/85847543",
-        "pay": null,
-        "requirement": "Практические навыки и опыт автоматизированного тестирования. Знание Java/<highlighttext>Python</highlighttext>. Умение анализировать функциональные требования и разрабатывать сценарий тестирования. Знание основных SQL...",
-        "city": "Казань"
-    },
-    {
-        "name": "Эксперт центра мониторинга SOC (L3)",
-        "url": "https://hh.ru/vacancy/90288317",
+        "name": "Senior Python разработчик",
+        "url": "https://hh.ru/vacancy/90520633",
         "pay": 300000,
-        "requirement": "Опыт работы с инцидентами ИБ. Опыт написания скриптов (bash, PowerShell, <highlighttext>Python</highlighttext>). Уметь анализировать журналы регистраций событий СЗИ, журналы ОС, сетевого...",
+        "requirement": "Опыт разработки от 3 лет. - Знание и опыт работы с FastAPI, SQLAlchemy 2, Pydantic 2, Alembic, Aiogram. - Опыт работы с...",
         "city": "Казань"
     },
     {
-        "name": "Fullstack developer / Full-stack разработчик (Middle)",
-        "url": "https://hh.ru/vacancy/90648668",
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/90341644",
         "pay": null,
-        "requirement": "Опыт коммерческой разработки от 2-х лет. Требуемые знания языков: Плюсом будет знание языков Kotlin, Java, PHP, angular. ",
+        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 3-х лет. Уверенное знание языка и библиотек <highlighttext>Python</highlighttext> 3.6+. Опыт работы с...",
+        "city": "Казань"
+    },
+    {
+        "name": "Программист С/С++ Embedded",
+        "url": "https://hh.ru/vacancy/90478981",
+        "pay": 120000,
+        "requirement": "Знание языков C, C++, <highlighttext>Python</highlighttext> 3. Знание Linux систем (встраиваемых систем в микроконтроллеры). Опыт разработки под микроконтроллеры.",
+        "city": "Казань"
+    },
+    {
+        "name": "QA-инженер в команду Movika",
+        "url": "https://hh.ru/vacancy/88817707",
+        "pay": null,
+        "requirement": "Знакомы с основами веб-технологий и теорией тестирования. Базово знаете <highlighttext>Python</highlighttext>. Тестировали API (Postman, Insomnia, DevTools, снифферы) и микросервисную архитектуру. ",
         "city": "Казань"
     },
     {
@@ -581,17 +336,143 @@
         "city": "Казань"
     },
     {
-        "name": "Python разработчик (Middle/Senior)",
-        "url": "https://hh.ru/vacancy/90720578",
+        "name": "Data Engineer направления разработки витрин данных",
+        "url": "https://hh.ru/vacancy/90613235",
         "pay": null,
-        "requirement": "Уверенное знание языка и библиотек <highlighttext>Python</highlighttext>. Опыт разработки RESTful web-сервисов. Понимание принципов работы и архитектуры высоконагруженных приложений и микросервисов. ",
+        "requirement": "Хорошее знание устройства Hadoop,Spark,Hive/Impala. Опыт разработки на <highlighttext>Python</highlighttext>/Scala/Java. Понимание основных концепций DWH. Понимание базовых команд...",
         "city": "Казань"
     },
     {
-        "name": "Web-аналитик",
-        "url": "https://hh.ru/vacancy/86351573",
+        "name": "QA Automation Engineer",
+        "url": "https://hh.ru/vacancy/90529743",
+        "pay": 180000,
+        "requirement": "Стек технологий: Selenium Webdriver, опыт работы с системами Jenkins CI, Git, REST API, JSON, SQL, <highlighttext>Python</highlighttext>, Postman, Selenium. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер-тестировщик отдела испытаний и документации",
+        "url": "https://hh.ru/vacancy/88131146",
+        "pay": 80000,
+        "requirement": "Обучаемость, аккуратность, внимательность к деталям, самостоятельность. Будет преимуществом: навыки программирования на <highlighttext>Python</highlighttext>. Опыт проведения тестирования встроенного программного обеспечения, Разработки программ...",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps engineer (ЗОКИИ)",
+        "url": "https://hh.ru/vacancy/90350033",
         "pay": null,
-        "requirement": "Высшее образование (экономическое, техническое или IT). Иметь не менее года опыта в веб-аналитике. Умение анализировать данные. Умение пользоваться сервисами...",
+        "requirement": "Имеешь опыт написания на скриптовых языках Groovy, <highlighttext>Python</highlighttext>. Представляешь как устроены Nginx, MQ и/или Apache Kafka, Oracle, Docker. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle QA Specialist (Web, Mobile)",
+        "url": "https://hh.ru/vacancy/90759825",
+        "pay": null,
+        "requirement": "Практический опыт тестирования веб-приложений от 2-х лет. Понимание принципов работы веб приложений, мобильных приложений, браузера, типичных проблем при...",
+        "city": "Казань"
+    },
+    {
+        "name": "Сетевой инженер (инженер по сетевым технологиям)",
+        "url": "https://hh.ru/vacancy/90636073",
+        "pay": null,
+        "requirement": "Опыт использования инструментов автоматизации для выполнения рутинных задач (Perl, <highlighttext>Python</highlighttext>, PHP). Понимание технологий туннелирования GRE. Понимание принципов работы систем виртуализации. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/89652412",
+        "pay": null,
+        "requirement": "Актуальные навыки анализа данных на уровне ведущего аналитика - SQL, <highlighttext>Python</highlighttext>, Excel. Навыки анализа данных, поиска закономерностей и отклонений. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Кредитный аналитик SQL",
+        "url": "https://hh.ru/vacancy/84109645",
+        "pay": null,
+        "requirement": "Высшее образование по профилю IT/математика. Знание MS SQL, <highlighttext>Python</highlighttext>, MS Excel. Опыт анализа большого объема данных, умение делать выводы.",
+        "city": "Казань"
+    },
+    {
+        "name": "Бизнес-партнер по операционному контроллингу",
+        "url": "https://hh.ru/vacancy/89675209",
+        "pay": null,
+        "requirement": "Английский язык – на уровне intermediate, преимуществом будет уровень выше. Знания 1C и SAP, SQL и <highlighttext>Python</highlighttext>, инструментов визуализации Power...",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик (middle)",
+        "url": "https://hh.ru/vacancy/90061658",
+        "pay": null,
+        "requirement": "...основ теории вероятностей и математической статистики. Опыт работы с DWH либо с Tableau. Приветствуется знание <highlighttext>Python</highlighttext> и/или Apache Superset.",
+        "city": "Казань"
+    },
+    {
+        "name": "Пентестер веб приложений",
+        "url": "https://hh.ru/vacancy/89649759",
+        "pay": null,
+        "requirement": "Знание как минимум одного языка программирования (go, java, <highlighttext>python</highlighttext>, php). Навыки анализа исходного кода (PHP, Java, js, C#, <highlighttext>Python</highlighttext>). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик по отчетности",
+        "url": "https://hh.ru/vacancy/88320978",
+        "pay": null,
+        "requirement": "Знание методов сбора, консолидации, оценки и анализа информации. Знание показателей эффективности интернет-рекламы. Знание принципов и методов бюджетирования интернет деятельности. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Продуктовый аналитик Middle",
+        "url": "https://hh.ru/vacancy/89891440",
+        "pay": null,
+        "requirement": "Опыт работы в коммерческой аналитике от 2лет! Отличные знания SQL, Excel, умение работать с большими массивами данных. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Data Scientist",
+        "url": "https://hh.ru/vacancy/90718898",
+        "pay": null,
+        "requirement": "Уверенное знание языка и библиотек <highlighttext>Python</highlighttext>. Уверенное знание PyTorch и OpenCV. Опыт работы с Ray. Опыт разработки моделей обучения в...",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель направления клиентской аналитики",
+        "url": "https://hh.ru/vacancy/89823222",
+        "pay": null,
+        "requirement": "Формирование выгрузок с использованием запросов. Обработка и визуализация данных. Опыт построение отчетов в аналитическом ПО MS Excel (продвинутый уровень), <highlighttext>Python</highlighttext>...",
+        "city": "Казань"
+    },
+    {
+        "name": "Data analyst",
+        "url": "https://hh.ru/vacancy/90441208",
+        "pay": null,
+        "requirement": "Опыт работы на аналогичной позиции от 3-х лет (аналитик данных, дата аналитик). Уверенное знание языка <highlighttext>Python</highlighttext> (Библиотеки Pandas/Matplotlib...",
+        "city": "Казань"
+    },
+    {
+        "name": "QA инженер-сопровожденец",
+        "url": "https://hh.ru/vacancy/90712995",
+        "pay": null,
+        "requirement": "Знания основ программирования на уровне Junior (Преимущественно знание Javа и <highlighttext>Python</highlighttext>). Высшее техническое или экономическое образование. Практические навыки автоматизированного тестирования. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Лингвист-аналитик в команду чат-бота",
+        "url": "https://hh.ru/vacancy/89776467",
+        "pay": null,
+        "requirement": "Образование: среднее профессиональное/высшее. Опыт работы от 1 года по направлению лингвист-разработчик/лингвист-аналитик/компьютерный лингвист чат-бота, предпочтение...",
+        "city": "Казань"
+    },
+    {
+        "name": "Визуализатор отчетов(bi отчеты)",
+        "url": "https://hh.ru/vacancy/89820760",
+        "pay": null,
+        "requirement": "Владение любым диалектом sql (опыт работы от 1 года. Приветствуется опыт работы с <highlighttext>Python</highlighttext>. Опыт работы во взыскании задолженности физ...",
+        "city": "Казань"
+    },
+    {
+        "name": "Data-инженер",
+        "url": "https://hh.ru/vacancy/89569214",
+        "pay": null,
+        "requirement": "Знание одного из языков программирования: <highlighttext>Python</highlighttext>, Java, Go. Знание основ ООП, теории алгоритмов, структур данных. Знание SQL. Опыт написания процессов...",
         "city": "Казань"
     },
     {
@@ -609,10 +490,24 @@
         "city": "Казань"
     },
     {
-        "name": "Data-инженер",
-        "url": "https://hh.ru/vacancy/89569214",
+        "name": "DevOps-инженер (удаленно)",
+        "url": "https://hh.ru/vacancy/90632139",
         "pay": null,
-        "requirement": "Знание одного из языков программирования: <highlighttext>Python</highlighttext>, Java, Go. Знание основ ООП, теории алгоритмов, структур данных. Знание SQL. Опыт написания процессов...",
+        "requirement": "Опыт установки, настройки и использования EKF-стека и Prometheus с Grafana. Знание <highlighttext>Python</highlighttext>. Понимание Semantic Versioning 2.0.0. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Fullstack QA инженер",
+        "url": "https://hh.ru/vacancy/89749574",
+        "pay": null,
+        "requirement": "Вы знаете один из этих языков программирования: JS/Java/<highlighttext>Python</highlighttext>. Вы знаете Selenium WebDriver/Cucumber. У вас есть опыт написания...",
+        "city": "Казань"
+    },
+    {
+        "name": "QA automation Engineer",
+        "url": "https://hh.ru/vacancy/85847543",
+        "pay": null,
+        "requirement": "Практические навыки и опыт автоматизированного тестирования. Знание Java/<highlighttext>Python</highlighttext>. Умение анализировать функциональные требования и разрабатывать сценарий тестирования. Знание основных SQL...",
         "city": "Казань"
     },
     {
@@ -623,17 +518,17 @@
         "city": "Казань"
     },
     {
-        "name": "Ведущий тестировщик (IT-продуктов)",
-        "url": "https://hh.ru/vacancy/88414504",
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/90645880",
         "pay": null,
-        "requirement": "Понимание цикла разработки и тестирования ПО. Опыт работы с тестовыми инструментами. Знание основ программирования на языках JS/ <highlighttext>Python</highlighttext>/баз данных...",
+        "requirement": "Хорошее знание английского языка. Желательно. - Знание скриптовых языков (Shell, <highlighttext>Python</highlighttext> и др.). - Опыт программирования на C++. - Опыт создания прошивок с...",
         "city": "Казань"
     },
     {
-        "name": "Data Analyst",
-        "url": "https://hh.ru/vacancy/90391828",
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/90697915",
         "pay": null,
-        "requirement": "<highlighttext>python</highlighttext> на уровне уверенного пользователя (pandas, numpy, другие стандартные питон-библиотеки). - базовые навыки работы с табличными данными, знание SQL. - ",
+        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
         "city": "Казань"
     },
     {
@@ -644,17 +539,108 @@
         "city": "Казань"
     },
     {
-        "name": "Исследователь безопасности ПО",
-        "url": "https://hh.ru/vacancy/90742664",
-        "pay": null,
-        "requirement": "Опыт обратной разработки методами дизассемблирования приложений для других архитектур (MIPS, PowerPC и т.д.). Опыт разработки драйверов под пользовательские ОС...",
+        "name": "ML\\CV engineer (middle)",
+        "url": "https://hh.ru/vacancy/90100132",
+        "pay": 280000,
+        "requirement": "Знание алгоритмов машинного обучения. Опыт работы с NLP и CV. Знание <highlighttext>Python</highlighttext> 3, Pandas, NumPy, OpenCV. Понимание фреймворков машинного обучения. ",
         "city": "Казань"
     },
     {
-        "name": "Инженер Linux",
-        "url": "https://hh.ru/vacancy/87691240",
+        "name": "Fullstack developer / Full-stack разработчик (Middle)",
+        "url": "https://hh.ru/vacancy/90648668",
         "pay": null,
-        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Базовые знания сетевых технологий, сетевых сервисов (на уровне понимания принципов...",
+        "requirement": "Опыт коммерческой разработки от 2-х лет. Требуемые знания языков: Плюсом будет знание языков Kotlin, Java, PHP, angular. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный администратор / DevOps инженер",
+        "url": "https://hh.ru/vacancy/89988140",
+        "pay": 180000,
+        "requirement": "Опыт администрирования Linux. Опыт написания скриптов на bash/<highlighttext>python</highlighttext>. Опыт администрирования MongoDB, Redis, MySQL. Знание сетевых технологий и протоколов. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Devops",
+        "url": "https://hh.ru/vacancy/90441320",
+        "pay": null,
+        "requirement": "Владение скриптовыми языками программирования - bash, Ansible, <highlighttext>python</highlighttext>, groovy, etc. Опыт работы с СУБД (Postgre, Oracle, MS SQL). Опыт работы с...",
+        "city": "Казань"
+    },
+    {
+        "name": "Старший системный аналитик",
+        "url": "https://hh.ru/vacancy/90640575",
+        "pay": 80000,
+        "requirement": "Опыт работы в excel и гугл-таблицах. Опыт работы на релевантной должности. Опыт работы с базами данных, навык написания ТЗ. ",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps / Инженер по внедрению и сопровождению программного обеспечения",
+        "url": "https://hh.ru/vacancy/89719909",
+        "pay": 60000,
+        "requirement": "Опыт администрирования приложений - Nginx, базы данных; почтовые серверы и т.д.. Знания продуктов виртуализации. Опыт написания скриптов на <highlighttext>Python</highlighttext>, bash.",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер-программист микроконтроллеров (C++)",
+        "url": "https://hh.ru/vacancy/89676647",
+        "pay": null,
+        "requirement": "Языки программирования: знание C или C++ с желанием освоить GO и <highlighttext>Python</highlighttext>. Уверенные знания схемотехники, радиоэлектроники. Чтение аналого-цифровых принципиальных...",
+        "city": "Казань"
+    },
+    {
+        "name": "Ведущий тестировщик (IT-продуктов)",
+        "url": "https://hh.ru/vacancy/88414504",
+        "pay": null,
+        "requirement": "Понимание цикла разработки и тестирования ПО. Опыт работы с тестовыми инструментами. Знание основ программирования на языках JS/ <highlighttext>Python</highlighttext>/баз данных...",
+        "city": "Казань"
+    },
+    {
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/87895674",
+        "pay": null,
+        "requirement": "Опыт работы разработчиком программных продуктов не менее 1 года. Знание языков программирования: SQL, <highlighttext>Python</highlighttext>, Java. Знание технологий: Apache NiFi, Apache...",
+        "city": "Казань"
+    },
+    {
+        "name": "Data Analyst",
+        "url": "https://hh.ru/vacancy/90391828",
+        "pay": null,
+        "requirement": "<highlighttext>python</highlighttext> на уровне уверенного пользователя (pandas, numpy, другие стандартные питон-библиотеки). - базовые навыки работы с табличными данными, знание SQL. - ",
+        "city": "Казань"
+    },
+    {
+        "name": "Web-аналитик",
+        "url": "https://hh.ru/vacancy/86351573",
+        "pay": null,
+        "requirement": "Высшее образование (экономическое, техническое или IT). Иметь не менее года опыта в веб-аналитике. Умение анализировать данные. Умение пользоваться сервисами...",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик отдела продаж",
+        "url": "https://hh.ru/vacancy/86897651",
+        "pay": null,
+        "requirement": "Обязательное знание 1С, Excel. Будет преимуществом: знание sql или <highlighttext>python</highlighttext>; участие в проекте по внедрению автоматического прогнозирования спроса.",
+        "city": "Казань"
+    },
+    {
+        "name": "Project manager / Руководитель IT проекта",
+        "url": "https://hh.ru/vacancy/88882074",
+        "pay": null,
+        "requirement": "Опыт разработки парсеров на любом языке программирования (в приоритете C#, <highlighttext>Python</highlighttext>, Php). Понимание механизмов парсинга данных. Знание основных алгоритмов/структур...",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик Middle (Иннополис)",
+        "url": "https://hh.ru/vacancy/90347767",
+        "pay": 93800,
+        "requirement": "Опыт работы с Tableau. Готовность выполнить тестовое задание. Знаешь <highlighttext>Python</highlighttext> и/или Apache Superset. Работал в банковской или фармацевтической сфере.",
+        "city": "Казань"
+    },
+    {
+        "name": "Python разработчик (Middle/Senior)",
+        "url": "https://hh.ru/vacancy/90720578",
+        "pay": null,
+        "requirement": "Уверенное знание языка и библиотек <highlighttext>Python</highlighttext>. Опыт разработки RESTful web-сервисов. Понимание принципов работы и архитектуры высоконагруженных приложений и микросервисов. ",
         "city": "Казань"
     },
     {
@@ -665,10 +651,10 @@
         "city": "Казань"
     },
     {
-        "name": "Инженер-аналитик (математическое моделирование)",
-        "url": "https://hh.ru/vacancy/87507948",
-        "pay": 160000,
-        "requirement": "Понимание ТАУ, теории навигации. Навыки работы с Matlab / Mathcad / Mathematica / <highlighttext>Python</highlighttext> Numpy / Anaconda. Опыт реализации проектов по созданию автономных мобильных...",
+        "name": "Ведущий инженер-программист встраиваемых систем",
+        "url": "https://hh.ru/vacancy/89982003",
+        "pay": null,
+        "requirement": "Опыт работы с ПЛИС Altera/Xilinx. Опыт разработки на <highlighttext>Python</highlighttext>, MATLAB. Опыт разработки ПО для одноплатных компьютеров. Знание архитектуры микроконтроллеров...",
         "city": "Казань"
     },
     {
@@ -686,10 +672,10 @@
         "city": "Казань"
     },
     {
-        "name": "Разработчик BI",
-        "url": "https://hh.ru/vacancy/90592418",
+        "name": "Разработчик на С++ в Лавку",
+        "url": "https://hh.ru/vacancy/89149630",
         "pay": null,
-        "requirement": "Опыт работы с SQL, Hadoop, Azure, MSSQL. Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы в ритейле, консалтинге или системном интеграторе. ",
+        "requirement": "Хорошо знаете и понимаете C++, STL, умеете аккуратно писать код и имеете привычку проверять его. Знакомы с продуктовыми и бизнес...",
         "city": "Казань"
     },
     {
@@ -700,297 +686,10 @@
         "city": "Казань"
     },
     {
-        "name": "Python Developer",
-        "url": "https://hh.ru/vacancy/90698833",
+        "name": "Разработчик BI",
+        "url": "https://hh.ru/vacancy/90592418",
         "pay": null,
-        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
-        "city": "Казань"
-    },
-    {
-        "name": "Python developer",
-        "url": "https://hh.ru/vacancy/90082872",
-        "pay": 150000,
-        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps / Инженер по внедрению и сопровождению программного обеспечения",
-        "url": "https://hh.ru/vacancy/89719909",
-        "pay": 60000,
-        "requirement": "Опыт администрирования приложений - Nginx, базы данных; почтовые серверы и т.д.. Знания продуктов виртуализации. Опыт написания скриптов на <highlighttext>Python</highlighttext>, bash.",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер-аналитик (алгоритмист)",
-        "url": "https://hh.ru/vacancy/87507923",
-        "pay": 320000,
-        "requirement": "Понимание ТАУ, теории навигации. Навыки работы с Matlab / Mathcad / Mathematica / <highlighttext>Python</highlighttext> Numpy / Anaconda. Опыт реализации проектов по созданию автономных мобильных...",
-        "city": "Казань"
-    },
-    {
-        "name": "Продуктовый аналитик",
-        "url": "https://hh.ru/vacancy/90418417",
-        "pay": null,
-        "requirement": "Опыт использования и аналитики A/B-тестирования. Знание <highlighttext>Python</highlighttext> (будет преимуществом). Проактивность и включенность в работу. Нестандартные решения и желание...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик отдела продаж",
-        "url": "https://hh.ru/vacancy/86897651",
-        "pay": null,
-        "requirement": "Обязательное знание 1С, Excel. Будет преимуществом: знание sql или <highlighttext>python</highlighttext>; участие в проекте по внедрению автоматического прогнозирования спроса.",
-        "city": "Казань"
-    },
-    {
-        "name": "NLP engineer / Data scientist NLP (продуктовая ИТ-компания, удаленно)",
-        "url": "https://hh.ru/vacancy/90749974",
-        "pay": null,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт работы с PyTorch, Numpy, Sklearn, Pandas. Опыт работы с LLM, дообучением GPT-like моделей. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Старший специалист информационной безопасности",
-        "url": "https://hh.ru/vacancy/90026131",
-        "pay": 150000,
-        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий инженер по развитию ИТ-инфраструктуры",
-        "url": "https://hh.ru/vacancy/88426504",
-        "pay": 90000,
-        "requirement": "Базовые знания сетевых технологий на уровне администратора. Знание ОС Linux (Astra Linux, Альт линукс, RedOs или иные из перечня отечественного...",
-        "city": "Казань"
-    },
-    {
-        "name": "Build-инженер/программист",
-        "url": "https://hh.ru/vacancy/90083033",
-        "pay": 125000,
-        "requirement": "Опыт работы с CMake, autotools и другими системами сборки. Знание <highlighttext>python</highlighttext> и bash на уровне написания скриптов. Желательно. ",
-        "city": "Казань"
-    },
-    {
-        "name": "BI-разработчик (middle/senior)",
-        "url": "https://hh.ru/vacancy/88078153",
-        "pay": null,
-        "requirement": "Высшее образование. Опыт работы от 2х лет в сфере BI-решений. ClickHouse / PostrgreSQL. SQL / DAX. JavaScript / HTML5.",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель группы разработки (Team Lead)",
-        "url": "https://hh.ru/vacancy/77224953",
-        "pay": null,
-        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик Middle (Иннополис)",
-        "url": "https://hh.ru/vacancy/90347767",
-        "pay": 93800,
-        "requirement": "Опыт работы с Tableau. Готовность выполнить тестовое задание. Знаешь <highlighttext>Python</highlighttext> и/или Apache Superset. Работал в банковской или фармацевтической сфере.",
-        "city": "Казань"
-    },
-    {
-        "name": "Риск менеджер (направление антифрод)",
-        "url": "https://hh.ru/vacancy/88572845",
-        "pay": null,
-        "requirement": "...и проверять гипотезы, делать и презентовать выводы. Отличные коммуникативные навыки. Уверенное владение SQL, MS Office. <highlighttext>Python</highlighttext>, Power BI будет преимуществом.",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий системный администратор (удаленно)",
-        "url": "https://hh.ru/vacancy/90327676",
-        "pay": null,
-        "requirement": "Опыт миграции почтовых систем. Навыки написания скриптов и автоматизации (<highlighttext>Python</highlighttext>, PowerShell, Bash, VBS). Знание и понимание Docker и Kubernetes. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Data analyst/Аналитик данных",
-        "url": "https://hh.ru/vacancy/87616194",
-        "pay": null,
-        "requirement": "Знания математики, статистики, теории игр. Знания sql, clickhouse. Знания <highlighttext>python</highlighttext>, pandas, catboost, tensorflow/pythorch/lightautoml (для моделирования).",
-        "city": "Казань"
-    },
-    {
-        "name": "Python разработчик (Middle)",
-        "url": "https://hh.ru/vacancy/88031148",
-        "pay": null,
-        "requirement": "Опыт коммерческой разработки от 2 лет на <highlighttext>Python</highlighttext>. Опыт коммерческой работы с Django;. Опыт работы с СУБД PostgreSQL. ",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps инженер",
-        "url": "https://hh.ru/vacancy/88060282",
-        "pay": null,
-        "requirement": "Опыт работы с системой управления конфигурациями Ansible. Знание принципов работы linux контейнеров (Docker) и систем оркестрации (Kubernetes/Docker Swarm). ",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий программист (Python)",
-        "url": "https://hh.ru/vacancy/88588643",
-        "pay": null,
-        "requirement": "Высшее техническое образование. Навыки программирования на <highlighttext>Python</highlighttext> от 3-х лет. Дизайн, создание, использование REST API. Опыт использования баз данных...",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер автоматизации ИТ-инфраструктуры (Linux, Operations)",
-        "url": "https://hh.ru/vacancy/83097488",
-        "pay": null,
-        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Базовые знания по платформе виртуализации на уровне пользователя (к примеру...",
-        "city": "Казань"
-    },
-    {
-        "name": "QA Automation (отдел автотестирования)",
-        "url": "https://hh.ru/vacancy/88432392",
-        "pay": 46000,
-        "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный аналитик",
-        "url": "https://hh.ru/vacancy/89854510",
-        "pay": null,
-        "requirement": "Знание БД (в частности PostgreSQL) будет являться преимуществом. Знание <highlighttext>Python</highlighttext> (будет являться преимуществом). Личные качества: самоорганизация, ответственность, желание обучаться новому...",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный аналитик (ВК и ГОЗ)",
-        "url": "https://hh.ru/vacancy/85617080",
-        "pay": null,
-        "requirement": "Опыт работы с PostgreSQL, Oracle, MS SQL. Знание <highlighttext>Python</highlighttext>, Java на уровне \"подправить код\". Опыт построения WEB-интерфейсов для большого...",
-        "city": "Казань"
-    },
-    {
-        "name": "Старший специалист",
-        "url": "https://hh.ru/vacancy/90420438",
-        "pay": 80000,
-        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
-        "city": "Казань"
-    },
-    {
-        "name": "Python - разработчик (Middle+)",
-        "url": "https://hh.ru/vacancy/90215168",
-        "pay": null,
-        "requirement": "...Docker Compose, <highlighttext>Python</highlighttext>, Git, Kubernates, PostgreSQL от 3,5х лет. Опыт работы на проекте в качестве единственного <highlighttext>python</highlighttext> - разработчика...",
-        "city": "Казань"
-    },
-    {
-        "name": "Копирайтер / Администратор сайта в финтех-стартап",
-        "url": "https://hh.ru/vacancy/89921252",
-        "pay": null,
-        "requirement": "Грамотная письменная речь. Хороший уровень английского языка. Опыт работы с WordPress. Знания SEO, CSS, HTML, PHP. Владение <highlighttext>Python</highlighttext> будут плюсом.",
-        "city": "Казань"
-    },
-    {
-        "name": "Разработчик DWH",
-        "url": "https://hh.ru/vacancy/89779418",
-        "pay": null,
-        "requirement": "Экспертное знание SQL на уровне аналитических функций. <highlighttext>Python</highlighttext> - на уровне написания дагов для Airflow. Опыт работы с одной из MPP...",
-        "city": "Казань"
-    },
-    {
-        "name": "Преподаватель робототехники",
-        "url": "https://hh.ru/vacancy/89233708",
-        "pay": null,
-        "requirement": "Знание языков программирования (минимум 1 из списка): Scratch, <highlighttext>Python</highlighttext>, C++, Robot C. Наличие опыта работы в образовательных учреждениях не обязателен...",
-        "city": "Казань"
-    },
-    {
-        "name": "Преподаватель по Arduino, C++, Python",
-        "url": "https://hh.ru/vacancy/89815115",
-        "pay": 60000,
-        "requirement": "Знание одного или нескольких языков программирования Scratch/ <highlighttext>Python</highlighttext>/C/С++/С#. Опыт работы с Arduino IDЕ (приветствуется). Пунктуальность, аккуратность, исполнительность...",
-        "city": "Казань"
-    },
-    {
-        "name": "Linux инженер",
-        "url": "https://hh.ru/vacancy/86387758",
-        "pay": null,
-        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
-        "city": "Казань"
-    },
-    {
-        "name": "Методолог проекта ПВР",
-        "url": "https://hh.ru/vacancy/89686018",
-        "pay": null,
-        "requirement": "...приветствуется, но не обязательно). Знание требований Положения 483-П Банка России или МСФО9 (желательно). Знание <highlighttext>Python</highlighttext> желательно (для моделирования).",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель отдела аналитики",
-        "url": "https://hh.ru/vacancy/88129428",
-        "pay": null,
-        "requirement": "Аналогичный опыт работы приветствуется. Аналитический склад ума. Опыт работы с SQL, <highlighttext>Python</highlighttext>, Power BI. Готовность разбираться в большом объеме информации. ",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps (Linux) инженер",
-        "url": "https://hh.ru/vacancy/89451122",
-        "pay": null,
-        "requirement": "Опыт разработки скриптов с использованием интерпретируемых языков bash, <highlighttext>python</highlighttext>. Опыт работы с Docker, LXC. Понимание Agile, опыт работы по методологиям...",
-        "city": "Казань"
-    },
-    {
-        "name": "Специалист по безопасной разработке ПО (fuzzing testing)",
-        "url": "https://hh.ru/vacancy/88761715",
-        "pay": null,
-        "requirement": "Опыт работы с инструментами фаззинг тестирования. Знание С/C++, <highlighttext>Python</highlighttext>, Bash (С#??). Знание SQL, опыт работы с СУБД (Microsoft SQL...",
-        "city": "Казань"
-    },
-    {
-        "name": "ML-инженер в Центр технологий искусственного интеллекта",
-        "url": "https://hh.ru/vacancy/77922807",
-        "pay": null,
-        "requirement": "Разбираетесь в принципах работы современных алгоритмов машинного обучения. Знаете <highlighttext>Python</highlighttext>. Умеете декомпозировать задачу в переиспользуемые и тестируемые библиотеки и компоненты. ",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps-инженер",
-        "url": "https://hh.ru/vacancy/86864108",
-        "pay": null,
-        "requirement": "Хороший бэкграунд в области системного администрирования или разработки на <highlighttext>Python</highlighttext>. Уверенные знания Linux, Bash. Опыт работы с Git, Nginx, Prometheus...",
-        "city": "Казань"
-    },
-    {
-        "name": "Релиз менеджер",
-        "url": "https://hh.ru/vacancy/89204044",
-        "pay": null,
-        "requirement": "Продвинутый опыт работы с системами управления исходным кодом (Git). Опыт работы с CI/CD (Jenkins). Знание основ любого языка программирования...",
-        "city": "Казань"
-    },
-    {
-        "name": "Программист С++",
-        "url": "https://hh.ru/vacancy/90082533",
-        "pay": 170000,
-        "requirement": "Высшее/неполное высшее образование. Опыт разработки на С++. Уверенное знание STL. Понимание эффективных алгоритмов и структур данных. Опыт разработки под...",
-        "city": "Казань"
-    },
-    {
-        "name": "ETL developer",
-        "url": "https://hh.ru/vacancy/90378705",
-        "pay": 220000,
-        "requirement": "Уверенные знания SQL middle+ (Postgres, Clickhouse). Понимание ETL процедур ( REST, SQL, Java илиPython), и способов интеграции. Опыт общения со стриминговыми...",
-        "city": "Казань"
-    },
-    {
-        "name": "Senior/Middle data-аналитик",
-        "url": "https://hh.ru/vacancy/89598313",
-        "pay": null,
-        "requirement": "Уверенное знание <highlighttext>Python</highlighttext> с аналитическими библиотеками и SQL: Clickhouse, MySQL. Опыт проведения A/B-тестов и знание теоретической базы для...",
-        "city": "Казань"
-    },
-    {
-        "name": "Golang-разработчик (Statist)",
-        "url": "https://hh.ru/vacancy/85871694",
-        "pay": null,
-        "requirement": "...правильно построить CI/CD pipeline. Опыт работы с Kubernetes. Опыт работы на другом стеке (<highlighttext>Python</highlighttext>, Java, Kotlin и т.п.).",
-        "city": "Казань"
-    },
-    {
-        "name": "Менеджер по оценке реализации процессов",
-        "url": "https://hh.ru/vacancy/89822059",
-        "pay": null,
-        "requirement": "...функционал и подмечать детали. Уверенное знание Microsoft Office (продвинутый уровень Excel). Знание SQL, <highlighttext>Python</highlighttext>, Qlik, Тableau будет преимуществом. Английский - intermediate.",
+        "requirement": "Опыт работы с SQL, Hadoop, Azure, MSSQL. Опыт работы с <highlighttext>Python</highlighttext>. Опыт работы в ритейле, консалтинге или системном интеграторе. ",
         "city": "Казань"
     },
     {
@@ -1001,52 +700,52 @@
         "city": "Казань"
     },
     {
-        "name": "Инженер DevOps",
-        "url": "https://hh.ru/vacancy/89248018",
-        "pay": null,
-        "requirement": "...Terraform; Zabbix; Kubernetes или OpenShift; БД (MySQL\\Postgres\\ElasticSearch\\Redis); Kafka\\RabbitMQ; nginx,apache. Умение написание скриптов bash\\<highlighttext>python</highlighttext>\\perl.",
+        "name": "Старший специалист информационной безопасности",
+        "url": "https://hh.ru/vacancy/90026131",
+        "pay": 150000,
+        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
         "city": "Казань"
     },
     {
-        "name": "Преподаватель программирования в международную онлайн школу",
-        "url": "https://hh.ru/vacancy/89766032",
-        "pay": null,
-        "requirement": "Имеешь опыт обучения детей от 5 до 17 лет в группе или индивидуально. Знание английского и/или немецкого языков от...",
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/90082872",
+        "pay": 150000,
+        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
         "city": "Казань"
     },
     {
-        "name": "IT рекрутер",
-        "url": "https://hh.ru/vacancy/90112320",
+        "name": "Руководитель группы разработки (Team Lead)",
+        "url": "https://hh.ru/vacancy/77224953",
         "pay": null,
-        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
         "city": "Казань"
     },
     {
-        "name": "DevOps-инженер",
-        "url": "https://hh.ru/vacancy/90654144",
-        "pay": null,
-        "requirement": "Нам важен опыт. Понимание принципов межсервисного взаимодействия и построения распределенных отказоустойчивых систем. Умение собирать образы с применением best practices, работа...",
+        "name": "Ведущий инженер по развитию ИТ-инфраструктуры",
+        "url": "https://hh.ru/vacancy/88426504",
+        "pay": 90000,
+        "requirement": "Базовые знания сетевых технологий на уровне администратора. Знание ОС Linux (Astra Linux, Альт линукс, RedOs или иные из перечня отечественного...",
         "city": "Казань"
     },
     {
-        "name": "Преподаватель вводного урока",
-        "url": "https://hh.ru/vacancy/90505227",
-        "pay": 25000,
-        "requirement": "Минимальный опыт в программировании. Не боишься общения и уверенно чувствуешь себя перед камерой. Наличие мощного ноутбука для работы.",
+        "name": "Python разработчик (Middle)",
+        "url": "https://hh.ru/vacancy/88031148",
+        "pay": null,
+        "requirement": "Опыт коммерческой разработки от 2 лет на <highlighttext>Python</highlighttext>. Опыт коммерческой работы с Django;. Опыт работы с СУБД PostgreSQL. ",
         "city": "Казань"
     },
     {
-        "name": "DevOps Engineer",
-        "url": "https://hh.ru/vacancy/87970950",
+        "name": "Data analyst/Аналитик данных",
+        "url": "https://hh.ru/vacancy/87616194",
         "pay": null,
-        "requirement": "Опыт работы с k8s, Ansible, Nginx, ELK, Prometheus/Grafana. Написание Bash/<highlighttext>Python</highlighttext> скриптов. Опыт работы с Postgres.",
+        "requirement": "Знания математики, статистики, теории игр. Знания sql, clickhouse. Знания <highlighttext>python</highlighttext>, pandas, catboost, tensorflow/pythorch/lightautoml (для моделирования).",
         "city": "Казань"
     },
     {
-        "name": "Руководитель группы разработки (Teamlead back-end)",
-        "url": "https://hh.ru/vacancy/90316846",
+        "name": "Риск менеджер (направление антифрод)",
+        "url": "https://hh.ru/vacancy/88572845",
         "pay": null,
-        "requirement": "Опыт работы с PostgreSQL/PostGIS. Знание <highlighttext>Python</highlighttext>. Опыт разработки проектной и программной документации (описание архитектуры ПО, инструкции по работе с...",
+        "requirement": "...и проверять гипотезы, делать и презентовать выводы. Отличные коммуникативные навыки. Уверенное владение SQL, MS Office. <highlighttext>Python</highlighttext>, Power BI будет преимуществом.",
         "city": "Казань"
     },
     {
@@ -1057,157 +756,171 @@
         "city": "Казань"
     },
     {
-        "name": "Аналитик SOC L2",
-        "url": "https://hh.ru/vacancy/89853471",
+        "name": "Инженер-аналитик (алгоритмист)",
+        "url": "https://hh.ru/vacancy/87507923",
+        "pay": 320000,
+        "requirement": "Понимание ТАУ, теории навигации. Навыки работы с Matlab / Mathcad / Mathematica / <highlighttext>Python</highlighttext> Numpy / Anaconda. Опыт реализации проектов по созданию автономных мобильных...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер Linux",
+        "url": "https://hh.ru/vacancy/87691240",
         "pay": null,
-        "requirement": "Навыки автоматизации задач с помощью скриптовых языков (bash/<highlighttext>python</highlighttext>/powershell). Аналитические навыки и стремление доводить задачи до успешного завершения. ",
+        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Базовые знания сетевых технологий, сетевых сервисов (на уровне понимания принципов...",
         "city": "Казань"
     },
     {
-        "name": "Инженер по безопасной разработке (AppSec инженер)",
-        "url": "https://hh.ru/vacancy/89747199",
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/88060282",
         "pay": null,
-        "requirement": "Опыт работы с CI/CD конвейерами. Знание языков программирования (<highlighttext>Python</highlighttext>, Java). Знание индустриальных стандартов разработки безопасного программного обеспечения (NIST, OWASP...",
+        "requirement": "Опыт работы с системой управления конфигурациями Ansible. Знание принципов работы linux контейнеров (Docker) и систем оркестрации (Kubernetes/Docker Swarm). ",
         "city": "Казань"
     },
     {
-        "name": "Системный программист по верификации",
-        "url": "https://hh.ru/vacancy/90681987",
+        "name": "Инженер-аналитик (математическое моделирование)",
+        "url": "https://hh.ru/vacancy/87507948",
+        "pay": 160000,
+        "requirement": "Понимание ТАУ, теории навигации. Навыки работы с Matlab / Mathcad / Mathematica / <highlighttext>Python</highlighttext> Numpy / Anaconda. Опыт реализации проектов по созданию автономных мобильных...",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/89854510",
         "pay": null,
-        "requirement": "Уверенный пользователь Linux (включая cli & shell programming). Знание скриптовых языков (<highlighttext>python</highlighttext>/tcl). Опыт работы с низкоуровневыми средствами отладки (ICE probes...",
+        "requirement": "Знание БД (в частности PostgreSQL) будет являться преимуществом. Знание <highlighttext>Python</highlighttext> (будет являться преимуществом). Личные качества: самоорганизация, ответственность, желание обучаться новому...",
         "city": "Казань"
     },
     {
-        "name": "Fullstack разработчик (Python + JavaScript)",
-        "url": "https://hh.ru/vacancy/90187438",
+        "name": "Старший специалист",
+        "url": "https://hh.ru/vacancy/90420438",
+        "pay": 80000,
+        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер автоматизации ИТ-инфраструктуры (Linux, Operations)",
+        "url": "https://hh.ru/vacancy/83097488",
         "pay": null,
-        "requirement": "Опыт работы разработки на <highlighttext>Python</highlighttext> и JavaScript от 1 года. Стек: Django framework, ReactJS. DRF, ApiView, Flask framework, Redux, Git...",
+        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Базовые знания по платформе виртуализации на уровне пользователя (к примеру...",
         "city": "Казань"
     },
     {
-        "name": "ML engineer",
-        "url": "https://hh.ru/vacancy/90545856",
+        "name": "Devops инженер",
+        "url": "https://hh.ru/vacancy/85242060",
         "pay": null,
-        "requirement": "Знание <highlighttext>Python</highlighttext>. Опыт разработки решений с использованием популярных фреймворков машинного обучения (PyTorch, Transformers и других). Опыт работы с генеративными моделями. ",
+        "requirement": "...систем и баз данных. Построение закрытых сетей. Опыт работы с PHP (composer, symfony) . Умеете писать на <highlighttext>Python</highlighttext>. Навыки администрирования Windows.",
         "city": "Казань"
     },
     {
-        "name": "Android Security Researcher",
-        "url": "https://hh.ru/vacancy/90742736",
+        "name": "Эксперт центра мониторинга SOC (L3)",
+        "url": "https://hh.ru/vacancy/90288317",
+        "pay": 300000,
+        "requirement": "Опыт работы с инцидентами ИБ. Опыт написания скриптов (bash, PowerShell, <highlighttext>Python</highlighttext>). Уметь анализировать журналы регистраций событий СЗИ, журналы ОС, сетевого...",
+        "city": "Казань"
+    },
+    {
+        "name": "Разработчик DWH",
+        "url": "https://hh.ru/vacancy/89779418",
         "pay": null,
-        "requirement": "Опыт реверс-инжиниринга приложений под ОС Android. Готовность разрабатывать вспомогательные средства с использованием <highlighttext>Python</highlighttext>3, bash и т.д. ",
+        "requirement": "Экспертное знание SQL на уровне аналитических функций. <highlighttext>Python</highlighttext> - на уровне написания дагов для Airflow. Опыт работы с одной из MPP...",
         "city": "Казань"
     },
     {
-        "name": "Senior python разработчик",
-        "url": "https://hh.ru/vacancy/89196226",
+        "name": "C++ Developer/C++ Разработчик",
+        "url": "https://hh.ru/vacancy/89655164",
         "pay": null,
-        "requirement": "Знакомы с устройством протокола HTTP/1.1 (HTTP/2 будет плюсом). Понимаете, как разворачивать свой код. Умеете работать самостоятельно и...",
+        "requirement": "Опыт тестирования кода с помощью автотестов. Знание DPDK, SPDK, PMDK. Знание Rust/<highlighttext>Python</highlighttext>. Знание основных библиотек разработки HPC-инфраструктуры. ",
         "city": "Казань"
     },
     {
-        "name": "Преподаватель ИТ-дисциплин (Roblox)",
-        "url": "https://hh.ru/vacancy/90494961",
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/90698833",
         "pay": null,
-        "requirement": "Быть студентом (3-4 курсов) или выпускником ИТ-специальности. Обладать уверенными знаниями в рамках выбранного направления. Владеть навыками эффективной коммуникации. ",
+        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
         "city": "Казань"
     },
     {
-        "name": "Портфельный менеджер (микро, малый бизнес)",
-        "url": "https://hh.ru/vacancy/79833953",
+        "name": "Python - разработчик (Middle+)",
+        "url": "https://hh.ru/vacancy/90215168",
         "pay": null,
-        "requirement": "Знание корпоративных банковских продуктов/процессов/технологий. Хорошие технические навыки работы с данными (Excel , SQL или SAS). Владение <highlighttext>Python</highlighttext>, R и...",
+        "requirement": "...Docker Compose, <highlighttext>Python</highlighttext>, Git, Kubernates, PostgreSQL от 3,5х лет. Опыт работы на проекте в качестве единственного <highlighttext>python</highlighttext> - разработчика...",
         "city": "Казань"
     },
     {
-        "name": "Администратор технических средств/Devops",
-        "url": "https://hh.ru/vacancy/89986805",
+        "name": "Системный аналитик (ВК и ГОЗ)",
+        "url": "https://hh.ru/vacancy/85617080",
         "pay": null,
-        "requirement": "Практический опыт работы с GitLab. Знание языка <highlighttext>python</highlighttext>. Знание Linux (установка, базовая настройка, знание файловой системы, знание предназначений каталогов, базовые...",
+        "requirement": "Опыт работы с PostgreSQL, Oracle, MS SQL. Знание <highlighttext>Python</highlighttext>, Java на уровне \"подправить код\". Опыт построения WEB-интерфейсов для большого...",
         "city": "Казань"
     },
     {
-        "name": "Python Backend Developer",
-        "url": "https://hh.ru/vacancy/89639115",
+        "name": "Продуктовый аналитик",
+        "url": "https://hh.ru/vacancy/90418417",
         "pay": null,
-        "requirement": "<highlighttext>Python</highlighttext> (Django/FastAPI) + pytest, mypy, pylint. PostgreSQL + нужно уметь писать SQL запросы. Apache Kafka. Redis. Docker (+ чуть...",
+        "requirement": "Опыт использования и аналитики A/B-тестирования. Знание <highlighttext>Python</highlighttext> (будет преимуществом). Проактивность и включенность в работу. Нестандартные решения и желание...",
         "city": "Казань"
     },
     {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/90337370",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер по тестированию системного ПО",
-        "url": "https://hh.ru/vacancy/90681911",
+        "name": "Ведущий программист (Python)",
+        "url": "https://hh.ru/vacancy/88588643",
         "pay": null,
-        "requirement": "Опыт работы с системами автоматизации/CI (Jenkins, Gitlab CI). Знание скриптовых языков (<highlighttext>python</highlighttext>/shell). Знания и опыт в разработке полупроводниковых...",
+        "requirement": "Высшее техническое образование. Навыки программирования на <highlighttext>Python</highlighttext> от 3-х лет. Дизайн, создание, использование REST API. Опыт использования баз данных...",
         "city": "Казань"
     },
     {
-        "name": "Аналитик по работе в проектах импортозамещения оборудования и ПО",
-        "url": "https://hh.ru/vacancy/89115712",
-        "pay": 100000,
-        "requirement": "Опыт написания скриптов на bash, <highlighttext>python</highlighttext> – приветствуется. Опыт работы с ОС Linux - на серверной и десктопной платформах, особенно с клонами...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps specialist",
-        "url": "https://hh.ru/vacancy/89840296",
+        "name": "BI-разработчик (middle/senior)",
+        "url": "https://hh.ru/vacancy/88078153",
         "pay": null,
-        "requirement": "Опыт написания запросов на SQL (TSQL как плюс). Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>. Опыт работы с Git. ",
+        "requirement": "Высшее образование. Опыт работы от 2х лет в сфере BI-решений. ClickHouse / PostrgreSQL. SQL / DAX. JavaScript / HTML5.",
         "city": "Казань"
     },
     {
-        "name": "AQA (Middle / Middle+)",
-        "url": "https://hh.ru/vacancy/90561387",
+        "name": "Программист С++",
+        "url": "https://hh.ru/vacancy/90082533",
+        "pay": 170000,
+        "requirement": "Высшее/неполное высшее образование. Опыт разработки на С++. Уверенное знание STL. Понимание эффективных алгоритмов и структур данных. Опыт разработки под...",
+        "city": "Казань"
+    },
+    {
+        "name": "QA Automation (отдел автотестирования)",
+        "url": "https://hh.ru/vacancy/88432392",
+        "pay": 46000,
+        "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
+        "city": "Казань"
+    },
+    {
+        "name": "Релиз менеджер",
+        "url": "https://hh.ru/vacancy/89204044",
         "pay": null,
-        "requirement": "Опыт тестирования frontend & backend более 2-х лет. Владение автотестами на <highlighttext>Python</highlighttext> и Java (будет плюсом). Понимание процессов CI/CD. ",
+        "requirement": "Продвинутый опыт работы с системами управления исходным кодом (Git). Опыт работы с CI/CD (Jenkins). Знание основ любого языка программирования...",
         "city": "Казань"
     },
     {
-        "name": "Инженер систем мониторинга ИТ-инфраструктуры (Инженер Linux)",
-        "url": "https://hh.ru/vacancy/81651004",
+        "name": "Build-инженер/программист",
+        "url": "https://hh.ru/vacancy/90083033",
+        "pay": 125000,
+        "requirement": "Опыт работы с CMake, autotools и другими системами сборки. Знание <highlighttext>python</highlighttext> и bash на уровне написания скриптов. Желательно. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель программирования в международную онлайн школу",
+        "url": "https://hh.ru/vacancy/89766032",
         "pay": null,
-        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Опыт работы с системами мониторинга (Zabbix/Nagios одной или несколькими). ",
+        "requirement": "Имеешь опыт обучения детей от 5 до 17 лет в группе или индивидуально. Знание английского и/или немецкого языков от...",
         "city": "Казань"
     },
     {
-        "name": "Ведущий QA инженер",
-        "url": "https://hh.ru/vacancy/90095535",
+        "name": "Методолог проекта ПВР",
+        "url": "https://hh.ru/vacancy/89686018",
         "pay": null,
-        "requirement": "Желание выстраивать процессы, развивать практику тестирования и вкладываться в команду. Опыт автоматизации на <highlighttext>Python</highlighttext> будет плюсом. Опыт работы с Selenium...",
+        "requirement": "...приветствуется, но не обязательно). Знание требований Положения 483-П Банка России или МСФО9 (желательно). Знание <highlighttext>Python</highlighttext> желательно (для моделирования).",
         "city": "Казань"
     },
     {
-        "name": "DWH разработчик (middle/senior)",
-        "url": "https://hh.ru/vacancy/86841136",
+        "name": "Исследователь безопасности ПО",
+        "url": "https://hh.ru/vacancy/90742664",
         "pay": null,
-        "requirement": "Опыт работы разработчиком программных продуктов не менее 3 лет. Знание языков программирования: SQL, <highlighttext>Python</highlighttext>/Java. Знание СУБД: ClickHouse, PostrgreSQL, GreenPlum. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Middle DevOps Engineer (СЭД ТЕЗИС)",
-        "url": "https://hh.ru/vacancy/90299955",
-        "pay": null,
-        "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий инженер-программист встраиваемых систем",
-        "url": "https://hh.ru/vacancy/88134805",
-        "pay": null,
-        "requirement": "Опыт работы с ПЛИС Altera/Xilinx. Опыт разработки на <highlighttext>Python</highlighttext>, MATLAB. Опыт разработки ПО для одноплатных компьютеров. Знание архитектуры микроконтроллеров...",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий QA Automation (Программист-тестировщик)",
-        "url": "https://hh.ru/vacancy/90597910",
-        "pay": 90000,
-        "requirement": "Знание основных видов атак на (XSS, SQLi, CSRF, SSRF, DOS, etc.) и методов противодействия. Знания <highlighttext>python</highlighttext>. Умение решать задачи на...",
+        "requirement": "Опыт обратной разработки методами дизассемблирования приложений для других архитектур (MIPS, PowerPC и т.д.). Опыт разработки драйверов под пользовательские ОС...",
         "city": "Казань"
     },
     {
@@ -1218,6 +931,181 @@
         "city": "Казань"
     },
     {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/87970950",
+        "pay": null,
+        "requirement": "Опыт работы с k8s, Ansible, Nginx, ELK, Prometheus/Grafana. Написание Bash/<highlighttext>Python</highlighttext> скриптов. Опыт работы с Postgres.",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель по Arduino, C++, Python",
+        "url": "https://hh.ru/vacancy/89815115",
+        "pay": 60000,
+        "requirement": "Знание одного или нескольких языков программирования Scratch/ <highlighttext>Python</highlighttext>/C/С++/С#. Опыт работы с Arduino IDЕ (приветствуется). Пунктуальность, аккуратность, исполнительность...",
+        "city": "Казань"
+    },
+    {
+        "name": "NLP engineer / Data scientist NLP (продуктовая ИТ-компания, удаленно)",
+        "url": "https://hh.ru/vacancy/90749974",
+        "pay": null,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт работы с PyTorch, Numpy, Sklearn, Pandas. Опыт работы с LLM, дообучением GPT-like моделей. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель группы разработки (Teamlead back-end)",
+        "url": "https://hh.ru/vacancy/90316846",
+        "pay": null,
+        "requirement": "Опыт работы с PostgreSQL/PostGIS. Знание <highlighttext>Python</highlighttext>. Опыт разработки проектной и программной документации (описание архитектуры ПО, инструкции по работе с...",
+        "city": "Казань"
+    },
+    {
+        "name": "ML-инженер в Центр технологий искусственного интеллекта",
+        "url": "https://hh.ru/vacancy/77922807",
+        "pay": null,
+        "requirement": "Разбираетесь в принципах работы современных алгоритмов машинного обучения. Знаете <highlighttext>Python</highlighttext>. Умеете декомпозировать задачу в переиспользуемые и тестируемые библиотеки и компоненты. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Ведущий QA инженер",
+        "url": "https://hh.ru/vacancy/90095535",
+        "pay": null,
+        "requirement": "Желание выстраивать процессы, развивать практику тестирования и вкладываться в команду. Опыт автоматизации на <highlighttext>Python</highlighttext> будет плюсом. Опыт работы с Selenium...",
+        "city": "Казань"
+    },
+    {
+        "name": "ETL developer",
+        "url": "https://hh.ru/vacancy/90378705",
+        "pay": 220000,
+        "requirement": "Уверенные знания SQL middle+ (Postgres, Clickhouse). Понимание ETL процедур ( REST, SQL, Java илиPython), и способов интеграции. Опыт общения со стриминговыми...",
+        "city": "Казань"
+    },
+    {
+        "name": "Golang-разработчик (Statist)",
+        "url": "https://hh.ru/vacancy/85871694",
+        "pay": null,
+        "requirement": "...правильно построить CI/CD pipeline. Опыт работы с Kubernetes. Опыт работы на другом стеке (<highlighttext>Python</highlighttext>, Java, Kotlin и т.п.).",
+        "city": "Казань"
+    },
+    {
+        "name": "Специалист по безопасной разработке ПО (fuzzing testing)",
+        "url": "https://hh.ru/vacancy/88761715",
+        "pay": null,
+        "requirement": "Опыт работы с инструментами фаззинг тестирования. Знание С/C++, <highlighttext>Python</highlighttext>, Bash (С#??). Знание SQL, опыт работы с СУБД (Microsoft SQL...",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель робототехники",
+        "url": "https://hh.ru/vacancy/89233708",
+        "pay": null,
+        "requirement": "Знание языков программирования (минимум 1 из списка): Scratch, <highlighttext>Python</highlighttext>, C++, Robot C. Наличие опыта работы в образовательных учреждениях не обязателен...",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик по работе в проектах импортозамещения оборудования и ПО",
+        "url": "https://hh.ru/vacancy/89115712",
+        "pay": 100000,
+        "requirement": "Опыт написания скриптов на bash, <highlighttext>python</highlighttext> – приветствуется. Опыт работы с ОС Linux - на серверной и десктопной платформах, особенно с клонами...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер DevOps",
+        "url": "https://hh.ru/vacancy/89248018",
+        "pay": null,
+        "requirement": "...Terraform; Zabbix; Kubernetes или OpenShift; БД (MySQL\\Postgres\\ElasticSearch\\Redis); Kafka\\RabbitMQ; nginx,apache. Умение написание скриптов bash\\<highlighttext>python</highlighttext>\\perl.",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps (Linux) инженер",
+        "url": "https://hh.ru/vacancy/89451122",
+        "pay": null,
+        "requirement": "Опыт разработки скриптов с использованием интерпретируемых языков bash, <highlighttext>python</highlighttext>. Опыт работы с Docker, LXC. Понимание Agile, опыт работы по методологиям...",
+        "city": "Казань"
+    },
+    {
+        "name": "IT рекрутер",
+        "url": "https://hh.ru/vacancy/90112320",
+        "pay": null,
+        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик SOC L2",
+        "url": "https://hh.ru/vacancy/89853471",
+        "pay": null,
+        "requirement": "Навыки автоматизации задач с помощью скриптовых языков (bash/<highlighttext>python</highlighttext>/powershell). Аналитические навыки и стремление доводить задачи до успешного завершения. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер систем мониторинга ИТ-инфраструктуры (Инженер Linux)",
+        "url": "https://hh.ru/vacancy/81651004",
+        "pay": null,
+        "requirement": "Опыт использования скриптовых языков и сценариев командной строки (shell, <highlighttext>python</highlighttext>). Опыт работы с системами мониторинга (Zabbix/Nagios одной или несколькими). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Ведущий системный администратор (удаленно)",
+        "url": "https://hh.ru/vacancy/90327676",
+        "pay": null,
+        "requirement": "Опыт миграции почтовых систем. Навыки написания скриптов и автоматизации (<highlighttext>Python</highlighttext>, PowerShell, Bash, VBS). Знание и понимание Docker и Kubernetes. ",
+        "city": "Казань"
+    },
+    {
+        "name": "ML engineer",
+        "url": "https://hh.ru/vacancy/90545856",
+        "pay": null,
+        "requirement": "Знание <highlighttext>Python</highlighttext>. Опыт разработки решений с использованием популярных фреймворков машинного обучения (PyTorch, Transformers и других). Опыт работы с генеративными моделями. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Копирайтер / Администратор сайта в финтех-стартап",
+        "url": "https://hh.ru/vacancy/89921252",
+        "pay": null,
+        "requirement": "Грамотная письменная речь. Хороший уровень английского языка. Опыт работы с WordPress. Знания SEO, CSS, HTML, PHP. Владение <highlighttext>Python</highlighttext> будут плюсом.",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер по безопасной разработке (AppSec инженер)",
+        "url": "https://hh.ru/vacancy/89747199",
+        "pay": null,
+        "requirement": "Опыт работы с CI/CD конвейерами. Знание языков программирования (<highlighttext>Python</highlighttext>, Java). Знание индустриальных стандартов разработки безопасного программного обеспечения (NIST, OWASP...",
+        "city": "Казань"
+    },
+    {
+        "name": "Fullstack разработчик (Python + JavaScript)",
+        "url": "https://hh.ru/vacancy/90187438",
+        "pay": null,
+        "requirement": "Опыт работы разработки на <highlighttext>Python</highlighttext> и JavaScript от 1 года. Стек: Django framework, ReactJS. DRF, ApiView, Flask framework, Redux, Git...",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель отдела аналитики",
+        "url": "https://hh.ru/vacancy/88129428",
+        "pay": null,
+        "requirement": "Аналогичный опыт работы приветствуется. Аналитический склад ума. Опыт работы с SQL, <highlighttext>Python</highlighttext>, Power BI. Готовность разбираться в большом объеме информации. ",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps specialist",
+        "url": "https://hh.ru/vacancy/89840296",
+        "pay": null,
+        "requirement": "Опыт написания запросов на SQL (TSQL как плюс). Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>. Опыт работы с Git. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Linux инженер",
+        "url": "https://hh.ru/vacancy/86387758",
+        "pay": null,
+        "requirement": "Знакомство со SCADA, PLC и другими компонентами систем промышленной. Навыки программирования на языке <highlighttext>Python</highlighttext>. Опыт разработки проектной документации (ТЗ, технические...",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель вводного урока",
+        "url": "https://hh.ru/vacancy/90505227",
+        "pay": 25000,
+        "requirement": "Минимальный опыт в программировании. Не боишься общения и уверенно чувствуешь себя перед камерой. Наличие мощного ноутбука для работы.",
+        "city": "Казань"
+    },
+    {
         "name": "Инженер по нагрузочному тестированию",
         "url": "https://hh.ru/vacancy/90470403",
         "pay": null,
@@ -1225,17 +1113,164 @@
         "city": "Казань"
     },
     {
-        "name": "Старший/ведущий разработчик C++ (Linux/ OpenBMC)",
-        "url": "https://hh.ru/vacancy/90681926",
+        "name": "Ведущий инженер-программист встраиваемых систем",
+        "url": "https://hh.ru/vacancy/88134805",
         "pay": null,
-        "requirement": "Знание принципов работы systemd и d-bus. Знание <highlighttext>Python</highlighttext>. Хорошее знание C, достаточное для периодических работ с драйверами Linux и...",
+        "requirement": "Опыт работы с ПЛИС Altera/Xilinx. Опыт разработки на <highlighttext>Python</highlighttext>, MATLAB. Опыт разработки ПО для одноплатных компьютеров. Знание архитектуры микроконтроллеров...",
         "city": "Казань"
     },
     {
-        "name": "C++ Developer/C++ Разработчик",
-        "url": "https://hh.ru/vacancy/89655164",
+        "name": "Руководитель группы разработки (Oracle/Postgre)",
+        "url": "https://hh.ru/vacancy/89898489",
         "pay": null,
-        "requirement": "Опыт тестирования кода с помощью автотестов. Знание DPDK, SPDK, PMDK. Знание Rust/<highlighttext>Python</highlighttext>. Знание основных библиотек разработки HPC-инфраструктуры. ",
+        "requirement": "Опыт работы с другими СУБД (PostgreSQL,MS SQL, DB2 и тд). Умение читать код на Java/<highlighttext>Python</highlighttext>.",
+        "city": "Казань"
+    },
+    {
+        "name": "Администратор технических средств/Devops",
+        "url": "https://hh.ru/vacancy/89986805",
+        "pay": null,
+        "requirement": "Практический опыт работы с GitLab. Знание языка <highlighttext>python</highlighttext>. Знание Linux (установка, базовая настройка, знание файловой системы, знание предназначений каталогов, базовые...",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/86864108",
+        "pay": null,
+        "requirement": "Хороший бэкграунд в области системного администрирования или разработки на <highlighttext>Python</highlighttext>. Уверенные знания Linux, Bash. Опыт работы с Git, Nginx, Prometheus...",
+        "city": "Казань"
+    },
+    {
+        "name": "Ведущий QA Automation (Программист-тестировщик)",
+        "url": "https://hh.ru/vacancy/90597910",
+        "pay": 90000,
+        "requirement": "Знание основных видов атак на (XSS, SQLi, CSRF, SSRF, DOS, etc.) и методов противодействия. Знания <highlighttext>python</highlighttext>. Умение решать задачи на...",
+        "city": "Казань"
+    },
+    {
+        "name": "Технический директор/СТО",
+        "url": "https://hh.ru/vacancy/90252075",
+        "pay": null,
+        "requirement": "Высокий уровень коммуникативных навыков, умение вести переговоры. Умение работать в режиме многозадачности. <highlighttext>Python</highlighttext> (FastApi, Django). PHP (Yii Framework). ",
+        "city": "Казань"
+    },
+    {
+        "name": "Аналитик по сетевой безопасности",
+        "url": "https://hh.ru/vacancy/90254102",
+        "pay": null,
+        "requirement": "Знания сетевых технологий, архитектур основных семейств ОС. Навыки автоматизации задач с помощью скриптовых языков (bash/<highlighttext>python</highlighttext>/powershell). Аналитические навыки и...",
+        "city": "Казань"
+    },
+    {
+        "name": "Архитектор-параметрист (Grasshopper)",
+        "url": "https://hh.ru/vacancy/90342229",
+        "pay": 60000,
+        "requirement": "Знание Grasshopper средний или хороший уровень. Готовность обучаться новым плагинам, методам. Доброжелательность, внимательность, готовность слушать и задавать вопросы. ",
+        "city": "Казань"
+    },
+    {
+        "name": "AQA (Middle / Middle+)",
+        "url": "https://hh.ru/vacancy/90561387",
+        "pay": null,
+        "requirement": "Опыт тестирования frontend & backend более 2-х лет. Владение автотестами на <highlighttext>Python</highlighttext> и Java (будет плюсом). Понимание процессов CI/CD. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Менеджер по оценке реализации процессов",
+        "url": "https://hh.ru/vacancy/89822059",
+        "pay": null,
+        "requirement": "...функционал и подмечать детали. Уверенное знание Microsoft Office (продвинутый уровень Excel). Знание SQL, <highlighttext>Python</highlighttext>, Qlik, Тableau будет преимуществом. Английский - intermediate.",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель ИТ-дисциплин (Roblox)",
+        "url": "https://hh.ru/vacancy/90494961",
+        "pay": null,
+        "requirement": "Быть студентом (3-4 курсов) или выпускником ИТ-специальности. Обладать уверенными знаниями в рамках выбранного направления. Владеть навыками эффективной коммуникации. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Senior python разработчик",
+        "url": "https://hh.ru/vacancy/89196226",
+        "pay": null,
+        "requirement": "Знакомы с устройством протокола HTTP/1.1 (HTTP/2 будет плюсом). Понимаете, как разворачивать свой код. Умеете работать самостоятельно и...",
+        "city": "Казань"
+    },
+    {
+        "name": "Портфельный менеджер (микро, малый бизнес)",
+        "url": "https://hh.ru/vacancy/79833953",
+        "pay": null,
+        "requirement": "Знание корпоративных банковских продуктов/процессов/технологий. Хорошие технические навыки работы с данными (Excel , SQL или SAS). Владение <highlighttext>Python</highlighttext>, R и...",
+        "city": "Казань"
+    },
+    {
+        "name": "Android Security Researcher",
+        "url": "https://hh.ru/vacancy/90742736",
+        "pay": null,
+        "requirement": "Опыт реверс-инжиниринга приложений под ОС Android. Готовность разрабатывать вспомогательные средства с использованием <highlighttext>Python</highlighttext>3, bash и т.д. ",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/90654144",
+        "pay": null,
+        "requirement": "Нам важен опыт. Понимание принципов межсервисного взаимодействия и построения распределенных отказоустойчивых систем. Умение собирать образы с применением best practices, работа...",
+        "city": "Казань"
+    },
+    {
+        "name": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/89639115",
+        "pay": null,
+        "requirement": "<highlighttext>Python</highlighttext> (Django/FastAPI) + pytest, mypy, pylint. PostgreSQL + нужно уметь писать SQL запросы. Apache Kafka. Redis. Docker (+ чуть...",
+        "city": "Казань"
+    },
+    {
+        "name": "Python - разработчик (Middle/Senior)",
+        "url": "https://hh.ru/vacancy/89744820",
+        "pay": null,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, Django (минимум 1.5 года коммерческого опыта). Опыт написания Raw SQL запросов к MySql и Clickhouse. ",
+        "city": "Казань"
+    },
+    {
+        "name": "DWH разработчик (middle/senior)",
+        "url": "https://hh.ru/vacancy/86841136",
+        "pay": null,
+        "requirement": "Опыт работы разработчиком программных продуктов не менее 3 лет. Знание языков программирования: SQL, <highlighttext>Python</highlighttext>/Java. Знание СУБД: ClickHouse, PostrgreSQL, GreenPlum. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/90337370",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Senior backend developer",
+        "url": "https://hh.ru/vacancy/90047473",
+        "pay": 250000,
+        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
+        "city": "Казань"
+    },
+    {
+        "name": "Старший специалист",
+        "url": "https://hh.ru/vacancy/90420315",
+        "pay": 80000,
+        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
+        "city": "Казань"
+    },
+    {
+        "name": "IT Researcher / Sourcer",
+        "url": "https://hh.ru/vacancy/89958622",
+        "pay": null,
+        "requirement": "Опыт работы на позиции IT Researcher/Sourcer от 6 месяцев. Владение методами поиска кандидатов. Понимание сферы IT (основные компании, направления...",
+        "city": "Казань"
+    },
+    {
+        "name": "Lead Data инженер",
+        "url": "https://hh.ru/vacancy/89698132",
+        "pay": null,
+        "requirement": "Опыт работы с Airflow / Oozie или другими планировщиками и оркестраторами. Опыт разработки на <highlighttext>Python</highlighttext> / Java / Scala. Опыт работы с Kafka...",
         "city": "Казань"
     },
     {
@@ -1253,143 +1288,10 @@
         "city": "Казань"
     },
     {
-        "name": "Старший специалист",
-        "url": "https://hh.ru/vacancy/90420315",
-        "pay": 80000,
-        "requirement": "Владение <highlighttext>Python</highlighttext>. Знание основных библиотек и фреймворков для веб-разработки на <highlighttext>Python</highlighttext> 3 (Flask, Django). Знание библиотек: aiogram, asyncio, aiohttp...",
-        "city": "Казань"
-    },
-    {
-        "name": "Технический директор/СТО",
-        "url": "https://hh.ru/vacancy/90252075",
-        "pay": null,
-        "requirement": "Высокий уровень коммуникативных навыков, умение вести переговоры. Умение работать в режиме многозадачности. <highlighttext>Python</highlighttext> (FastApi, Django). PHP (Yii Framework). ",
-        "city": "Казань"
-    },
-    {
-        "name": "Middle Node.js developer [МТС Франчайзинг]",
-        "url": "https://hh.ru/vacancy/89998298",
-        "pay": null,
-        "requirement": "Приветствуется: - опыт работы с фреймворком Electron. - знание <highlighttext>Python</highlighttext>. - понимание принципов работы и написания драйверов под фискальные регистраторы Атол, Штрих, Вики...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик по сетевой безопасности",
-        "url": "https://hh.ru/vacancy/90254102",
-        "pay": null,
-        "requirement": "Знания сетевых технологий, архитектур основных семейств ОС. Навыки автоматизации задач с помощью скриптовых языков (bash/<highlighttext>python</highlighttext>/powershell). Аналитические навыки и...",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель группы разработки (Oracle/Postgre)",
-        "url": "https://hh.ru/vacancy/89898489",
-        "pay": null,
-        "requirement": "Опыт работы с другими СУБД (PostgreSQL,MS SQL, DB2 и тд). Умение читать код на Java/<highlighttext>Python</highlighttext>.",
-        "city": "Казань"
-    },
-    {
         "name": "Администратор систем информационной безопасности",
         "url": "https://hh.ru/vacancy/88569624",
         "pay": null,
         "requirement": "Опыт работы с сетевыми системами безопасности: WAF, NGFW, защиты от DDoS. Навык написания скриптов (bash, powershell, <highlighttext>python</highlighttext>). Наличие сертификатов по...",
-        "city": "Казань"
-    },
-    {
-        "name": "Senior backend developer",
-        "url": "https://hh.ru/vacancy/90047473",
-        "pay": 250000,
-        "requirement": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования...",
-        "city": "Казань"
-    },
-    {
-        "name": "Аналитик",
-        "url": "https://hh.ru/vacancy/86858499",
-        "pay": null,
-        "requirement": "Приветствуется знание SQL, инструменты BI, <highlighttext>Python</highlighttext>, PowerPoint И/ИЛИ желание их изучать и внедрять. Навыки исследования процессов, визуализации их в...",
-        "city": "Казань"
-    },
-    {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89643040",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
-        "city": "Казань"
-    },
-    {
-        "name": "Архитектор-параметрист (Grasshopper)",
-        "url": "https://hh.ru/vacancy/90342229",
-        "pay": 60000,
-        "requirement": "Знание Grasshopper средний или хороший уровень. Готовность обучаться новым плагинам, методам. Доброжелательность, внимательность, готовность слушать и задавать вопросы. ",
-        "city": "Казань"
-    },
-    {
-        "name": "QA-инженер (mobile) в Тинькофф Мобильный Банк",
-        "url": "https://hh.ru/vacancy/76266218",
-        "pay": null,
-        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Специалист по сетевому оборудованию",
-        "url": "https://hh.ru/vacancy/87933721",
-        "pay": null,
-        "requirement": "Опыт работы c Linux системами. Опыт написания скриптов на языках bash, <highlighttext>python</highlighttext>, go. Английский на уровне чтения технической документации.",
-        "city": "Казань"
-    },
-    {
-        "name": "QA-инженер (mobile)",
-        "url": "https://hh.ru/vacancy/88117220",
-        "pay": null,
-        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps инженер [Продуктовая фабрика]",
-        "url": "https://hh.ru/vacancy/90162676",
-        "pay": null,
-        "requirement": "Знание linux на уровне продвинутого пользователя bash/sh. Понимание принципов работы контейнеризации. Понимание и навыки выстраивания процессов CI/CD, IaC. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Lead Python developer",
-        "url": "https://hh.ru/vacancy/89750741",
-        "pay": null,
-        "requirement": "От 4 лет опыта коммерческой разработки на <highlighttext>Python</highlighttext>. От 1 года управлением командой разработки. Django/FastAPI, pytest, SQL DB (желательно...",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный инженер Linux",
-        "url": "https://hh.ru/vacancy/89266612",
-        "pay": null,
-        "requirement": "Базовые навыки разработки ПО для мелких исправлений и работы со скриптами (<highlighttext>Python</highlighttext>, Bash и т.п.). Работы с серверами стандартной...",
-        "city": "Казань"
-    },
-    {
-        "name": "Программист С#",
-        "url": "https://hh.ru/vacancy/90491393",
-        "pay": null,
-        "requirement": "Знание одного из языков общего назначения (C#, Java, <highlighttext>Python</highlighttext>, Delphi, С++). Желательно наличие опыта командной разработки (ревью кода, работа по...",
-        "city": "Казань"
-    },
-    {
-        "name": "QA Automation",
-        "url": "https://hh.ru/vacancy/88432488",
-        "pay": 46000,
-        "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
-        "city": "Казань"
-    },
-    {
-        "name": "Преподаватель по робототехнике и программированию",
-        "url": "https://hh.ru/vacancy/90223807",
-        "pay": 5000,
-        "requirement": "...языком программирования Scratch, платой Arduino, знание языка программирования Wiring/C/C++/<highlighttext>Python</highlighttext>. - опыт работы преподавателем робототехники. - опыт работы с детьми.",
-        "city": "Казань"
-    },
-    {
-        "name": "Ведущий C++, Python-программист",
-        "url": "https://hh.ru/vacancy/90548369",
-        "pay": 230000,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, SQL, С++. Навыки руководства проектами, выстраивания и приоритезации работ сотрудников. Опыт выполнения оптимизационных или высоконагруженных задач. ",
         "city": "Казань"
     },
     {
@@ -1400,143 +1302,10 @@
         "city": "Казань"
     },
     {
-        "name": "QA Automation Engineer (Python)",
-        "url": "https://hh.ru/vacancy/89835056",
+        "name": "Системный программист по верификации",
+        "url": "https://hh.ru/vacancy/90681987",
         "pay": null,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт тестирования встраиваемого ПО (embedded). Опыт разработки автотестов на <highlighttext>Python</highlighttext> от 1 года лет. Опыт написания тест...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps инженер (Middle\\Remote)",
-        "url": "https://hh.ru/vacancy/90673694",
-        "pay": 200000,
-        "requirement": "Знание скриптов автоматизации: <highlighttext>Python</highlighttext> (крайне желательно), Bash и Powershell. Опыт использования пакетных менеджеров (желательно Maven). Уверенное знание основных моделей ветвления...",
-        "city": "Казань"
-    },
-    {
-        "name": "Lead Data инженер",
-        "url": "https://hh.ru/vacancy/89698132",
-        "pay": null,
-        "requirement": "Опыт работы с Airflow / Oozie или другими планировщиками и оркестраторами. Опыт разработки на <highlighttext>Python</highlighttext> / Java / Scala. Опыт работы с Kafka...",
-        "city": "Казань"
-    },
-    {
-        "name": "Python - разработчик (Middle/Senior)",
-        "url": "https://hh.ru/vacancy/89744820",
-        "pay": null,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, Django (минимум 1.5 года коммерческого опыта). Опыт написания Raw SQL запросов к MySql и Clickhouse. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель отдела коммерческой аналитики",
-        "url": "https://hh.ru/vacancy/90375512",
-        "pay": null,
-        "requirement": "Уверенные знания SQL. Навыки программирования (например, <highlighttext>Python</highlighttext>, R) и использования инструментов визуализации данных. Опыт выстраивания сквозной аналитики и разработки моделей...",
-        "city": "Казань"
-    },
-    {
-        "name": "Менеджер управления инцидентами информационной безопасности",
-        "url": "https://hh.ru/vacancy/89970367",
-        "pay": null,
-        "requirement": "Написание политик в DLP. Навыки разработки на современных скриптовых языках (<highlighttext>Python</highlighttext>) для автоматизации рабочих задач. Знание основных векторов атак. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Middle Fullstack (Node.js и Angular) developer [МТС Франчайзинг]",
-        "url": "https://hh.ru/vacancy/89667937",
-        "pay": null,
-        "requirement": "Приветствуется: - опыт работы с фреймворком Electron. - знание <highlighttext>Python</highlighttext>. - понимание принципов работы и написания драйверов под фискальные регистраторы Атол, Штрих, Вики...",
-        "city": "Казань"
-    },
-    {
-        "name": "DevOps инженер (Kubernetes)",
-        "url": "https://hh.ru/vacancy/86981763",
-        "pay": null,
-        "requirement": "Понимание процессов Software Development. Также пригодятся. Опыт разработки на Bash/<highlighttext>Python</highlighttext>/Golang. Опыт написания Gitlab CI/CD Pipelines. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Системный аналитик",
-        "url": "https://hh.ru/vacancy/88950511",
-        "pay": null,
-        "requirement": "Опыт работы на аналогичной позиции от 3 лет. Опыт программирования на <highlighttext>Python</highlighttext> или любом другом языке программирования. Опыт работы в...",
-        "city": "Казань"
-    },
-    {
-        "name": "Эксперт по сетевому направлению",
-        "url": "https://hh.ru/vacancy/86319877",
-        "pay": null,
-        "requirement": "Высшее образование по профилю ИТ. Практический опыт работы от 5 лет с маршрутизаторами, коммутаторами и межсетевыми экранами (будет плюсом) Juniper...",
-        "city": "Казань"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/89719577",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Разработчик DWH (удаленно)",
-        "url": "https://hh.ru/vacancy/89059553",
-        "pay": null,
-        "requirement": "Глубокие знания одного из языков программирования - <highlighttext>Python</highlighttext>, Spark, Scala, Java. Понимание принципов построения интеграционных процессов, проектирования ХД, функционала загрузки, витрин...",
-        "city": "Казань"
-    },
-    {
-        "name": "IT Researcher / Sourcer",
-        "url": "https://hh.ru/vacancy/89958622",
-        "pay": null,
-        "requirement": "Опыт работы на позиции IT Researcher/Sourcer от 6 месяцев. Владение методами поиска кандидатов. Понимание сферы IT (основные компании, направления...",
-        "city": "Казань"
-    },
-    {
-        "name": "Руководитель направления системного администрирования",
-        "url": "https://hh.ru/vacancy/89563823",
-        "pay": null,
-        "requirement": "...для чтения технической литературы. Знание методологии itil. Опыт участия в разработке/поддержке внутренних сервисов и скриптов автоматизации (bash, <highlighttext>python</highlighttext>, golang).",
-        "city": "Казань"
-    },
-    {
-        "name": "Senior / Team Lead Data scientist",
-        "url": "https://hh.ru/vacancy/90593782",
-        "pay": null,
-        "requirement": "опыт работы с Pytorch, Tensorflow или Mxnet, а также отличное владение <highlighttext>Python</highlighttext>, PySpark, SQL, Airflow. — глубокие знания и опыт работы...",
-        "city": "Казань"
-    },
-    {
-        "name": "Senior/Middle Machine Learning Engineer",
-        "url": "https://hh.ru/vacancy/90410559",
-        "pay": 150000,
-        "requirement": "Понимание метрик эффективности моделей машинного обучения. Знание С/С++, <highlighttext>Python</highlighttext> (multithreading, numpy, scikit, pandas, matplotlib и др.). Знание и опыт...",
-        "city": "Казань"
-    },
-    {
-        "name": "Инженер-Конструктор ПГС (AUTODESK REVIT)",
-        "url": "https://hh.ru/vacancy/89842893",
-        "pay": null,
-        "requirement": "Желание развиваться по направлению BIM. Возможность профессионального роста и развития в IT строительства, опыт программирования на C# и <highlighttext>Python</highlighttext> приветствуется.",
-        "city": "Казань"
-    },
-    {
-        "name": "Репетитор по подготовке к ЕГЭ/ОГЭ и школьной программе по информатике (удаленно)",
-        "url": "https://hh.ru/vacancy/90640607",
-        "pay": null,
-        "requirement": "Готов развиваться в сфере онлайн-образования, осваивая новые инструменты. Любишь свою работу и главное для тебя - это доводить своих учеников...",
-        "city": "Казань"
-    },
-    {
-        "name": "Главный инженер LINUX на проекты внедрения",
-        "url": "https://hh.ru/vacancy/86779255",
-        "pay": null,
-        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, perl, bash, javascript). Знание современных API и форматов данных. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Specialist DevOps",
-        "url": "https://hh.ru/vacancy/87615622",
-        "pay": null,
-        "requirement": "Знание Helm3, Kustomize, jsonnet. Знание одного из языков разработки: <highlighttext>Python</highlighttext>, Golang. Опыт работы с облачными провайдерами на технологии: Openstack...",
+        "requirement": "Уверенный пользователь Linux (включая cli & shell programming). Знание скриптовых языков (<highlighttext>python</highlighttext>/tcl). Опыт работы с низкоуровневыми средствами отладки (ICE probes...",
         "city": "Казань"
     },
     {
@@ -1547,17 +1316,115 @@
         "city": "Казань"
     },
     {
-        "name": "Devops Engineer (Системный инженер) Senior",
-        "url": "https://hh.ru/vacancy/90520531",
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/86858499",
         "pay": null,
-        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
+        "requirement": "Приветствуется знание SQL, инструменты BI, <highlighttext>Python</highlighttext>, PowerPoint И/ИЛИ желание их изучать и внедрять. Навыки исследования процессов, визуализации их в...",
         "city": "Казань"
     },
     {
-        "name": "Учитель информатики",
-        "url": "https://hh.ru/vacancy/90137464",
+        "name": "Middle DevOps Engineer (СЭД ТЕЗИС)",
+        "url": "https://hh.ru/vacancy/90299955",
         "pay": null,
-        "requirement": "Прохождение на высоком уровне теста на исследование педагогических компетенций. Знание программ <highlighttext>Python</highlighttext> и Javascript / Unity + C#. Опыт работы на...",
+        "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
+        "city": "Казань"
+    },
+    {
+        "name": "QA-инженер (mobile)",
+        "url": "https://hh.ru/vacancy/88117220",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Старший/ведущий разработчик C++ (Linux/ OpenBMC)",
+        "url": "https://hh.ru/vacancy/90681926",
+        "pay": null,
+        "requirement": "Знание принципов работы systemd и d-bus. Знание <highlighttext>Python</highlighttext>. Хорошее знание C, достаточное для периодических работ с драйверами Linux и...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер по тестированию системного ПО",
+        "url": "https://hh.ru/vacancy/90681911",
+        "pay": null,
+        "requirement": "Опыт работы с системами автоматизации/CI (Jenkins, Gitlab CI). Знание скриптовых языков (<highlighttext>python</highlighttext>/shell). Знания и опыт в разработке полупроводниковых...",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный инженер Linux",
+        "url": "https://hh.ru/vacancy/89266612",
+        "pay": null,
+        "requirement": "Базовые навыки разработки ПО для мелких исправлений и работы со скриптами (<highlighttext>Python</highlighttext>, Bash и т.п.). Работы с серверами стандартной...",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps инженер [Продуктовая фабрика]",
+        "url": "https://hh.ru/vacancy/90162676",
+        "pay": null,
+        "requirement": "Знание linux на уровне продвинутого пользователя bash/sh. Понимание принципов работы контейнеризации. Понимание и навыки выстраивания процессов CI/CD, IaC. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Ведущий C++, Python-программист",
+        "url": "https://hh.ru/vacancy/90548369",
+        "pay": 230000,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, SQL, С++. Навыки руководства проектами, выстраивания и приоритезации работ сотрудников. Опыт выполнения оптимизационных или высоконагруженных задач. ",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps инженер (Kubernetes)",
+        "url": "https://hh.ru/vacancy/86981763",
+        "pay": null,
+        "requirement": "Понимание процессов Software Development. Также пригодятся. Опыт разработки на Bash/<highlighttext>Python</highlighttext>/Golang. Опыт написания Gitlab CI/CD Pipelines. ",
+        "city": "Казань"
+    },
+    {
+        "name": "QA Automation Engineer (Python)",
+        "url": "https://hh.ru/vacancy/89835056",
+        "pay": null,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт тестирования встраиваемого ПО (embedded). Опыт разработки автотестов на <highlighttext>Python</highlighttext> от 1 года лет. Опыт написания тест...",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель отдела коммерческой аналитики",
+        "url": "https://hh.ru/vacancy/90375512",
+        "pay": null,
+        "requirement": "Уверенные знания SQL. Навыки программирования (например, <highlighttext>Python</highlighttext>, R) и использования инструментов визуализации данных. Опыт выстраивания сквозной аналитики и разработки моделей...",
+        "city": "Казань"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643040",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Казань"
+    },
+    {
+        "name": "Эксперт по сетевому направлению",
+        "url": "https://hh.ru/vacancy/86319877",
+        "pay": null,
+        "requirement": "Высшее образование по профилю ИТ. Практический опыт работы от 5 лет с маршрутизаторами, коммутаторами и межсетевыми экранами (будет плюсом) Juniper...",
+        "city": "Казань"
+    },
+    {
+        "name": "Программист С#",
+        "url": "https://hh.ru/vacancy/90491393",
+        "pay": null,
+        "requirement": "Знание одного из языков общего назначения (C#, Java, <highlighttext>Python</highlighttext>, Delphi, С++). Желательно наличие опыта командной разработки (ревью кода, работа по...",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps инженер (Middle\\Remote)",
+        "url": "https://hh.ru/vacancy/90673694",
+        "pay": 200000,
+        "requirement": "Знание скриптов автоматизации: <highlighttext>Python</highlighttext> (крайне желательно), Bash и Powershell. Опыт использования пакетных менеджеров (желательно Maven). Уверенное знание основных моделей ветвления...",
+        "city": "Казань"
+    },
+    {
+        "name": "QA-инженер (mobile) в Тинькофф Мобильный Банк",
+        "url": "https://hh.ru/vacancy/76266218",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
         "city": "Казань"
     },
     {
@@ -1568,17 +1435,94 @@
         "city": "Казань"
     },
     {
-        "name": "Golang- разработчик (Senior)",
-        "url": "https://hh.ru/vacancy/89352061",
-        "pay": null,
-        "requirement": "Способность самостоятельно прорабатывать задачи и выявлять недостающие требования совместно с project - менеджером. Будет плюсом знание знание <highlighttext>Python</highlighttext>, Rust, Docker, Ansible...",
+        "name": "QA Automation",
+        "url": "https://hh.ru/vacancy/88432488",
+        "pay": 46000,
+        "requirement": "Желание развиваться в области автотестирования. Будет несомненным плюсом: Знание <highlighttext>Python</highlighttext>. Знание Selenium Webdriver. Опыт разработки автотестов. Понимание принципов разработки и...",
         "city": "Казань"
     },
     {
-        "name": "DevOps-инженер (Saltstack)",
-        "url": "https://hh.ru/vacancy/89655820",
+        "name": "Специалист по сетевому оборудованию",
+        "url": "https://hh.ru/vacancy/87933721",
         "pay": null,
-        "requirement": "Знание основных принципов и подходов DevOps. Знание SaltStack. Построение zero trust инфраструктур с применением OpenZiti. Умение проводить нагрузочное тестирование с...",
+        "requirement": "Опыт работы c Linux системами. Опыт написания скриптов на языках bash, <highlighttext>python</highlighttext>, go. Английский на уровне чтения технической документации.",
+        "city": "Казань"
+    },
+    {
+        "name": "Менеджер управления инцидентами информационной безопасности",
+        "url": "https://hh.ru/vacancy/89970367",
+        "pay": null,
+        "requirement": "Написание политик в DLP. Навыки разработки на современных скриптовых языках (<highlighttext>Python</highlighttext>) для автоматизации рабочих задач. Знание основных векторов атак. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle Node.js developer [МТС Франчайзинг]",
+        "url": "https://hh.ru/vacancy/89998298",
+        "pay": null,
+        "requirement": "Приветствуется: - опыт работы с фреймворком Electron. - знание <highlighttext>Python</highlighttext>. - понимание принципов работы и написания драйверов под фискальные регистраторы Атол, Штрих, Вики...",
+        "city": "Казань"
+    },
+    {
+        "name": "Разработчик DWH (удаленно)",
+        "url": "https://hh.ru/vacancy/89059553",
+        "pay": null,
+        "requirement": "Глубокие знания одного из языков программирования - <highlighttext>Python</highlighttext>, Spark, Scala, Java. Понимание принципов построения интеграционных процессов, проектирования ХД, функционала загрузки, витрин...",
+        "city": "Казань"
+    },
+    {
+        "name": "Учитель информатики",
+        "url": "https://hh.ru/vacancy/90137464",
+        "pay": null,
+        "requirement": "Прохождение на высоком уровне теста на исследование педагогических компетенций. Знание программ <highlighttext>Python</highlighttext> и Javascript / Unity + C#. Опыт работы на...",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle Fullstack (Node.js и Angular) developer [МТС Франчайзинг]",
+        "url": "https://hh.ru/vacancy/89667937",
+        "pay": null,
+        "requirement": "Приветствуется: - опыт работы с фреймворком Electron. - знание <highlighttext>Python</highlighttext>. - понимание принципов работы и написания драйверов под фискальные регистраторы Атол, Штрих, Вики...",
+        "city": "Казань"
+    },
+    {
+        "name": "Senior/Middle Machine Learning Engineer",
+        "url": "https://hh.ru/vacancy/90410559",
+        "pay": 150000,
+        "requirement": "Понимание метрик эффективности моделей машинного обучения. Знание С/С++, <highlighttext>Python</highlighttext> (multithreading, numpy, scikit, pandas, matplotlib и др.). Знание и опыт...",
+        "city": "Казань"
+    },
+    {
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/88950511",
+        "pay": null,
+        "requirement": "Опыт работы на аналогичной позиции от 3 лет. Опыт программирования на <highlighttext>Python</highlighttext> или любом другом языке программирования. Опыт работы в...",
+        "city": "Казань"
+    },
+    {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/89719577",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Руководитель направления системного администрирования",
+        "url": "https://hh.ru/vacancy/89563823",
+        "pay": null,
+        "requirement": "...для чтения технической литературы. Знание методологии itil. Опыт участия в разработке/поддержке внутренних сервисов и скриптов автоматизации (bash, <highlighttext>python</highlighttext>, golang).",
+        "city": "Казань"
+    },
+    {
+        "name": "Devops Engineer (Системный инженер) Senior",
+        "url": "https://hh.ru/vacancy/90520531",
+        "pay": null,
+        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
+        "city": "Казань"
+    },
+    {
+        "name": "Преподаватель по робототехнике и программированию",
+        "url": "https://hh.ru/vacancy/90223807",
+        "pay": 5000,
+        "requirement": "...языком программирования Scratch, платой Arduino, знание языка программирования Wiring/C/C++/<highlighttext>Python</highlighttext>. - опыт работы преподавателем робототехники. - опыт работы с детьми.",
         "city": "Казань"
     },
     {
@@ -1589,6 +1533,13 @@
         "city": "Казань"
     },
     {
+        "name": "Senior / Team Lead Data scientist",
+        "url": "https://hh.ru/vacancy/90593782",
+        "pay": null,
+        "requirement": "опыт работы с Pytorch, Tensorflow или Mxnet, а также отличное владение <highlighttext>Python</highlighttext>, PySpark, SQL, Airflow. — глубокие знания и опыт работы...",
+        "city": "Казань"
+    },
+    {
         "name": "Репетитор по информатике (удаленно)",
         "url": "https://hh.ru/vacancy/85042789",
         "pay": null,
@@ -1596,31 +1547,17 @@
         "city": "Казань"
     },
     {
-        "name": "Data analyst (senior / team lead)",
-        "url": "https://hh.ru/vacancy/90594043",
+        "name": "Specialist DevOps",
+        "url": "https://hh.ru/vacancy/87615622",
         "pay": null,
-        "requirement": "понимание инструментов анализа данных <highlighttext>Python</highlighttext>, умение визуализировать инсайты. — опыт создания дашбордов и аналитических отчетов. — умение планировать, управлять командой, презентовать результаты...",
+        "requirement": "Знание Helm3, Kustomize, jsonnet. Знание одного из языков разработки: <highlighttext>Python</highlighttext>, Golang. Опыт работы с облачными провайдерами на технологии: Openstack...",
         "city": "Казань"
     },
     {
-        "name": "Инженер / DBA PostgreSQL",
-        "url": "https://hh.ru/vacancy/87913142",
+        "name": "Главный инженер LINUX на проекты внедрения",
+        "url": "https://hh.ru/vacancy/86779255",
         "pay": null,
-        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Плюсом будет опыт работы. Движухи на уровне всей компании. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/86173322",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Казань"
-    },
-    {
-        "name": "Старший системный администратор Linux",
-        "url": "https://hh.ru/vacancy/76974868",
-        "pay": null,
-        "requirement": "Навыки написания сложных скриптов (Bash, <highlighttext>Python</highlighttext>, Perl), умение разобраться в чужом коде. Опыт автоматизации развертывания приложений и инфраструктурных сервисов на...",
+        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, perl, bash, javascript). Знание современных API и форматов данных. ",
         "city": "Казань"
     },
     {
@@ -1631,6 +1568,55 @@
         "city": "Казань"
     },
     {
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/86173322",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Golang- разработчик (Senior)",
+        "url": "https://hh.ru/vacancy/89352061",
+        "pay": null,
+        "requirement": "Способность самостоятельно прорабатывать задачи и выявлять недостающие требования совместно с project - менеджером. Будет плюсом знание знание <highlighttext>Python</highlighttext>, Rust, Docker, Ansible...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер / DBA PostgreSQL",
+        "url": "https://hh.ru/vacancy/87913142",
+        "pay": null,
+        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Плюсом будет опыт работы. Движухи на уровне всей компании. ",
+        "city": "Казань"
+    },
+    {
+        "name": "Репетитор по подготовке к ЕГЭ/ОГЭ и школьной программе по информатике (удаленно)",
+        "url": "https://hh.ru/vacancy/90640607",
+        "pay": null,
+        "requirement": "Готов развиваться в сфере онлайн-образования, осваивая новые инструменты. Любишь свою работу и главное для тебя - это доводить своих учеников...",
+        "city": "Казань"
+    },
+    {
+        "name": "Инженер-Конструктор ПГС (AUTODESK REVIT)",
+        "url": "https://hh.ru/vacancy/89842893",
+        "pay": null,
+        "requirement": "Желание развиваться по направлению BIM. Возможность профессионального роста и развития в IT строительства, опыт программирования на C# и <highlighttext>Python</highlighttext> приветствуется.",
+        "city": "Казань"
+    },
+    {
+        "name": "DevOps-инженер (Saltstack)",
+        "url": "https://hh.ru/vacancy/89655820",
+        "pay": null,
+        "requirement": "Знание основных принципов и подходов DevOps. Знание SaltStack. Построение zero trust инфраструктур с применением OpenZiti. Умение проводить нагрузочное тестирование с...",
+        "city": "Казань"
+    },
+    {
+        "name": "Data analyst (senior / team lead)",
+        "url": "https://hh.ru/vacancy/90594043",
+        "pay": null,
+        "requirement": "понимание инструментов анализа данных <highlighttext>Python</highlighttext>, умение визуализировать инсайты. — опыт создания дашбордов и аналитических отчетов. — умение планировать, управлять командой, презентовать результаты...",
+        "city": "Казань"
+    },
+    {
         "name": "Эксперт по эксплуатации системы Directum",
         "url": "https://hh.ru/vacancy/88509958",
         "pay": null,
@@ -1638,17 +1624,24 @@
         "city": "Казань"
     },
     {
-        "name": "BIM Координатор (Конструктивные решения)",
-        "url": "https://hh.ru/vacancy/89843285",
+        "name": "Старший системный администратор Linux",
+        "url": "https://hh.ru/vacancy/76974868",
         "pay": null,
-        "requirement": "Опыт программирования на C# и <highlighttext>Python</highlighttext> приветствуется. Умение работать в команде, коммуникабельность, открытость, легкость в общении. Указать желаемую зарплату. ",
+        "requirement": "Навыки написания сложных скриптов (Bash, <highlighttext>Python</highlighttext>, Perl), умение разобраться в чужом коде. Опыт автоматизации развертывания приложений и инфраструктурных сервисов на...",
         "city": "Казань"
     },
     {
-        "name": "Инженер/DBA Elasticsearch",
-        "url": "https://hh.ru/vacancy/87774827",
+        "name": "Middle Node.JS developer / Back-end developer",
+        "url": "https://hh.ru/vacancy/87730126",
         "pay": null,
-        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Навык конструктивного общения с командами разработки. Плюсом будет опыт работы. ",
+        "requirement": "Опытного разработчика, обладающего широким кругозором и знаниями алгоритмов. - Для успешного деливери требуется знание следующих технологий: postgres, typescript, git. - ",
+        "city": "Казань"
+    },
+    {
+        "name": "Специалист по количественным исследованиям (middle+/senior)",
+        "url": "https://hh.ru/vacancy/86558452",
+        "pay": null,
+        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
         "city": "Казань"
     },
     {
@@ -1659,10 +1652,17 @@
         "city": "Казань"
     },
     {
-        "name": "Middle Node.JS developer / Back-end developer",
-        "url": "https://hh.ru/vacancy/87730126",
+        "name": "Инженер/DBA Elasticsearch",
+        "url": "https://hh.ru/vacancy/87774827",
         "pay": null,
-        "requirement": "Опытного разработчика, обладающего широким кругозором и знаниями алгоритмов. - Для успешного деливери требуется знание следующих технологий: postgres, typescript, git. - ",
+        "requirement": "Опыт автоматизации процессов сопровождения (Ansible, Bash, <highlighttext>Python</highlighttext> и др.). Навык конструктивного общения с командами разработки. Плюсом будет опыт работы. ",
+        "city": "Казань"
+    },
+    {
+        "name": "BIM Координатор (Конструктивные решения)",
+        "url": "https://hh.ru/vacancy/89843285",
+        "pay": null,
+        "requirement": "Опыт программирования на C# и <highlighttext>Python</highlighttext> приветствуется. Умение работать в команде, коммуникабельность, открытость, легкость в общении. Указать желаемую зарплату. ",
         "city": "Казань"
     },
     {
@@ -1687,13 +1687,6 @@
         "city": "Казань"
     },
     {
-        "name": "Специалист по количественным исследованиям (middle+/senior)",
-        "url": "https://hh.ru/vacancy/86558452",
-        "pay": null,
-        "requirement": "Владеете инструментами для анализа данных: Excel, SPSS, DataTile, R, <highlighttext>Python</highlighttext>. Самостоятельны, внимательны и ответственны, готовы работать в режиме многозадачности.",
-        "city": "Казань"
-    },
-    {
         "name": "Преподаватель программирования для детей (удаленно)",
         "url": "https://hh.ru/vacancy/90574667",
         "pay": null,
@@ -1701,17 +1694,17 @@
         "city": "Казань"
     },
     {
-        "name": "Senior Full Stack Developer (Python)",
-        "url": "https://hh.ru/vacancy/90098070",
-        "pay": null,
-        "requirement": "Навыки работы с AWS и с Docker на уровне пользователя. Навыки работы с оркестраторами (Nomad, K8s и тд). ",
-        "city": "Казань"
-    },
-    {
         "name": "Репетитор по информатике (удаленно)",
         "url": "https://hh.ru/vacancy/90271384",
         "pay": null,
         "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
+        "city": "Казань"
+    },
+    {
+        "name": "Senior Full Stack Developer (Python)",
+        "url": "https://hh.ru/vacancy/90098070",
+        "pay": null,
+        "requirement": "Навыки работы с AWS и с Docker на уровне пользователя. Навыки работы с оркестраторами (Nomad, K8s и тд). ",
         "city": "Казань"
     },
     {

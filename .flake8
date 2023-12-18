@@ -6,5 +6,3 @@ max-line-length = 91
 
 exclude = **/migrations/**,env,**/settings.py
 
-per-file-ignores =
-    pyskill/src/classes/JSON_saver.py: W605

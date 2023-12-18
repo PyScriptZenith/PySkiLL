@@ -17,7 +17,7 @@ class JSON_Saver:
         """Записывает вакансии в JSON"""
 
         with open(
-            f"{self.PARCED_DATA_PATH}\{self.filename}.json", "w", encoding="utf-8"
+                f"{self.PARCED_DATA_PATH}\\{self.filename}.json", "w", encoding="utf-8"
         ) as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
 
@@ -25,7 +25,7 @@ class JSON_Saver:
         """Записывает имена JSON-файлов в txt"""
 
         with open(self.VACANCIES_RF_PATH, "a", encoding="utf-8") as file:
-            data = f"{self.PARCED_DATA_PATH}\{self.filename}.json"
+            data = f"{self.PARCED_DATA_PATH}\\{self.filename}.json"
             file.write(f"{data}\n")
 
     def get_union_json(self):

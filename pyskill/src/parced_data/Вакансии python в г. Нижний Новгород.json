@@ -7,13 +7,6 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Главный экономист",
-        "url": "https://hh.ru/vacancy/90730051",
-        "pay": null,
-        "requirement": "...способность быстро их развивать), Assess, MS Word, PowerPoint, ARIS, Visio, 1С. Приветствуется знание языков <highlighttext>Python</highlighttext>, SQL. Навыки делового письма.",
-        "city": "Нижний Новгород"
-    },
-    {
         "name": "Аналитик данных",
         "url": "https://hh.ru/vacancy/90585754",
         "pay": null,
@@ -25,6 +18,13 @@
         "url": "https://hh.ru/vacancy/90612363",
         "pay": null,
         "requirement": "СУБД: MS SQL Server, PostgreSQL.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Главный экономист",
+        "url": "https://hh.ru/vacancy/90730051",
+        "pay": null,
+        "requirement": "...способность быстро их развивать), Assess, MS Word, PowerPoint, ARIS, Visio, 1С. Приветствуется знание языков <highlighttext>Python</highlighttext>, SQL. Навыки делового письма.",
         "city": "Нижний Новгород"
     },
     {
@@ -49,6 +49,13 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/90696407",
+        "pay": null,
+        "requirement": "Опыт разработки Backend приложений (<highlighttext>Python</highlighttext> 3.>) от 3 лет. Уверенное владение базовыми архитектурными паттернами. Понимание асинхронной парадигмы программирования. ",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "Computer Vision Engineer",
         "url": "https://hh.ru/vacancy/90683730",
         "pay": null,
@@ -70,13 +77,6 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Разработчик Python",
-        "url": "https://hh.ru/vacancy/90696407",
-        "pay": null,
-        "requirement": "Опыт разработки Backend приложений (<highlighttext>Python</highlighttext> 3.>) от 3 лет. Уверенное владение базовыми архитектурными паттернами. Понимание асинхронной парадигмы программирования. ",
-        "city": "Нижний Новгород"
-    },
-    {
         "name": "Аналитик",
         "url": "https://hh.ru/vacancy/90288267",
         "pay": null,
@@ -91,41 +91,6 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ведущий аналитик по цифровым технологиям аудита",
-        "url": "https://hh.ru/vacancy/90675953",
-        "pay": null,
-        "requirement": "Высшее образование в сфере ИТ-технологий/математическое/экономическое. Знание языков программирования SQL/<highlighttext>Python</highlighttext>; опыт работы с базами данных (обработка большого...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA Engineer (Python)",
-        "url": "https://hh.ru/vacancy/90673579",
-        "pay": null,
-        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт в автоматизации тестирования REST back-end от 1 года. Знание любых фрейморков авто-тестирования (мы...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший инженер управления и мониторинга сети",
-        "url": "https://hh.ru/vacancy/90568268",
-        "pay": 80000,
-        "requirement": "Знание скриптовых языков программирования (<highlighttext>Python</highlighttext>/JavaScript/Bash). Умение работать с Git. Опыт конфигурирования MySQL, кластеров Clickhouse. Опыт конфигурирования apache/nginx. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Python разработчик",
-        "url": "https://hh.ru/vacancy/90392650",
-        "pay": null,
-        "requirement": "Имеете опыт с: DRF, <highlighttext>Python</highlighttext> 3, Docker, Celery, PostgreSQL, Git/Git Flow, Redis, Nginx, RESTful API, принципами SOLID, Linux/Bash. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Программист SQL",
-        "url": "https://hh.ru/vacancy/89897517",
-        "pay": null,
-        "requirement": "Опыт работы на аналогичной позиции. Преимуществом будет: Знание MSSQL, PostgreSQL, Delphi, <highlighttext>Python</highlighttext>, опыт работы с ККМ, опыт работы с системой...",
-        "city": "Нижний Новгород"
-    },
-    {
         "name": "Разработчик в тестировании для аппаратных платформ (Embedded QA)",
         "url": "https://hh.ru/vacancy/89681706",
         "pay": null,
@@ -133,10 +98,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "QA-engineer (embeded ПО)",
-        "url": "https://hh.ru/vacancy/90305925",
-        "pay": 108000,
-        "requirement": "Опыт работы с измерительным оборудованием. Базовые знания <highlighttext>Python</highlighttext>. Требования: Опыт работы на позиции Middle QA-engineer от 1 года. ",
+        "name": "Ведущий аналитик по цифровым технологиям аудита",
+        "url": "https://hh.ru/vacancy/90675953",
+        "pay": null,
+        "requirement": "Высшее образование в сфере ИТ-технологий/математическое/экономическое. Знание языков программирования SQL/<highlighttext>Python</highlighttext>; опыт работы с базами данных (обработка большого...",
         "city": "Нижний Новгород"
     },
     {
@@ -147,17 +112,45 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер технической поддержки RPA",
-        "url": "https://hh.ru/vacancy/90696576",
-        "pay": null,
-        "requirement": "...работы, быстро и четко обнаруживать проблему связанную с тем или иным роботом. Опыт разработки в Sherpa RPA, UIPath, BluePrism, <highlighttext>Python</highlighttext>.",
+        "name": "Старший инженер управления и мониторинга сети",
+        "url": "https://hh.ru/vacancy/90568268",
+        "pay": 80000,
+        "requirement": "Знание скриптовых языков программирования (<highlighttext>Python</highlighttext>/JavaScript/Bash). Умение работать с Git. Опыт конфигурирования MySQL, кластеров Clickhouse. Опыт конфигурирования apache/nginx. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Python developer (Django)",
-        "url": "https://hh.ru/vacancy/90072428",
+        "name": "QA Engineer (Python)",
+        "url": "https://hh.ru/vacancy/90673579",
         "pay": null,
-        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> - от 3х лет. Уверенное владение Framework Django от 2х лет / Django Rest Framework. ",
+        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт в автоматизации тестирования REST back-end от 1 года. Знание любых фрейморков авто-тестирования (мы...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA-engineer (embeded ПО)",
+        "url": "https://hh.ru/vacancy/90305925",
+        "pay": 108000,
+        "requirement": "Опыт работы с измерительным оборудованием. Базовые знания <highlighttext>Python</highlighttext>. Требования: Опыт работы на позиции Middle QA-engineer от 1 года. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/90392650",
+        "pay": null,
+        "requirement": "Имеете опыт с: DRF, <highlighttext>Python</highlighttext> 3, Docker, Celery, PostgreSQL, Git/Git Flow, Redis, Nginx, RESTful API, принципами SOLID, Linux/Bash. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Специалист по оптимизации технологических процессов со знанием SQL",
+        "url": "https://hh.ru/vacancy/90181292",
+        "pay": null,
+        "requirement": "Чёткость в коммуникации (умение понятно и грамотно выстраивать предложения; ясно аргументировать свою позицию и т.д.). 8. Знание <highlighttext>Python</highlighttext> приветствуется.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle QA manual engineer",
+        "url": "https://hh.ru/vacancy/88592875",
+        "pay": null,
+        "requirement": "Опыт тестирования мобильных приложений от 1 года. Тестирование API. Опыт работы с Jira, youtrack и др.. Опыт тестирования web-приложений. ",
         "city": "Нижний Новгород"
     },
     {
@@ -168,17 +161,52 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер-разработчик (Python/backend)",
-        "url": "https://hh.ru/vacancy/90515103",
+        "name": "Python developer (Django)",
+        "url": "https://hh.ru/vacancy/90072428",
         "pay": null,
-        "requirement": "Опыт работы с <highlighttext>Python</highlighttext> с использованием asyncio, aiohttp. Опыт работы с командной строкой Linux. Понимание сетевых технологий. Умение писать чистый...",
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> - от 3х лет. Уверенное владение Framework Django от 2х лет / Django Rest Framework. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "DevOps Engineer в рекомендательные системы",
-        "url": "https://hh.ru/vacancy/90730517",
+        "name": "Программист SQL",
+        "url": "https://hh.ru/vacancy/89897517",
         "pay": null,
-        "requirement": "Навыки работы с системами мониторинга (Prometheus, Grafana). Знание языков программирования: <highlighttext>Python</highlighttext>/Bash/Groovy. Опыт работы с Helm. Уверенная работа с...",
+        "requirement": "Опыт работы на аналогичной позиции. Преимуществом будет: Знание MSSQL, PostgreSQL, Delphi, <highlighttext>Python</highlighttext>, опыт работы с ККМ, опыт работы с системой...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Программист фронтэнда (JavaScript) и Python",
+        "url": "https://hh.ru/vacancy/90762003",
+        "pay": 50000,
+        "requirement": "1. Уверенные знания HTML, CSS, Typescript. 2. Уверенные знания React Native, React Native Web, Redux, Urql. 5. Опыт работы с...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер технической поддержки RPA",
+        "url": "https://hh.ru/vacancy/90696576",
+        "pay": null,
+        "requirement": "...работы, быстро и четко обнаруживать проблему связанную с тем или иным роботом. Опыт разработки в Sherpa RPA, UIPath, BluePrism, <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик инцидентов операционного риска",
+        "url": "https://hh.ru/vacancy/89954883",
+        "pay": null,
+        "requirement": "Обязателен опыт работы от 1 года по работе с опер. рисками. Приветствуется наличие опыта работы: знание языков программирование (SQL, <highlighttext>Python</highlighttext>).",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Site Reliability Engineer",
+        "url": "https://hh.ru/vacancy/90761189",
+        "pay": null,
+        "requirement": "Разделяете принцип проактивности: лучше предотвратить сбой, чем потом его устранять. Понимаете принципы построения CI/CD-пайплайнов и IaC-подхода.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/90352823",
+        "pay": null,
+        "requirement": "...платформы для создания интерактивных дашбордов. Знание программ MS Office, MS Outlook, MS Excel, MS PowerPoint, MS Word. Навыки SQL, <highlighttext>Python</highlighttext>.",
         "city": "Нижний Новгород"
     },
     {
@@ -186,6 +214,13 @@
         "url": "https://hh.ru/vacancy/90343961",
         "pay": null,
         "requirement": "Понимание работы реляционных/нереляционных баз данных и SQL. Технологии: <highlighttext>Python</highlighttext>. JSON. REST. Общее представление о технологиях программирования и работы в...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер-разработчик (Python/backend)",
+        "url": "https://hh.ru/vacancy/90515103",
+        "pay": null,
+        "requirement": "Опыт работы с <highlighttext>Python</highlighttext> с использованием asyncio, aiohttp. Опыт работы с командной строкой Linux. Понимание сетевых технологий. Умение писать чистый...",
         "city": "Нижний Новгород"
     },
     {
@@ -197,23 +232,9 @@
     },
     {
         "name": "Аналитик",
-        "url": "https://hh.ru/vacancy/90352823",
-        "pay": null,
-        "requirement": "...платформы для создания интерактивных дашбордов. Знание программ MS Office, MS Outlook, MS Excel, MS PowerPoint, MS Word. Навыки SQL, <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle QA manual engineer",
-        "url": "https://hh.ru/vacancy/88592875",
-        "pay": null,
-        "requirement": "Опыт тестирования мобильных приложений от 1 года. Тестирование API. Опыт работы с Jira, youtrack и др.. Опыт тестирования web-приложений. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior Developer",
-        "url": "https://hh.ru/vacancy/90001923",
-        "pay": 350000,
-        "requirement": "Опыт разработки на одном из языков C++/<highlighttext>Python</highlighttext>/Java/Ruby - от пяти лет. Готовность переходить на Go. Высшее техническое образование. ",
+        "url": "https://hh.ru/vacancy/89697334",
+        "pay": 100000,
+        "requirement": "Проактивность. Опыт работы в выстраивании бизнес-процессов. <highlighttext>Python</highlighttext> 3.0 и выше. NumPy, Pandas, re, requests. Ml: scikit learn, matplotlib. ",
         "city": "Нижний Новгород"
     },
     {
@@ -224,45 +245,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Fullstack разработчик",
-        "url": "https://hh.ru/vacancy/87427217",
-        "pay": null,
-        "requirement": "Опыт работы с одной из СУБД SQL Server, PostgreSQL. Опыт Вackend и Fronted разработки от 3 лет. Опыт использования <highlighttext>Python</highlighttext>...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA Automation Engineer",
-        "url": "https://hh.ru/vacancy/90001312",
-        "pay": 250000,
-        "requirement": "Опыт работы в качестве автоматизатора тестирования от 3-х лет. Знание основных принципов тестирования и автоматизации. Опыт написания автотестов. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Специалист по оптимизации технологических процессов со знанием SQL",
-        "url": "https://hh.ru/vacancy/90181292",
-        "pay": null,
-        "requirement": "Чёткость в коммуникации (умение понятно и грамотно выстраивать предложения; ясно аргументировать свою позицию и т.д.). 8. Знание <highlighttext>Python</highlighttext> приветствуется.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data Scientist",
-        "url": "https://hh.ru/vacancy/89684197",
-        "pay": null,
-        "requirement": "Понимание алгоритмов контекстных многоруких бандитов. Понимание основ reinforcement learning. Хороший уровень <highlighttext>Python</highlighttext> и SQL. Опыт работы с Kafka, Redis, Cassandra. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data Scientist",
-        "url": "https://hh.ru/vacancy/90458834",
-        "pay": null,
-        "requirement": "Знание основных алгоритмов ML/DL. Уверенное владение <highlighttext>Python</highlighttext>. Опыт с TensorFlow или PyTorch. Будет плюсом: Владение С++. Опыт на проектах...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик",
-        "url": "https://hh.ru/vacancy/89697334",
+        "name": "Эксперт по управлению сетями связи",
+        "url": "https://hh.ru/vacancy/88843957",
         "pay": 100000,
-        "requirement": "Проактивность. Опыт работы в выстраивании бизнес-процессов. <highlighttext>Python</highlighttext> 3.0 и выше. NumPy, Pandas, re, requests. Ml: scikit learn, matplotlib. ",
+        "requirement": "...VRRP, STP, Segment Routing. Технологии управления и автоматизации Linux, Bash, <highlighttext>Python</highlighttext>, Paramiko, Netmiko, TextFSM, Juniper PyEz, XML, NetConf, Cisco NSO.",
         "city": "Нижний Новгород"
     },
     {
@@ -273,38 +259,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Разработчик DWH",
-        "url": "https://hh.ru/vacancy/90692433",
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/90013497",
         "pay": null,
-        "requirement": "Экспертное знание SQL на уровне аналитических функций. <highlighttext>Python</highlighttext> - на уровне написания дагов для Airflow. Опыт работы с одной из MPP...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Разработчик мобильных приложений React Native",
-        "url": "https://hh.ru/vacancy/90691050",
-        "pay": null,
-        "requirement": "Mobile: React Native, Swift, Java. - уверенные знания React. - знания React Native. - умение организовать свое время. - умение читать и анализировать код. - ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Руководитель направления разработки",
-        "url": "https://hh.ru/vacancy/90293666",
-        "pay": 355000,
-        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Начальник центра управления IT-проектами",
-        "url": "https://hh.ru/vacancy/89470945",
-        "pay": null,
-        "requirement": "Одного и более языков программирования: Java, С#, Basic, Oracle PL/SQL, C++, JavaScript, <highlighttext>Python</highlighttext>. Построения сетевой, серверной инфраструктуры, стандартов проектирования...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик данных VBA",
-        "url": "https://hh.ru/vacancy/90347791",
-        "pay": null,
-        "requirement": "Уверенное знание макросов VBA. Умение разбираться в чужом коде. Аналитические способности. Работа с методиками расчета.",
+        "requirement": "Опыт установки и настройки ОС и прикладного ПО. Опыт администрирования 1С-будет преимуществом. Приветствуется опыт программирования на <highlighttext>python</highlighttext> (корпоративный...",
         "city": "Нижний Новгород"
     },
     {
@@ -315,206 +273,59 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Эксперт по управлению сетями связи",
-        "url": "https://hh.ru/vacancy/88843957",
-        "pay": 100000,
-        "requirement": "...VRRP, STP, Segment Routing. Технологии управления и автоматизации Linux, Bash, <highlighttext>Python</highlighttext>, Paramiko, Netmiko, TextFSM, Juniper PyEz, XML, NetConf, Cisco NSO.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Специалист в области сетевой безопасности",
-        "url": "https://hh.ru/vacancy/89042958",
+        "name": "Аналитик данных VBA",
+        "url": "https://hh.ru/vacancy/90347791",
         "pay": null,
-        "requirement": "Будет плюсом: Умение автоматизировать собственную работу, знание какого-либо скриптового языка (<highlighttext>Python</highlighttext>, JS, Bash, Powershell, etc.). Навыки обнаружения и защиты...",
+        "requirement": "Уверенное знание макросов VBA. Умение разбираться в чужом коде. Аналитические способности. Работа с методиками расчета.",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Системный администратор",
-        "url": "https://hh.ru/vacancy/90013497",
+        "name": "Fullstack разработчик",
+        "url": "https://hh.ru/vacancy/87427217",
         "pay": null,
-        "requirement": "Опыт установки и настройки ОС и прикладного ПО. Опыт администрирования 1С-будет преимуществом. Приветствуется опыт программирования на <highlighttext>python</highlighttext> (корпоративный...",
+        "requirement": "Опыт работы с одной из СУБД SQL Server, PostgreSQL. Опыт Вackend и Fronted разработки от 3 лет. Опыт использования <highlighttext>Python</highlighttext>...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Аналитик инцидентов операционного риска",
-        "url": "https://hh.ru/vacancy/89954883",
+        "name": "DevOps Engineer в рекомендательные системы",
+        "url": "https://hh.ru/vacancy/90730517",
         "pay": null,
-        "requirement": "Обязателен опыт работы от 1 года по работе с опер. рисками. Приветствуется наличие опыта работы: знание языков программирование (SQL, <highlighttext>Python</highlighttext>).",
+        "requirement": "Навыки работы с системами мониторинга (Prometheus, Grafana). Знание языков программирования: <highlighttext>Python</highlighttext>/Bash/Groovy. Опыт работы с Helm. Уверенная работа с...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ведущий инженер по сопровождению ПО",
-        "url": "https://hh.ru/vacancy/88402310",
+        "name": "Начальник центра управления IT-проектами",
+        "url": "https://hh.ru/vacancy/89470945",
         "pay": null,
-        "requirement": "...со спецификой в Oracle). Опыт написания скриптов автоматизации (предпочтительно на Shell, PowerShell, <highlighttext>Python</highlighttext>). Опыт работы в системах Jira, BMC Remedy.",
+        "requirement": "Одного и более языков программирования: Java, С#, Basic, Oracle PL/SQL, C++, JavaScript, <highlighttext>Python</highlighttext>. Построения сетевой, серверной инфраструктуры, стандартов проектирования...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Python developer / DocOps engineer",
-        "url": "https://hh.ru/vacancy/89968356",
+        "name": "Разработчик DWH",
+        "url": "https://hh.ru/vacancy/90692433",
         "pay": null,
-        "requirement": "Опыт разработки от 3-х лет на <highlighttext>python</highlighttext>. Знание HTML+СSS. Опыт работы с Unix/Linux. Опыт использования bash. ",
+        "requirement": "Экспертное знание SQL на уровне аналитических функций. <highlighttext>Python</highlighttext> - на уровне написания дагов для Airflow. Опыт работы с одной из MPP...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Главный специалист отдела сбора и анализа информации СВА",
-        "url": "https://hh.ru/vacancy/90388886",
+        "name": "Руководитель направления разработки",
+        "url": "https://hh.ru/vacancy/90293666",
+        "pay": 355000,
+        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior Developer",
+        "url": "https://hh.ru/vacancy/90001923",
+        "pay": 350000,
+        "requirement": "Опыт разработки на одном из языков C++/<highlighttext>Python</highlighttext>/Java/Ruby - от пяти лет. Готовность переходить на Go. Высшее техническое образование. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Data Scientist",
+        "url": "https://hh.ru/vacancy/90458834",
         "pay": null,
-        "requirement": "Необходимо общее понимание базовых принципов администрирования сетей, операционных систем, серверов управления баз данных; знание или готовность освоить <highlighttext>Python</highlighttext> в контексте...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "C/C++ software engineer (Telecom)",
-        "url": "https://hh.ru/vacancy/89741186",
-        "pay": null,
-        "requirement": "Знание архитектуры процессора (любого). Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Знание цифровой обработки сигналов и опыт работы с Matlab. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Системный аналитик",
-        "url": "https://hh.ru/vacancy/88510603",
-        "pay": null,
-        "requirement": "Высшее образование. Стаж по профилю (аналитик, технический писатель) не менее 2 лет. Желателен опыт управления проектами. Опыт работы аналитиком на...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий специалист по цифровым технологиям аудита",
-        "url": "https://hh.ru/vacancy/90675549",
-        "pay": null,
-        "requirement": "Высшее образование. Опыт работы с большим объемом данных. Навыки работы с <highlighttext>Python</highlighttext> и SQL.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер Linux, Zabbix (разработка дистрибутивов)",
-        "url": "https://hh.ru/vacancy/89619058",
-        "pay": null,
-        "requirement": "Умение писать скрипты на bash, <highlighttext>python</highlighttext> (bash и командная строка-хороший уровень владения, <highlighttext>python</highlighttext> можно базовые знания). Опыт разработки deb...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик данных",
-        "url": "https://hh.ru/vacancy/89792845",
-        "pay": null,
-        "requirement": "Высшее образование, опыт внедрения и разработки дашбордов. Свободное владение SQL, уверенные знания <highlighttext>Python</highlighttext>. Опыт работы от 1 года со стеком...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Test Engineer (LTE/GSM Radio Subsystem) (project-Telecom)",
-        "url": "https://hh.ru/vacancy/89219685",
-        "pay": null,
-        "requirement": "Знания принципов тестирования в разработке ПО. Опыт работы с виртуальными машинами и Docker контейнерами. Знание и опыт использования языка <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "С++ Developer по развитию продукта",
-        "url": "https://hh.ru/vacancy/69158186",
-        "pay": null,
-        "requirement": "Linux на уровне продвинутого пользователя. Знание особенностей многопоточного программирования . Опыт автоматического тестирования и написания юнит-тестов. Знание <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий инженер по администрированию и автоматизации приложений мониторинга",
-        "url": "https://hh.ru/vacancy/90658362",
-        "pay": 87000,
-        "requirement": "Опыт администрирования любых систем мониторинга (EMC Smarts, Zabbix и другие). Опыт использования SQL, <highlighttext>Python</highlighttext>, Java, CI/CD. Опыт работы (установка...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "PHP Senior developer",
-        "url": "https://hh.ru/vacancy/89744368",
-        "pay": null,
-        "requirement": "Опыт оптимизации под большие объемы данных. Хороший технический английский. Будет плюсом: Знание языков программирования C++ / Java / <highlighttext>Python</highlighttext>. Понимание архитектуры сетей...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data scientist TTS (Text To Speech)",
-        "url": "https://hh.ru/vacancy/89764202",
-        "pay": null,
-        "requirement": "Хорошее понимание архитектур (CNN, RNN, LSTM, GRU, Transformers и т.д.). Хорошее знание языка <highlighttext>Python</highlighttext>. Владение пакетами: NumPy, SciPy, Matplotlib...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Devops инженер",
-        "url": "https://hh.ru/vacancy/85242062",
-        "pay": null,
-        "requirement": "...систем и баз данных. Построение закрытых сетей. Опыт работы с PHP (composer, symfony) . Умеете писать на <highlighttext>Python</highlighttext>. Навыки администрирования Windows.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий инженер по администрированию Linux",
-        "url": "https://hh.ru/vacancy/90480215",
-        "pay": 150000,
-        "requirement": "Опыт проектирования и запуска отказоустойчивых решений. - Опыт написания скриптов автоматизации: Bash, Powershell, <highlighttext>Python</highlighttext>, Go. - Опыт построения и администрирования локальной сети...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Эксперт центра мониторинга SOC (L3)",
-        "url": "https://hh.ru/vacancy/90288318",
-        "pay": 300000,
-        "requirement": "Опыт работы с инцидентами ИБ. Опыт написания скриптов (bash, PowerShell, <highlighttext>Python</highlighttext>). Уметь анализировать журналы регистраций событий СЗИ, журналы ОС, сетевого...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Главный эксперт по цифровым технологиям аудита",
-        "url": "https://hh.ru/vacancy/90675779",
-        "pay": null,
-        "requirement": "Высшее образование в сфере ИТ-технологий/математическое/экономическое. Знание языков программирования SQL/<highlighttext>Python</highlighttext>. Опыт работы с базами данных (обработка большого...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Python Developer",
-        "url": "https://hh.ru/vacancy/90731056",
-        "pay": null,
-        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Backend инженер",
-        "url": "https://hh.ru/vacancy/89608247",
-        "pay": null,
-        "requirement": "Владение одним или несколькими языками программирования, такими как <highlighttext>Python</highlighttext>, Golang или C++. Профессиональное знание <highlighttext>Python</highlighttext> 3.x и желание изучать...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий программист-тестировщик",
-        "url": "https://hh.ru/vacancy/90466671",
-        "pay": 200000,
-        "requirement": "Свои hard skills. Навык управления удаленной командой. Способность вести переговоры и убеждать. Умение планировать — тактически и стратегически.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Руководитель направления отдела автоматизации",
-        "url": "https://hh.ru/vacancy/88846845",
-        "pay": null,
-        "requirement": "Знание основ информационной безопасности. Умение настраивать сервера. Умение программировать на <highlighttext>Python</highlighttext> (желательно). Умение программировать на FoxPro (желательно). Умение обслуживать банкоматы. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data engineer",
-        "url": "https://hh.ru/vacancy/90196519",
-        "pay": null,
-        "requirement": "Опыт работы с ETL средствами и оркестраторами (Airflow/Dagster). Уверенное владение <highlighttext>python</highlighttext> в направлении обработки данных. Опыт работы с git. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data collection engineer",
-        "url": "https://hh.ru/vacancy/88887980",
-        "pay": null,
-        "requirement": "Уверенные знания скриптовых языков <highlighttext>Python</highlighttext>, bash и другие. Системы контроля версий кода. Опыт администрирования Linux от 3х лет. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший инженер по тестированию",
-        "url": "https://hh.ru/vacancy/90203615",
-        "pay": null,
-        "requirement": "Уверенное знание <highlighttext>python</highlighttext>/pytest, опыт программирования на <highlighttext>python</highlighttext> от 3х лет. Опыт разработки и сопровождения автоматических тестов для коммерческого...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий инженер по сопровождению",
-        "url": "https://hh.ru/vacancy/90328226",
-        "pay": null,
-        "requirement": "...БД по заданным критериям. Желательно: знание и опыт программирования на одном из следующих языков: Bash, <highlighttext>Python</highlighttext>, Java, JS, C++, C#.",
+        "requirement": "Знание основных алгоритмов ML/DL. Уверенное владение <highlighttext>Python</highlighttext>. Опыт с TensorFlow или PyTorch. Будет плюсом: Владение С++. Опыт на проектах...",
         "city": "Нижний Новгород"
     },
     {
@@ -525,45 +336,101 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Технический эксперт по информационной безопасности (DevSecOps)",
-        "url": "https://hh.ru/vacancy/88954767",
+        "name": "Специалист в области сетевой безопасности",
+        "url": "https://hh.ru/vacancy/89042958",
         "pay": null,
-        "requirement": "Опыт написания скриптов для автоматизации задач (<highlighttext>Python</highlighttext>, Bash). Знание одного или нескольких языков программирования (Java, <highlighttext>Python</highlighttext>, С#). Практические навыки в...",
+        "requirement": "Будет плюсом: Умение автоматизировать собственную работу, знание какого-либо скриптового языка (<highlighttext>Python</highlighttext>, JS, Bash, Powershell, etc.). Навыки обнаружения и защиты...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ведущий инженер по тестированию",
-        "url": "https://hh.ru/vacancy/78950852",
-        "pay": null,
-        "requirement": "Опыт автоматизации тестирования в среде Linux (bash, топ 30 базовых команд в Linux). Базовое администрирование Linux. Базовые знания Robot Framework...",
+        "name": "QA Automation Engineer",
+        "url": "https://hh.ru/vacancy/90001312",
+        "pay": 250000,
+        "requirement": "Опыт работы в качестве автоматизатора тестирования от 3-х лет. Знание основных принципов тестирования и автоматизации. Опыт написания автотестов. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Младший инженер по автоматизации тестирования",
-        "url": "https://hh.ru/vacancy/89632507",
+        "name": "Data Scientist",
+        "url": "https://hh.ru/vacancy/89684197",
         "pay": null,
-        "requirement": "Знаете <highlighttext>Python</highlighttext> на уровне, позволяющем разрабатывать тестовые сценарии. Имеете опыт тестирования API и web интерфейсов. Понимаете основы, знаете виды и...",
+        "requirement": "Понимание алгоритмов контекстных многоруких бандитов. Понимание основ reinforcement learning. Хороший уровень <highlighttext>Python</highlighttext> и SQL. Опыт работы с Kafka, Redis, Cassandra. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Руководитель аналитического центра ТОиР",
-        "url": "https://hh.ru/vacancy/89475243",
+        "name": "Ведущий инженер по сопровождению",
+        "url": "https://hh.ru/vacancy/90328226",
         "pay": null,
-        "requirement": "Высокие навыки владения MS Excel и MS Power Point (Think-cell). Знания в работе с <highlighttext>Python</highlighttext> и SQL будет преимуществом...",
+        "requirement": "...БД по заданным критериям. Желательно: знание и опыт программирования на одном из следующих языков: Bash, <highlighttext>Python</highlighttext>, Java, JS, C++, C#.",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Senior AQA engineer",
-        "url": "https://hh.ru/vacancy/86852069",
+        "name": "Python developer / DocOps engineer",
+        "url": "https://hh.ru/vacancy/89968356",
         "pay": null,
-        "requirement": "Опыт написания shell-скриптов под Linux. <highlighttext>Python</highlighttext> на высоком уровне (С++, C# опционально как плюс). Дополнительным преимуществом будет: Понимание принципов...",
+        "requirement": "Опыт разработки от 3-х лет на <highlighttext>python</highlighttext>. Знание HTML+СSS. Опыт работы с Unix/Linux. Опыт использования bash. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "QA manager / Тест-менеджер",
-        "url": "https://hh.ru/vacancy/90288053",
+        "name": "Test Engineer (LTE/GSM Radio Subsystem) (project-Telecom)",
+        "url": "https://hh.ru/vacancy/89219685",
         "pay": null,
-        "requirement": "Опыт работы в позициях QA Manager, QA Lead от 5 лет. Знание <highlighttext>Python</highlighttext>/Linux. Опыт работы с СХД. ",
+        "requirement": "Знания принципов тестирования в разработке ПО. Опыт работы с виртуальными машинами и Docker контейнерами. Знание и опыт использования языка <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Data scientist TTS (Text To Speech)",
+        "url": "https://hh.ru/vacancy/89764202",
+        "pay": null,
+        "requirement": "Хорошее понимание архитектур (CNN, RNN, LSTM, GRU, Transformers и т.д.). Хорошее знание языка <highlighttext>Python</highlighttext>. Владение пакетами: NumPy, SciPy, Matplotlib...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Эксперт центра мониторинга SOC (L3)",
+        "url": "https://hh.ru/vacancy/90288318",
+        "pay": 300000,
+        "requirement": "Опыт работы с инцидентами ИБ. Опыт написания скриптов (bash, PowerShell, <highlighttext>Python</highlighttext>). Уметь анализировать журналы регистраций событий СЗИ, журналы ОС, сетевого...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Разработчик витрин данных / PL/SQL",
+        "url": "https://hh.ru/vacancy/90774603",
+        "pay": null,
+        "requirement": "Опыт разработки ETL-потоков. Опыт работы с Airflow. Опыт программирования на Scala/<highlighttext>Python</highlighttext>. Понимание внутренней архитектуры Hadoop. Опыт работы с...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "С++ Developer по развитию продукта",
+        "url": "https://hh.ru/vacancy/69158186",
+        "pay": null,
+        "requirement": "Linux на уровне продвинутого пользователя. Знание особенностей многопоточного программирования . Опыт автоматического тестирования и написания юнит-тестов. Знание <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий программист-тестировщик",
+        "url": "https://hh.ru/vacancy/90466671",
+        "pay": 200000,
+        "requirement": "Свои hard skills. Навык управления удаленной командой. Способность вести переговоры и убеждать. Умение планировать — тактически и стратегически.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший инженер по тестированию",
+        "url": "https://hh.ru/vacancy/90203615",
+        "pay": null,
+        "requirement": "Уверенное знание <highlighttext>python</highlighttext>/pytest, опыт программирования на <highlighttext>python</highlighttext> от 3х лет. Опыт разработки и сопровождения автоматических тестов для коммерческого...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/90731056",
+        "pay": null,
+        "requirement": "Опыт работы в роли <highlighttext>Python</highlighttext> Developer от 3-х лет. Опыт работы с <highlighttext>Python</highlighttext>: <highlighttext>Python</highlighttext>3, Django. Опыт работы с...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/89792845",
+        "pay": null,
+        "requirement": "Высшее образование, опыт внедрения и разработки дашбордов. Свободное владение SQL, уверенные знания <highlighttext>Python</highlighttext>. Опыт работы от 1 года со стеком...",
         "city": "Нижний Новгород"
     },
     {
@@ -574,73 +441,31 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Аналитик отдела маркетинга",
-        "url": "https://hh.ru/vacancy/90188903",
-        "pay": 47000,
-        "requirement": "Знание и понимание как работают Google Tables, API, <highlighttext>Python</highlighttext>(базово), Query. Честность, интеллект и энергия человека. Желание расти и развиваться...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик SOC",
-        "url": "https://hh.ru/vacancy/87589289",
+        "name": "PHP Senior developer",
+        "url": "https://hh.ru/vacancy/89744368",
         "pay": null,
-        "requirement": "Опыт автоматизации решений (<highlighttext>Python</highlighttext> и один из скриптовых языков Bash, PowerShell, Batch). Опыт управления командой. Наличие сертификатов о прохождении сертифицированных...",
+        "requirement": "Опыт оптимизации под большие объемы данных. Хороший технический английский. Будет плюсом: Знание языков программирования C++ / Java / <highlighttext>Python</highlighttext>. Понимание архитектуры сетей...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ведущий инженер по эксплуатации",
-        "url": "https://hh.ru/vacancy/90105025",
+        "name": "Data engineer",
+        "url": "https://hh.ru/vacancy/90196519",
         "pay": null,
-        "requirement": "Опыт автоматизации решения задач с помощью скриптовых языков (<highlighttext>Python</highlighttext>/Bash/Powershell). Linux на уровне администратора (Debian). СУБД MySQL и/или...",
+        "requirement": "Опыт работы с ETL средствами и оркестраторами (Airflow/Dagster). Уверенное владение <highlighttext>python</highlighttext> в направлении обработки данных. Опыт работы с git. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Удаленный системный администратор/внедренец",
-        "url": "https://hh.ru/vacancy/89966500",
-        "pay": 60000,
-        "requirement": "Опыт работы – ожидаем крепкого мидла.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер данных",
-        "url": "https://hh.ru/vacancy/86901231",
+        "name": "Ведущий инженер по тестированию",
+        "url": "https://hh.ru/vacancy/78950852",
         "pay": null,
-        "requirement": "Уверенный пользователь MS Office. Знание Transact-SQL. Уверенное владение <highlighttext>Python</highlighttext>. Знание AirFlow. Знание теории построения хранилищ данных. Умение работать с...",
+        "requirement": "Опыт автоматизации тестирования в среде Linux (bash, топ 30 базовых команд в Linux). Базовое администрирование Linux. Базовые знания Robot Framework...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Аналитик SOC 1 линии",
-        "url": "https://hh.ru/vacancy/87589860",
+        "name": "Руководитель аналитического центра ТОиР",
+        "url": "https://hh.ru/vacancy/89475243",
         "pay": null,
-        "requirement": "Опыт программирования на <highlighttext>Python</highlighttext> и одном из скриптовых языков Bash, PowerShell, Batch. Опыт работы с одним инструментом виртуализации: Docker, VMware...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Manual QA engineer / Инженер по тестированию (Data Services)",
-        "url": "https://hh.ru/vacancy/89968207",
-        "pay": null,
-        "requirement": "Знание и понимание теории тестирования. Опыт работы и понимание Linux. Опытом работы в тестировании СХД. Опытом работы с <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior Software Engineer C (Linux kernel space)/Разработчик C (Linux kernel space) (Tatlin.flex)",
-        "url": "https://hh.ru/vacancy/86848125",
-        "pay": null,
-        "requirement": "Опыт работы с git. Опыт разработки на <highlighttext>Python</highlighttext>. Опыт администрирования Linux. Опыт работы с RDMA. Опыт работы с сетевыми протоколами.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle QA Engineer в команду Отелло",
-        "url": "https://hh.ru/vacancy/88729922",
-        "pay": null,
-        "requirement": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от 2 лет, 3 года тестирования в целом. Понимание основ тестирования и владение техниками тест...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Функциональный архитектор проектов В2В",
-        "url": "https://hh.ru/vacancy/88156531",
-        "pay": null,
-        "requirement": "Высшее техническое образование. Стаж по профилю (архитектор) не менее 2 лет, опыт управления проектами не менее 2 лет. ",
+        "requirement": "Высокие навыки владения MS Excel и MS Power Point (Think-cell). Знания в работе с <highlighttext>Python</highlighttext> и SQL будет преимуществом...",
         "city": "Нижний Новгород"
     },
     {
@@ -651,6 +476,76 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Senior AQA engineer",
+        "url": "https://hh.ru/vacancy/86852069",
+        "pay": null,
+        "requirement": "Опыт написания shell-скриптов под Linux. <highlighttext>Python</highlighttext> на высоком уровне (С++, C# опционально как плюс). Дополнительным преимуществом будет: Понимание принципов...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий специалист по цифровым технологиям аудита",
+        "url": "https://hh.ru/vacancy/90675549",
+        "pay": null,
+        "requirement": "Высшее образование. Опыт работы с большим объемом данных. Навыки работы с <highlighttext>Python</highlighttext> и SQL.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Devops инженер",
+        "url": "https://hh.ru/vacancy/85242062",
+        "pay": null,
+        "requirement": "...систем и баз данных. Построение закрытых сетей. Опыт работы с PHP (composer, symfony) . Умеете писать на <highlighttext>Python</highlighttext>. Навыки администрирования Windows.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Младший инженер по автоматизации тестирования",
+        "url": "https://hh.ru/vacancy/89632507",
+        "pay": null,
+        "requirement": "Знаете <highlighttext>Python</highlighttext> на уровне, позволяющем разрабатывать тестовые сценарии. Имеете опыт тестирования API и web интерфейсов. Понимаете основы, знаете виды и...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Главный специалист отдела сбора и анализа информации СВА",
+        "url": "https://hh.ru/vacancy/90388886",
+        "pay": null,
+        "requirement": "Необходимо общее понимание базовых принципов администрирования сетей, операционных систем, серверов управления баз данных; знание или готовность освоить <highlighttext>Python</highlighttext> в контексте...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Manual QA engineer / Инженер по тестированию (Data Services)",
+        "url": "https://hh.ru/vacancy/89968207",
+        "pay": null,
+        "requirement": "Знание и понимание теории тестирования. Опыт работы и понимание Linux. Опытом работы в тестировании СХД. Опытом работы с <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Главный эксперт по цифровым технологиям аудита",
+        "url": "https://hh.ru/vacancy/90675779",
+        "pay": null,
+        "requirement": "Высшее образование в сфере ИТ-технологий/математическое/экономическое. Знание языков программирования SQL/<highlighttext>Python</highlighttext>. Опыт работы с базами данных (обработка большого...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер данных",
+        "url": "https://hh.ru/vacancy/86901231",
+        "pay": null,
+        "requirement": "Уверенный пользователь MS Office. Знание Transact-SQL. Уверенное владение <highlighttext>Python</highlighttext>. Знание AirFlow. Знание теории построения хранилищ данных. Умение работать с...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Руководитель направления отдела автоматизации",
+        "url": "https://hh.ru/vacancy/88846845",
+        "pay": null,
+        "requirement": "Знание основ информационной безопасности. Умение настраивать сервера. Умение программировать на <highlighttext>Python</highlighttext> (желательно). Умение программировать на FoxPro (желательно). Умение обслуживать банкоматы. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Разработчик мобильных приложений React Native",
+        "url": "https://hh.ru/vacancy/90691050",
+        "pay": null,
+        "requirement": "Mobile: React Native, Swift, Java. - уверенные знания React. - знания React Native. - умение организовать свое время. - умение читать и анализировать код. - ",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "Python developer / Разработчик Python (KORNFELD)",
         "url": "https://hh.ru/vacancy/89889132",
         "pay": null,
@@ -658,10 +553,59 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер-программист",
-        "url": "https://hh.ru/vacancy/79532031",
-        "pay": 40000,
-        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext>. Понимание основ объектно-ориентированного программирования. Знание принципов проектирования SOLID и KISS. Опыт работы с SQL. ",
+        "name": "Devops - инженер",
+        "url": "https://hh.ru/vacancy/90359297",
+        "pay": null,
+        "requirement": "Опыт использования инструментов автоматизации (Bash, <highlighttext>Python</highlighttext>, Ansible, Terraform). Будет плюсом: Опыт администрирования Linux (предпочтение RHEL, SLES). Опыт администрирования СУБД (PostgreSQL...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Data collection engineer",
+        "url": "https://hh.ru/vacancy/88887980",
+        "pay": null,
+        "requirement": "Уверенные знания скриптовых языков <highlighttext>Python</highlighttext>, bash и другие. Системы контроля версий кода. Опыт администрирования Linux от 3х лет. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "PostgreSql Application DBA",
+        "url": "https://hh.ru/vacancy/90151056",
+        "pay": null,
+        "requirement": "Опыт программирования на одном из следующих языков: Bash, PowerShell, <highlighttext>Python</highlighttext>, Sql. * Опыт администрирования серверных операционных систем RHEL/CentOS - на уровне...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Технический эксперт по информационной безопасности (DevSecOps)",
+        "url": "https://hh.ru/vacancy/88954767",
+        "pay": null,
+        "requirement": "Опыт написания скриптов для автоматизации задач (<highlighttext>Python</highlighttext>, Bash). Знание одного или нескольких языков программирования (Java, <highlighttext>Python</highlighttext>, С#). Практические навыки в...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий инженер по администрированию и автоматизации приложений мониторинга",
+        "url": "https://hh.ru/vacancy/90658362",
+        "pay": 87000,
+        "requirement": "Опыт администрирования любых систем мониторинга (EMC Smarts, Zabbix и другие). Опыт использования SQL, <highlighttext>Python</highlighttext>, Java, CI/CD. Опыт работы (установка...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "C/C++ software engineer (Telecom)",
+        "url": "https://hh.ru/vacancy/89741186",
+        "pay": null,
+        "requirement": "Знание архитектуры процессора (любого). Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Знание цифровой обработки сигналов и опыт работы с Matlab. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик SOC",
+        "url": "https://hh.ru/vacancy/87589289",
+        "pay": null,
+        "requirement": "Опыт автоматизации решений (<highlighttext>Python</highlighttext> и один из скриптовых языков Bash, PowerShell, Batch). Опыт управления командой. Наличие сертификатов о прохождении сертифицированных...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик SOC 1 линии",
+        "url": "https://hh.ru/vacancy/87589860",
+        "pay": null,
+        "requirement": "Опыт программирования на <highlighttext>Python</highlighttext> и одном из скриптовых языков Bash, PowerShell, Batch. Опыт работы с одним инструментом виртуализации: Docker, VMware...",
         "city": "Нижний Новгород"
     },
     {
@@ -672,10 +616,24 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер по развитию сетевых решений",
-        "url": "https://hh.ru/vacancy/89645859",
+        "name": "AI Engineer (Middle/Senior)",
+        "url": "https://hh.ru/vacancy/88606946",
         "pay": null,
-        "requirement": "...их влияние на инфраструктуру. Опыт работы с современными ids/ips сигнатурными решениями ИБ. Способность автоматизировать простые задачи на shell/<highlighttext>python</highlighttext>.",
+        "requirement": "...<highlighttext>Python</highlighttext> и/или C++ и прикладным опытом в разработке моделей Deep Learning и/или Machine Learning. Практический опыт на <highlighttext>Python</highlighttext>...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Удаленный системный администратор/внедренец",
+        "url": "https://hh.ru/vacancy/89966500",
+        "pay": 60000,
+        "requirement": "Опыт работы – ожидаем крепкого мидла.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle QA Engineer в команду Отелло",
+        "url": "https://hh.ru/vacancy/88729922",
+        "pay": null,
+        "requirement": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от 2 лет, 3 года тестирования в целом. Понимание основ тестирования и владение техниками тест...",
         "city": "Нижний Новгород"
     },
     {
@@ -686,17 +644,17 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Computer Vision Engineer (middle/senior)",
-        "url": "https://hh.ru/vacancy/89616551",
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/88510603",
         "pay": null,
-        "requirement": "Есть способность довести сложную задачу до результата. Чистый и аккуратный код на <highlighttext>python</highlighttext>. Есть знания linux, git flow. ",
+        "requirement": "Высшее образование. Стаж по профилю (аналитик, технический писатель) не менее 2 лет. Желателен опыт управления проектами. Опыт работы аналитиком на...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "AI Engineer (Middle/Senior)",
-        "url": "https://hh.ru/vacancy/88606946",
+        "name": "Инженер по развитию сетевых решений",
+        "url": "https://hh.ru/vacancy/89645859",
         "pay": null,
-        "requirement": "...<highlighttext>Python</highlighttext> и/или C++ и прикладным опытом в разработке моделей Deep Learning и/или Machine Learning. Практический опыт на <highlighttext>Python</highlighttext>...",
+        "requirement": "...их влияние на инфраструктуру. Опыт работы с современными ids/ips сигнатурными решениями ИБ. Способность автоматизировать простые задачи на shell/<highlighttext>python</highlighttext>.",
         "city": "Нижний Новгород"
     },
     {
@@ -707,17 +665,24 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Automation QA Engineer / Инженер по автоматизации тестирования (SCSI)",
-        "url": "https://hh.ru/vacancy/87292687",
+        "name": "Аналитик (Data Platform)",
+        "url": "https://hh.ru/vacancy/89505905",
         "pay": null,
-        "requirement": "...использованием <highlighttext>Python</highlighttext>. Знание сетевых технологий, стека протоколов TCP/IP + представление о модели OSI. Практический опыт работы с <highlighttext>Python</highlighttext> 3...",
+        "requirement": "Опыт работы в распределенной команде. Владение английским языком не ниже уровня Upper Intermediate. Знание и владение технологиями Spark, SQL, <highlighttext>Python</highlighttext>.",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Аналитик данных (производство, анализ рынка)",
-        "url": "https://hh.ru/vacancy/89997271",
+        "name": "Инженер-программист С++",
+        "url": "https://hh.ru/vacancy/90181367",
         "pay": null,
-        "requirement": "Опыт работы с BI системами. Навыки работы в <highlighttext>Python</highlighttext> для автоматизации отчетности. Знаете различные базы данных, включая таможенную и государственную...",
+        "requirement": "Умение проводить оптимизацию программы для повышения ее производительности. Технический английский. Знание языка программирования <highlighttext>Python</highlighttext>. Понимание общего устройства сетей. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий инженер по администрированию Linux",
+        "url": "https://hh.ru/vacancy/90480215",
+        "pay": 150000,
+        "requirement": "Опыт проектирования и запуска отказоустойчивых решений. - Опыт написания скриптов автоматизации: Bash, Powershell, <highlighttext>Python</highlighttext>, Go. - Опыт построения и администрирования локальной сети...",
         "city": "Нижний Новгород"
     },
     {
@@ -735,38 +700,87 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер-программист С++",
-        "url": "https://hh.ru/vacancy/90181367",
+        "name": "Аналитик данных (производство, анализ рынка)",
+        "url": "https://hh.ru/vacancy/89997271",
         "pay": null,
-        "requirement": "Умение проводить оптимизацию программы для повышения ее производительности. Технический английский. Знание языка программирования <highlighttext>Python</highlighttext>. Понимание общего устройства сетей. ",
+        "requirement": "Опыт работы с BI системами. Навыки работы в <highlighttext>Python</highlighttext> для автоматизации отчетности. Знаете различные базы данных, включая таможенную и государственную...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Devops - инженер",
-        "url": "https://hh.ru/vacancy/90359297",
-        "pay": null,
-        "requirement": "Опыт использования инструментов автоматизации (Bash, <highlighttext>Python</highlighttext>, Ansible, Terraform). Будет плюсом: Опыт администрирования Linux (предпочтение RHEL, SLES). Опыт администрирования СУБД (PostgreSQL...",
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/79532031",
+        "pay": 40000,
+        "requirement": "Опыт разработки на <highlighttext>Python</highlighttext>. Понимание основ объектно-ориентированного программирования. Знание принципов проектирования SOLID и KISS. Опыт работы с SQL. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "C Developer/ Старший инженер-программист (С) (Tatlin.Unified)",
-        "url": "https://hh.ru/vacancy/90744775",
-        "pay": null,
-        "requirement": "Знание и опыт работы с системами виртуализации. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Знание и опыт работы с протоколами...",
+        "name": "Аналитик отдела маркетинга",
+        "url": "https://hh.ru/vacancy/90188903",
+        "pay": 47000,
+        "requirement": "Знание и понимание как работают Google Tables, API, <highlighttext>Python</highlighttext>(базово), Query. Честность, интеллект и энергия человека. Желание расти и развиваться...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Python developer \\ Инженер-программист (TATLIN.FLEX)",
-        "url": "https://hh.ru/vacancy/89564944",
+        "name": "NLP engineer / Data scientist NLP (продуктовая ИТ-компания, удаленно)",
+        "url": "https://hh.ru/vacancy/90749975",
         "pay": null,
-        "requirement": "Знание <highlighttext>Python</highlighttext> 3.9+ (Standard Library, RPC, TDD, Очереди, Параллелизм). Понимание принципов работы ОС Linux (sysfs, inotify, POSIX, netlink). ",
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт работы с PyTorch, Numpy, Sklearn, Pandas. Опыт работы с LLM, дообучением GPT-like моделей. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "C++ Team Lead",
-        "url": "https://hh.ru/vacancy/87860479",
+        "name": "Инженер по эксплуатации систем кибербезопасности",
+        "url": "https://hh.ru/vacancy/88116386",
         "pay": null,
-        "requirement": "знания в области многопоточных вычислений в Linux (libpthread, примитивы синхронизации). - знания в области <highlighttext>python</highlighttext> pyunit и cmake, git, gitlab. - ",
+        "requirement": "Понимание базовых веб-технологий. Умение прочесть код скрипта / написать простую автоматизацию (<highlighttext>Python</highlighttext>, PS, bash). Базовые компетенции в ИБ (OWASP TOP...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий инженер по эксплуатации",
+        "url": "https://hh.ru/vacancy/90105025",
+        "pay": null,
+        "requirement": "Опыт автоматизации решения задач с помощью скриптовых языков (<highlighttext>Python</highlighttext>/Bash/Powershell). Linux на уровне администратора (Debian). СУБД MySQL и/или...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps",
+        "url": "https://hh.ru/vacancy/85413472",
+        "pay": null,
+        "requirement": "Опыт автоматизации тестирования в среде Linux (Bash/<highlighttext>Python</highlighttext>/Robot Framework/SQL). Администрирование Linux. Практический опыт работы в k8s...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Функциональный архитектор проектов В2В",
+        "url": "https://hh.ru/vacancy/88156531",
+        "pay": null,
+        "requirement": "Высшее техническое образование. Стаж по профилю (архитектор) не менее 2 лет, опыт управления проектами не менее 2 лет. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Automation QA Engineer / Инженер по автоматизации тестирования (SCSI)",
+        "url": "https://hh.ru/vacancy/87292687",
+        "pay": null,
+        "requirement": "...использованием <highlighttext>Python</highlighttext>. Знание сетевых технологий, стека протоколов TCP/IP + представление о модели OSI. Практический опыт работы с <highlighttext>Python</highlighttext> 3...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA Automation Engineer (Python) / Инженер по автоматизированному тестированию (TATLIN)",
+        "url": "https://hh.ru/vacancy/87739751",
+        "pay": null,
+        "requirement": "Опыт создания тестовых сценариев. Опыт в ООП, <highlighttext>Python</highlighttext> (3.9), async. Опыт использования Pytest framework + plugins, requests, Paramiko, Playwright. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Дата-инженер в платформу данных",
+        "url": "https://hh.ru/vacancy/90250453",
+        "pay": null,
+        "requirement": "У вас есть опыт работы инженером или разработчиком от 3 лет. Знаете один из языков: <highlighttext>Python</highlighttext> или Java. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Заместитель начальника ИТ отдела",
+        "url": "https://hh.ru/vacancy/89042886",
+        "pay": null,
+        "requirement": "IBM Power, IBM AIX, IBM DB2, IBM WebSphere MQ, VMware ESXi, Windows Server, IBM Tivoli Monitoring, Java. ",
         "city": "Нижний Новгород"
     },
     {
@@ -784,24 +798,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "DevOps",
-        "url": "https://hh.ru/vacancy/85413472",
+        "name": "Разработчик витрин данных",
+        "url": "https://hh.ru/vacancy/90359005",
         "pay": null,
-        "requirement": "Опыт автоматизации тестирования в среде Linux (Bash/<highlighttext>Python</highlighttext>/Robot Framework/SQL). Администрирование Linux. Практический опыт работы в k8s...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "NLP engineer / Data scientist NLP (продуктовая ИТ-компания, удаленно)",
-        "url": "https://hh.ru/vacancy/90749975",
-        "pay": null,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>. Опыт работы с PyTorch, Numpy, Sklearn, Pandas. Опыт работы с LLM, дообучением GPT-like моделей. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps инженер",
-        "url": "https://hh.ru/vacancy/89599290",
-        "pay": null,
-        "requirement": "Уверенное знание Kubernetes. - Опыт работы с FluxCD, Jenkins, Ansible. - Понимание принципов работы DevOps инструментов. - Опыт работы с облаками (Яндекс клауд...",
+        "requirement": "Обязательно Oracle, PostgreSQL/GreenPlum, желательно <highlighttext>python</highlighttext>, java. Опыт разработки ETL инструментами IPC /Airflow. Обязателен опыт работы с технической документацией.",
         "city": "Нижний Новгород"
     },
     {
@@ -812,73 +812,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Заместитель начальника ИТ отдела",
-        "url": "https://hh.ru/vacancy/89042886",
+        "name": "Старший инженер по автоматизации тестирования, Python, API, Ozon Bank",
+        "url": "https://hh.ru/vacancy/89893691",
         "pay": null,
-        "requirement": "IBM Power, IBM AIX, IBM DB2, IBM WebSphere MQ, VMware ESXi, Windows Server, IBM Tivoli Monitoring, Java. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "PostgreSql Application DBA",
-        "url": "https://hh.ru/vacancy/90151056",
-        "pay": null,
-        "requirement": "Опыт программирования на одном из следующих языков: Bash, PowerShell, <highlighttext>Python</highlighttext>, Sql. * Опыт администрирования серверных операционных систем RHEL/CentOS - на уровне...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик (Data Platform)",
-        "url": "https://hh.ru/vacancy/89505905",
-        "pay": null,
-        "requirement": "Опыт работы в распределенной команде. Владение английским языком не ниже уровня Upper Intermediate. Знание и владение технологиями Spark, SQL, <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Технический специалист",
-        "url": "https://hh.ru/vacancy/86461587",
-        "pay": null,
-        "requirement": "Опыт работы с системами мониторинга и логирования. Опыт программирования на скриптовых языках (bash/<highlighttext>python</highlighttext>/go). Знание сетевых технологий TCP/IP. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Software engineer Go / Инженер-программист Go (Release engineering)",
-        "url": "https://hh.ru/vacancy/87825394",
-        "pay": null,
-        "requirement": "Английский на уровне Intermediate или выше. Будет плюсом. Знание и опыт разработки на <highlighttext>Python</highlighttext>. Опыт работы с NoSQL базами данных...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle DevOps Engineer (СЭД ТЕЗИС)",
-        "url": "https://hh.ru/vacancy/90299953",
-        "pay": null,
-        "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Python Middle developer",
-        "url": "https://hh.ru/vacancy/89589293",
-        "pay": null,
-        "requirement": "Что нам хотелось бы видеть от кандидата: Опыт работы с базами данных ClickHouse, PostgreSQL, MongoDB, Redis. Опыт работы с парсерами...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Менеджер по работе с данными (CDO)",
-        "url": "https://hh.ru/vacancy/69022955",
-        "pay": null,
-        "requirement": "Высшее образование. Практический опыт работы в роли менеджера по ИТ/CIO/CDO/CDataO/архитектора данных. Экспертные знания в сфере Big...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер Embedded Linux",
-        "url": "https://hh.ru/vacancy/90602748",
-        "pay": null,
-        "requirement": "Опыт работы с сервисами в systemd. Знание C (3+года), bash, <highlighttext>python</highlighttext>, make. Знакомство с подсистемой логгирования в Linux. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA инженер (mobile)",
-        "url": "https://hh.ru/vacancy/89952076",
-        "pay": null,
-        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "requirement": "Обладаете опытом тестирования API (мы используем gRPC, GraphQL, REST). Знаете инструменты автоматизации тестирования на <highlighttext>Python</highlighttext>: PyTest, Allure, Requests, Cerberus или...",
         "city": "Нижний Новгород"
     },
     {
@@ -889,73 +826,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Системный программист С/С++ (разработка ОС Аврора)",
-        "url": "https://hh.ru/vacancy/90084152",
+        "name": "Менеджер по работе с данными (CDO)",
+        "url": "https://hh.ru/vacancy/69022955",
         "pay": null,
-        "requirement": "Знание архитектуры Linux, опыт работы с ядром Linux. Знание С/С++, bash, <highlighttext>python</highlighttext>. Знание libc и POSIX API. Знание STL. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по автоматизации тестирования (Python)",
-        "url": "https://hh.ru/vacancy/84817887",
-        "pay": null,
-        "requirement": "Опыт разработки автотестовтестов на <highlighttext>Python</highlighttext> от 2 лет. Умение работать с Selenium/Selenide/Playwright. Понимание REST API, HTTP/HTTPS. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по эксплуатации систем кибербезопасности",
-        "url": "https://hh.ru/vacancy/88116386",
-        "pay": null,
-        "requirement": "Понимание базовых веб-технологий. Умение прочесть код скрипта / написать простую автоматизацию (<highlighttext>Python</highlighttext>, PS, bash). Базовые компетенции в ИБ (OWASP TOP...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data Scientist (middle)",
-        "url": "https://hh.ru/vacancy/89246758",
-        "pay": null,
-        "requirement": "Проектный опыт работы с временными рядами. ​​уверенное владение <highlighttext>Python</highlighttext> и SQL. Навыки работы с sklearn, pandas, plotly, LightGBM, CatBoost, prophet. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер платежных систем",
-        "url": "https://hh.ru/vacancy/88267366",
-        "pay": null,
-        "requirement": "Опыт работы с СУБД Postgres желателен. - опыт написание скриптов (bash, <highlighttext>python</highlighttext> или другие языки). - опыт работы с Gitlab и Gitlab...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle +/Senior Android разработчик",
-        "url": "https://hh.ru/vacancy/90700856",
-        "pay": null,
-        "requirement": "Опыт code-review (контроль качества кода). Опыт разработки серверных приложений (Java, Scala, <highlighttext>Python</highlighttext>). Опыт работы с БД (Oracle, SQLite). ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший инженер по автоматизации тестирования, Python, API, Ozon Bank",
-        "url": "https://hh.ru/vacancy/89893691",
-        "pay": null,
-        "requirement": "Обладаете опытом тестирования API (мы используем gRPC, GraphQL, REST). Знаете инструменты автоматизации тестирования на <highlighttext>Python</highlighttext>: PyTest, Allure, Requests, Cerberus или...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Разработчик DWH",
-        "url": "https://hh.ru/vacancy/88878440",
-        "pay": null,
-        "requirement": "Знание и навыки разработки на одном из основных языков стэка компании (<highlighttext>Python</highlighttext>, Scala, Java, C#/C++). Опыт и навыки разработки...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Ведущий специалист направления развития инфраструктуры kubernetes отдела Devops",
-        "url": "https://hh.ru/vacancy/90594727",
-        "pay": null,
-        "requirement": "Опыт работы с высоконагруженными и отказоустойчивыми системами. Опыт написания кода в bash и <highlighttext>python</highlighttext>. Опыт построения процессов Gitlab CI/CD. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший специалист информационной безопасности",
-        "url": "https://hh.ru/vacancy/90026140",
-        "pay": 150000,
-        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
+        "requirement": "Высшее образование. Практический опыт работы в роли менеджера по ИТ/CIO/CDO/CDataO/архитектора данных. Экспертные знания в сфере Big...",
         "city": "Нижний Новгород"
     },
     {
@@ -966,73 +840,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Программист MS SQL",
-        "url": "https://hh.ru/vacancy/89579945",
+        "name": "Технический специалист",
+        "url": "https://hh.ru/vacancy/86461587",
         "pay": null,
-        "requirement": "Ответственность, дисциплинированность, ориентированность на результат и качество работы. MS SQL, MySQL. PHP 5.6, Smarty, JS, <highlighttext>Python</highlighttext>. Nginx, RedMine, TortoiseSVN.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle С++ Developer",
-        "url": "https://hh.ru/vacancy/83668513",
-        "pay": null,
-        "requirement": "...оптимизации производительности, поиска утечек памяти. Знание особенностей многопоточного программирования. Опыт автоматического тестирования и написания юнит-тестов. Знание <highlighttext>Python</highlighttext>. Знание QT.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Lab owner",
-        "url": "https://hh.ru/vacancy/89010421",
-        "pay": null,
-        "requirement": "Клиентоориентированность, коммуникабельность, умение правильно расставить приоритеты. Администрирование Linux. Знание скриптовых языков <highlighttext>Python</highlighttext>, bash. Понимание и опыт работы с Ansible, Git. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Разработчик витрин данных",
-        "url": "https://hh.ru/vacancy/90359005",
-        "pay": null,
-        "requirement": "Обязательно Oracle, PostgreSQL/GreenPlum, желательно <highlighttext>python</highlighttext>, java. Опыт разработки ETL инструментами IPC /Airflow. Обязателен опыт работы с технической документацией.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle AQA (Python)",
-        "url": "https://hh.ru/vacancy/89505282",
-        "pay": null,
-        "requirement": "Опыт автоматизации на <highlighttext>Python</highlighttext> от 2 лет. Знакомство с ООП. Опыт работы с любым фреймворком автоматизации, таким как Selenium, Appium...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Разработчик Баз данных",
-        "url": "https://hh.ru/vacancy/89900746",
-        "pay": null,
-        "requirement": "Знание одного из высокоуровневых языков (Java/ C#/ <highlighttext>Python</highlighttext>/ C++). Знание принципов и шаблонов проектирования программного обеспечения. Владение ООП, понимание современных...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший специалист в области сетевой безопасности",
-        "url": "https://hh.ru/vacancy/89362656",
-        "pay": null,
-        "requirement": "Будет плюсом: Умение автоматизировать собственную работу, знание какого-либо скриптового языка (<highlighttext>Python</highlighttext>, JS, Bash, Powershell, etc.). Опыт расследования инцидентов и...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Администратор DBA/Системный администратор",
-        "url": "https://hh.ru/vacancy/89991982",
-        "pay": null,
-        "requirement": "Уверенные знания по системам Linux. Знание скриптов bash, <highlighttext>python</highlighttext>​​​​​​​. Практический опыт администрирования нагруженных PostgreSQL баз большого размера с высокой доступностью. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle/Senior C++ разработчик в Поиск",
-        "url": "https://hh.ru/vacancy/89524383",
-        "pay": null,
-        "requirement": "Будет плюсом. Опыт работы с поисковыми алгоритмами. Знание <highlighttext>Python</highlighttext>. Опыт использования gRPC. Знание/готовность изучить Go.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA Automation Engineer (Python) / Инженер по автоматизированному тестированию (TATLIN)",
-        "url": "https://hh.ru/vacancy/87739751",
-        "pay": null,
-        "requirement": "Опыт создания тестовых сценариев. Опыт в ООП, <highlighttext>Python</highlighttext> (3.9), async. Опыт использования Pytest framework + plugins, requests, Paramiko, Playwright. ",
+        "requirement": "Опыт работы с системами мониторинга и логирования. Опыт программирования на скриптовых языках (bash/<highlighttext>python</highlighttext>/go). Знание сетевых технологий TCP/IP. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1043,115 +854,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "QA Automation Engineer",
-        "url": "https://hh.ru/vacancy/90567023",
+        "name": "Системный программист С/С++ (разработка ОС Аврора)",
+        "url": "https://hh.ru/vacancy/90084152",
         "pay": null,
-        "requirement": "Знание ОС Linux на уровне продвинутого пользователя. Опыт автоматизации тестирования. Опыт разработки на <highlighttext>Python</highlighttext>. Опыт работы со средствами CI/CD. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Системный аналитик",
-        "url": "https://hh.ru/vacancy/90431237",
-        "pay": null,
-        "requirement": "Опыт работы системным аналитиком от 3-х лет. Опыт проектирования IT-систем. Опыт проектирования моделей данных, контрактов межсервисного взаимодействия. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA automation engineer",
-        "url": "https://hh.ru/vacancy/89647436",
-        "pay": null,
-        "requirement": "Опыт автоматизации тестовых сценариев для API (Postman). Знание <highlighttext>Python</highlighttext>/Java. Готовность разрабатывать Test cases / Use cases. Навыки анализа документации для...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Golang разработчик",
-        "url": "https://hh.ru/vacancy/89123851",
-        "pay": null,
-        "requirement": "Навыки работы в команде. Уверенное использование Unix-систем. Знание <highlighttext>Python</highlighttext> (Django) или PHP. Опыт разработки высоконагруженных систем. Знание техники безопасности...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA Engineer (проекты на JS и Python)",
-        "url": "https://hh.ru/vacancy/86631895",
-        "pay": 160000,
-        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle тестировщик прикладной части",
-        "url": "https://hh.ru/vacancy/90351937",
-        "pay": null,
-        "requirement": "Опыт работы в тестировании программного обеспечения. Знание методологий и подходов к тестированию. Умение разрабатывать тестовые сценарии и проводить функциональное и...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior python разработчик",
-        "url": "https://hh.ru/vacancy/89196225",
-        "pay": null,
-        "requirement": "Знакомы с устройством протокола HTTP/1.1 (HTTP/2 будет плюсом). Понимаете, как разворачивать свой код. Умеете работать самостоятельно и...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "QA Automation в команду 3D-карты",
-        "url": "https://hh.ru/vacancy/90689411",
-        "pay": null,
-        "requirement": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от двух лет. Знание методологий тестирования и практик тест-дизайна. Желание развиваться профессионально и изучать...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Руководитель направления по эксплуатации и развитию прикладных транспортных систем",
-        "url": "https://hh.ru/vacancy/88633688",
-        "pay": null,
-        "requirement": "IBM Power, IBM AIX, IBM DB2, IBM WebSphere MQ, VMware ESXi, Windows Server, IBM Tivoli Monitoring, Java. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Руководитель направления разработки",
-        "url": "https://hh.ru/vacancy/87448845",
-        "pay": 355000,
-        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Integration Engineer",
-        "url": "https://hh.ru/vacancy/87851156",
-        "pay": null,
-        "requirement": "Базовое знание JavaScript. Базовое знание <highlighttext>Python</highlighttext>. Базовые знания организации сетей связи телекоммуникационного оператора, принципов работы сетевого оборудования. Опыт внедрения систем...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle/Senior С++ разработчик в Mobile SDK",
-        "url": "https://hh.ru/vacancy/89524323",
-        "pay": null,
-        "requirement": "Опыт разработки многопоточных приложений. Навыки измерения производительности и профилирования графических программ. Опыт работы с Jenkins, знание <highlighttext>Python</highlighttext>, CMake.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Linux Distributive Development (Common Platform)",
-        "url": "https://hh.ru/vacancy/89830895",
-        "pay": null,
-        "requirement": "Отличное знание Linux (архитектура, сборка и администрирование). Опыт автоматизация и написания скриптов на <highlighttext>Python</highlighttext> и bash. Опыт диагностики проблем производительности...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Rendering engineer C++ в 3D Карту",
-        "url": "https://hh.ru/vacancy/88759812",
-        "pay": null,
-        "requirement": "Имеешь опыт работы с графическим API (Metal, OpenGL, DirectX, Vulkan). Имеешь опыт написания шейдерных программ. Знаешь основные алгоритмы и структуры...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "PHP Middle developer",
-        "url": "https://hh.ru/vacancy/89744317",
-        "pay": null,
-        "requirement": "...ClickHouse); опыт оптимизации под большие объемы данных. Будет плюсом: Знание языков программирования C++ / Java / <highlighttext>Python</highlighttext>. Понимание архитектуры сетей TCP/IP.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "ML-инженер",
-        "url": "https://hh.ru/vacancy/88707002",
-        "pay": null,
-        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
+        "requirement": "Знание архитектуры Linux, опыт работы с ядром Linux. Знание С/С++, bash, <highlighttext>python</highlighttext>. Знание libc и POSIX API. Знание STL. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1162,185 +868,52 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер по автоматизации",
-        "url": "https://hh.ru/vacancy/89790327",
+        "name": "Python developer \\ Инженер-программист (TATLIN.FLEX)",
+        "url": "https://hh.ru/vacancy/89564944",
         "pay": null,
-        "requirement": "Опыт работы с ОС Linux, СУБД, технологиями виртуализации. Опыт написания скриптов на <highlighttext>Python</highlighttext> обязателен. Наличие представления о сетевой моделью OSI...",
+        "requirement": "Знание <highlighttext>Python</highlighttext> 3.9+ (Standard Library, RPC, TDD, Очереди, Параллелизм). Понимание принципов работы ОС Linux (sysfs, inotify, POSIX, netlink). ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ведущий QA Automation (Программист-тестировщик)",
-        "url": "https://hh.ru/vacancy/89996943",
-        "pay": 90000,
-        "requirement": "Знание основных видов атак на (XSS, SQLi, CSRF, SSRF, DOS, etc.) и методов противодействия. Знания <highlighttext>python</highlighttext>. Умение решать задачи на...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший аналитик киберугроз",
-        "url": "https://hh.ru/vacancy/89362806",
+        "name": "Инженер по автоматизации тестирования (Python)",
+        "url": "https://hh.ru/vacancy/84817887",
         "pay": null,
-        "requirement": "Будет значимыми плюсами: Знание какого-либо из интерпретируемых языков программирования <highlighttext>Python</highlighttext>/Ruby/etc. – для автоматизации собственного труда и создания PoC. ",
+        "requirement": "Опыт разработки автотестовтестов на <highlighttext>Python</highlighttext> от 2 лет. Умение работать с Selenium/Selenide/Playwright. Понимание REST API, HTTP/HTTPS. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "DevOps инженер (Kubernetes)",
-        "url": "https://hh.ru/vacancy/89894512",
-        "pay": 200000,
-        "requirement": "Понимание отличий одних типова раннеров от других. Знания и опыт разработки скриптов (<highlighttext>python</highlighttext>/bash и др.) для автоматизации широкого спектра...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер SOC - 1 и 2 линия",
-        "url": "https://hh.ru/vacancy/89731210",
+        "name": "Lab owner",
+        "url": "https://hh.ru/vacancy/89010421",
         "pay": null,
-        "requirement": "Опыт работы с IRP, ITSM. Опыт автоматизации операционных задач (<highlighttext>Python</highlighttext>, PowerShell). Владение английским языком на уровне, достаточном для чтения технической...",
+        "requirement": "Клиентоориентированность, коммуникабельность, умение правильно расставить приоритеты. Администрирование Linux. Знание скриптовых языков <highlighttext>Python</highlighttext>, bash. Понимание и опыт работы с Ansible, Git. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
-        "url": "https://hh.ru/vacancy/87724389",
-        "pay": 18000,
-        "requirement": "Умеете читать языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Имеете высшее или неоконченное высшее образование (техническое будет плюсом). Помогали людям онлайн. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Системный аналитик (ВК и ГОЗ)",
-        "url": "https://hh.ru/vacancy/85617079",
+        "name": "QA manager / Тест-менеджер",
+        "url": "https://hh.ru/vacancy/90288053",
         "pay": null,
-        "requirement": "Опыт работы с PostgreSQL, Oracle, MS SQL. Знание <highlighttext>Python</highlighttext>, Java на уровне \"подправить код\". Опыт построения WEB-интерфейсов для большого...",
+        "requirement": "Опыт работы в позициях QA Manager, QA Lead от 5 лет. Знание <highlighttext>Python</highlighttext>/Linux. Опыт работы с СХД. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер по управлению работами на сети",
-        "url": "https://hh.ru/vacancy/87819753",
-        "pay": 46000,
-        "requirement": "Cреднее/высшее техническое образование. Уверенный пользователь ПК (word, excel). Знание <highlighttext>python</highlighttext>,SQL(приветствуется).",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший системный администратор (DevOps)",
-        "url": "https://hh.ru/vacancy/89594111",
-        "pay": null,
-        "requirement": "Опыт работы с ОС Linux на уровне администратора, написание сценариев и скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>, go, ruby). ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Devops Engineer (Системный инженер) Middle",
-        "url": "https://hh.ru/vacancy/90540586",
-        "pay": null,
-        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Automation QA (Python)",
-        "url": "https://hh.ru/vacancy/89001164",
-        "pay": null,
-        "requirement": "Опыт разработки автотестов более 1 года на языке <highlighttext>Python</highlighttext>. Опыт писать понятную другим тестировщикам документацию в формате инструкций, чек-листов...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Системный инженер / DevOps",
-        "url": "https://hh.ru/vacancy/89622217",
-        "pay": 150000,
-        "requirement": "Опыт работы с Kubernetes, Terraform, Ansible. Знание <highlighttext>Python</highlighttext>. Умение работать с программами, написанными на Ruby. Опыт работы с популярными гипервизорами...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Head of QA в сервис Social",
-        "url": "https://hh.ru/vacancy/90535923",
-        "pay": null,
-        "requirement": "Опыт работы в сфере тестирования от 5-ти лет. Опыт автоматизации тестирования от 3-х лет. Опыт управления QA командой...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по тестированию (Модель данных)",
-        "url": "https://hh.ru/vacancy/87926359",
-        "pay": null,
-        "requirement": "Опыт аналогичной работы от 2-3 лет. Хорошее знание и понимание методологии тестирования ПО, а также приёмов тест-дизайна. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Дата-инженер в платформу данных",
-        "url": "https://hh.ru/vacancy/90250453",
-        "pay": null,
-        "requirement": "У вас есть опыт работы инженером или разработчиком от 3 лет. Знаете один из языков: <highlighttext>Python</highlighttext> или Java. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Python-разработчик, Middle/Middle+",
-        "url": "https://hh.ru/vacancy/90334405",
-        "pay": null,
-        "requirement": "Гибкость: продукты Контура постоянно адаптируются под рынок и пользователей, нужно уметь работать в меняющихся условиях.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший инженер по разработке ПО (QEMU)",
-        "url": "https://hh.ru/vacancy/90681955",
-        "pay": null,
-        "requirement": "...с процессами Code Review, CI/CD. Опыт работы с функциональными симуляторами. Опыт работы с системами CI(gitlab\\jenkins). Знание <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Data analyst (senior / team lead)",
-        "url": "https://hh.ru/vacancy/90594042",
-        "pay": null,
-        "requirement": "понимание инструментов анализа данных <highlighttext>Python</highlighttext>, умение визуализировать инсайты. — опыт создания дашбордов и аналитических отчетов. — умение планировать, управлять командой, презентовать результаты...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "SDET (Python) / Инженер по автоматизированному тестированию (TATLIN.OBJECT)",
-        "url": "https://hh.ru/vacancy/81239045",
-        "pay": null,
-        "requirement": "Опыт автоматизации на <highlighttext>Python</highlighttext>. Понимание устройства и работы в Linux. Базовое знание сетей, передачи и хранения данных. Английский язык на...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps Engineer",
-        "url": "https://hh.ru/vacancy/87564647",
-        "pay": null,
-        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> + Django (у нас почти все DevOps-сервисы. На <highlighttext>python</highlighttext>). Опыт работы с Ansible. Уверенное написание плейбуков...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Аналитик данных",
-        "url": "https://hh.ru/vacancy/88404984",
-        "pay": null,
-        "requirement": "Знание одной или нескольких BI систем: QlikView, QlikSense, PowerBI. Знание sql (желательно). Навыки <highlighttext>Python</highlighttext>, опыт автоматизации. Умение работать с большими...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps/Developer Bundle",
-        "url": "https://hh.ru/vacancy/90408238",
-        "pay": null,
-        "requirement": "Имеете опыт работы с Git. Обладаете базовыми знаниями <highlighttext>Python</highlighttext>. Имеете опыт работы с Docker. Обладаете знанием английского языка на уровне...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "С++ Middle developer",
-        "url": "https://hh.ru/vacancy/83605037",
-        "pay": null,
-        "requirement": "...какую-нибудь распространённую архитектуру. Знание операционных систем, отличных от Windows и Linux. Знание скриптовых языков (shell, <highlighttext>python</highlighttext> и т.д.).",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший инженер-программист C++",
-        "url": "https://hh.ru/vacancy/82466196",
-        "pay": null,
-        "requirement": "...Опыт работы с большими данными и высоконагруженными решениями. Понимание принципов сетевых технологий, опыт разработки сетевых приложений. Знакомство с Bash, <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps engineer",
-        "url": "https://hh.ru/vacancy/90338033",
-        "pay": null,
-        "requirement": "Знания и опыт работы с DevOps инструментами (Gitlab, Ansible). Знания и опыт разработки скриптов (<highlighttext>python</highlighttext>/bash/perl и др.) для...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps инженер",
-        "url": "https://hh.ru/vacancy/84264636",
+        "name": "Инженер платежных систем",
+        "url": "https://hh.ru/vacancy/88267366",
         "pay": null,
         "requirement": "Опыт работы с СУБД Postgres желателен. - опыт написание скриптов (bash, <highlighttext>python</highlighttext> или другие языки). - опыт работы с Gitlab и Gitlab...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Integration Engineer",
+        "url": "https://hh.ru/vacancy/87851156",
+        "pay": null,
+        "requirement": "Базовое знание JavaScript. Базовое знание <highlighttext>Python</highlighttext>. Базовые знания организации сетей связи телекоммуникационного оператора, принципов работы сетевого оборудования. Опыт внедрения систем...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Разработчик Баз данных",
+        "url": "https://hh.ru/vacancy/89900746",
+        "pay": null,
+        "requirement": "Знание одного из высокоуровневых языков (Java/ C#/ <highlighttext>Python</highlighttext>/ C++). Знание принципов и шаблонов проектирования программного обеспечения. Владение ООП, понимание современных...",
         "city": "Нижний Новгород"
     },
     {
@@ -1351,73 +924,122 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Релиз менеджер",
-        "url": "https://hh.ru/vacancy/89204045",
-        "pay": null,
-        "requirement": "Продвинутый опыт работы с системами управления исходным кодом (Git). Опыт работы с CI/CD (Jenkins). Знание основ любого языка программирования...",
+        "name": "QA Engineer (проекты на JS и Python)",
+        "url": "https://hh.ru/vacancy/86631895",
+        "pay": 160000,
+        "requirement": "Опыт работы с Atlassian Jira, Confluence, Qase. Опыт тестирования web-приложений (Кроссбраузерное тестирование). Опыт работы с техниками тест-дизайна. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "QA automation engineer (Python) / Инженер по автоматизированному тестированию (TATLIN.FLEX)",
-        "url": "https://hh.ru/vacancy/87983368",
+        "name": "Инженер Embedded Linux",
+        "url": "https://hh.ru/vacancy/90602748",
         "pay": null,
-        "requirement": "Знание и практический опыт написания авто-тестов на языке <highlighttext>Python</highlighttext> (для тестирования бекенда). Знание и практический опыт использования фреймворка PyTest. ",
+        "requirement": "Опыт работы с сервисами в systemd. Знание C (3+года), bash, <highlighttext>python</highlighttext>, make. Знакомство с подсистемой логгирования в Linux. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Системный программист в отдел адаптации ОС Аврора",
-        "url": "https://hh.ru/vacancy/89794029",
+        "name": "Middle тестировщик прикладной части",
+        "url": "https://hh.ru/vacancy/90351937",
         "pay": null,
-        "requirement": "Опыт написания или отладки кода на С++ и <highlighttext>Python</highlighttext>. Понимание ядра Linux, опыт написание и/или отладки модулей ядра. ",
+        "requirement": "Опыт работы в тестировании программного обеспечения. Знание методологий и подходов к тестированию. Умение разрабатывать тестовые сценарии и проводить функциональное и...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89643035",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "name": "PHP Middle developer",
+        "url": "https://hh.ru/vacancy/89744317",
+        "pay": null,
+        "requirement": "...ClickHouse); опыт оптимизации под большие объемы данных. Будет плюсом: Знание языков программирования C++ / Java / <highlighttext>Python</highlighttext>. Понимание архитектуры сетей TCP/IP.",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Руководитель группы разработки (Team Lead)",
-        "url": "https://hh.ru/vacancy/83337104",
+        "name": "QA Automation Engineer",
+        "url": "https://hh.ru/vacancy/90567023",
         "pay": null,
-        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
+        "requirement": "Знание ОС Linux на уровне продвинутого пользователя. Опыт автоматизации тестирования. Опыт разработки на <highlighttext>Python</highlighttext>. Опыт работы со средствами CI/CD. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Главный инженер LINUX на проекты внедрения",
-        "url": "https://hh.ru/vacancy/86779294",
+        "name": "Python-разработчик, Middle/Middle+",
+        "url": "https://hh.ru/vacancy/90334405",
         "pay": null,
-        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, perl, bash, javascript). Знание современных API и форматов данных. ",
+        "requirement": "Гибкость: продукты Контура постоянно адаптируются под рынок и пользователей, нужно уметь работать в меняющихся условиях.",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Старший инженер (специалист по тестированию радиоэлектронной аппаратуры)",
-        "url": "https://hh.ru/vacancy/77555803",
+        "name": "Software engineer Go / Инженер-программист Go (Release engineering)",
+        "url": "https://hh.ru/vacancy/87825394",
         "pay": null,
-        "requirement": "C, C++, C#, <highlighttext>Python</highlighttext>, JSON, JAML, XML, CMake. Redmine, Jira. Google Tests, Pytest, RobotFramework. Excel, Word. Docker, VBox, QEmu. ",
+        "requirement": "Английский на уровне Intermediate или выше. Будет плюсом. Знание и опыт разработки на <highlighttext>Python</highlighttext>. Опыт работы с NoSQL базами данных...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Software Architect in NMS/OAM",
-        "url": "https://hh.ru/vacancy/90048961",
+        "name": "Senior python разработчик",
+        "url": "https://hh.ru/vacancy/89196225",
         "pay": null,
-        "requirement": "Опыт работы с Ansible, HELM, Swagger and API Gateway. Опыт программирования на Go (Golang), <highlighttext>Python</highlighttext> и/или C/C++. ",
+        "requirement": "Знакомы с устройством протокола HTTP/1.1 (HTTP/2 будет плюсом). Понимаете, как разворачивать свой код. Умеете работать самостоятельно и...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "IT рекрутер",
-        "url": "https://hh.ru/vacancy/90112224",
-        "pay": null,
-        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "name": "Ночной специалист службы поддержки с техническими знаниями (Браузер)",
+        "url": "https://hh.ru/vacancy/87724389",
+        "pay": 18000,
+        "requirement": "Умеете читать языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Имеете высшее или неоконченное высшее образование (техническое будет плюсом). Помогали людям онлайн. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "It-рекрутер",
-        "url": "https://hh.ru/vacancy/89958361",
+        "name": "Middle AQA (Python)",
+        "url": "https://hh.ru/vacancy/89505282",
         "pay": null,
-        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "requirement": "Опыт автоматизации на <highlighttext>Python</highlighttext> от 2 лет. Знакомство с ООП. Опыт работы с любым фреймворком автоматизации, таким как Selenium, Appium...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий специалист направления развития инфраструктуры kubernetes отдела Devops",
+        "url": "https://hh.ru/vacancy/90594727",
+        "pay": null,
+        "requirement": "Опыт работы с высоконагруженными и отказоустойчивыми системами. Опыт написания кода в bash и <highlighttext>python</highlighttext>. Опыт построения процессов Gitlab CI/CD. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA automation engineer",
+        "url": "https://hh.ru/vacancy/89647436",
+        "pay": null,
+        "requirement": "Опыт автоматизации тестовых сценариев для API (Postman). Знание <highlighttext>Python</highlighttext>/Java. Готовность разрабатывать Test cases / Use cases. Навыки анализа документации для...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA инженер (mobile)",
+        "url": "https://hh.ru/vacancy/89952076",
+        "pay": null,
+        "requirement": "Знаете один из языков программирования: Java/Kotlin, JS/TS, Swift, <highlighttext>Python</highlighttext>, C#. Умеете работать с системами контроля версий. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle С++ Developer",
+        "url": "https://hh.ru/vacancy/83668513",
+        "pay": null,
+        "requirement": "...оптимизации производительности, поиска утечек памяти. Знание особенностей многопоточного программирования. Опыт автоматического тестирования и написания юнит-тестов. Знание <highlighttext>Python</highlighttext>. Знание QT.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior Software Engineer C (Linux kernel space)/Разработчик C (Linux kernel space) (Tatlin.flex)",
+        "url": "https://hh.ru/vacancy/86848125",
+        "pay": null,
+        "requirement": "Опыт работы с git. Опыт разработки на <highlighttext>Python</highlighttext>. Опыт администрирования Linux. Опыт работы с RDMA. Опыт работы с сетевыми протоколами.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/87564647",
+        "pay": null,
+        "requirement": "Уверенное владение <highlighttext>Python</highlighttext> + Django (у нас почти все DevOps-сервисы. На <highlighttext>python</highlighttext>). Опыт работы с Ansible. Уверенное написание плейбуков...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по тестированию (Модель данных)",
+        "url": "https://hh.ru/vacancy/87926359",
+        "pay": null,
+        "requirement": "Опыт аналогичной работы от 2-3 лет. Хорошее знание и понимание методологии тестирования ПО, а также приёмов тест-дизайна. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1428,45 +1050,52 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Старший системный администратор (DevOps)",
-        "url": "https://hh.ru/vacancy/87771919",
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/90431237",
         "pay": null,
-        "requirement": "Опыт работы с ОС Linux на уровне администратора, написание сценариев и скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>, go). ",
+        "requirement": "Опыт работы системным аналитиком от 3-х лет. Опыт проектирования IT-систем. Опыт проектирования моделей данных, контрактов межсервисного взаимодействия. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Системный администратор Linux",
-        "url": "https://hh.ru/vacancy/90192083",
+        "name": "Middle +/Senior Android разработчик",
+        "url": "https://hh.ru/vacancy/90700856",
         "pay": null,
-        "requirement": "...со спецификой в Oracle). Опыт написания скриптов автоматизации (предпочтительно на Shell, PowerShell, <highlighttext>Python</highlighttext>). Опыт работы в системах Jira, BMC Remedy.",
+        "requirement": "Опыт code-review (контроль качества кода). Опыт разработки серверных приложений (Java, Scala, <highlighttext>Python</highlighttext>). Опыт работы с БД (Oracle, SQLite). ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Преподаватель программирования в международную онлайн школу",
-        "url": "https://hh.ru/vacancy/89766031",
+        "name": "Linux Distributive Development (Common Platform)",
+        "url": "https://hh.ru/vacancy/89830895",
         "pay": null,
-        "requirement": "Имеешь опыт обучения детей от 5 до 17 лет в группе или индивидуально. Знание английского и/или немецкого языков от...",
+        "requirement": "Отличное знание Linux (архитектура, сборка и администрирование). Опыт автоматизация и написания скриптов на <highlighttext>Python</highlighttext> и bash. Опыт диагностики проблем производительности...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер Linux (мейнтейнер)",
-        "url": "https://hh.ru/vacancy/90560197",
+        "name": "Data Scientist (middle)",
+        "url": "https://hh.ru/vacancy/89246758",
         "pay": null,
-        "requirement": "Владение языками программирования (одним или несколькими: C/C++, <highlighttext>Python</highlighttext>, Perl, Java, Ruby). Владение скриптовыми языками программирования (минимум Bash). ",
+        "requirement": "Проектный опыт работы с временными рядами. ​​уверенное владение <highlighttext>Python</highlighttext> и SQL. Навыки работы с sklearn, pandas, plotly, LightGBM, CatBoost, prophet. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Преподаватель математики и информатики",
-        "url": "https://hh.ru/vacancy/89685535",
-        "pay": 30000,
-        "requirement": "От тебя: Большое желание развиваться. Опыт не так важен, но приветствуется. Знания по предмету, который хотел бы преподавать. Долгосрочное сотрудничество. ",
+        "name": "Head of QA в сервис Social",
+        "url": "https://hh.ru/vacancy/90535923",
+        "pay": null,
+        "requirement": "Опыт работы в сфере тестирования от 5-ти лет. Опыт автоматизации тестирования от 3-х лет. Опыт управления QA командой...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "C++ developer",
-        "url": "https://hh.ru/vacancy/89773577",
+        "name": "DevOps инженер (Kubernetes)",
+        "url": "https://hh.ru/vacancy/89894512",
+        "pay": 200000,
+        "requirement": "Понимание отличий одних типова раннеров от других. Знания и опыт разработки скриптов (<highlighttext>python</highlighttext>/bash и др.) для автоматизации широкого спектра...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Релиз менеджер",
+        "url": "https://hh.ru/vacancy/89204045",
         "pay": null,
-        "requirement": "Опыт тестирования кода с помощью автотестов. Знание DPDK, SPDK, PMDK. Знание Rust/<highlighttext>Python</highlighttext>. Знание основных библиотек разработки HPC-инфраструктуры. ",
+        "requirement": "Продвинутый опыт работы с системами управления исходным кодом (Git). Опыт работы с CI/CD (Jenkins). Знание основ любого языка программирования...",
         "city": "Нижний Новгород"
     },
     {
@@ -1477,10 +1106,367 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "QA Engineer (Python) / Инженер по автоматизированному тестированию (TATLIN)",
-        "url": "https://hh.ru/vacancy/89440266",
+        "name": "Руководитель направления разработки",
+        "url": "https://hh.ru/vacancy/87448845",
+        "pay": 355000,
+        "requirement": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA automation engineer (Python) / Инженер по автоматизированному тестированию (TATLIN.FLEX)",
+        "url": "https://hh.ru/vacancy/87983368",
         "pay": null,
-        "requirement": "Знание и понимание теории тестирования. Опыт программирования/автоматизации (<highlighttext>Python</highlighttext>, Java, Go, C и др.). Опыт работы и понимание Linux. ",
+        "requirement": "Знание и практический опыт написания авто-тестов на языке <highlighttext>Python</highlighttext> (для тестирования бекенда). Знание и практический опыт использования фреймворка PyTest. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/90192083",
+        "pay": null,
+        "requirement": "...со спецификой в Oracle). Опыт написания скриптов автоматизации (предпочтительно на Shell, PowerShell, <highlighttext>Python</highlighttext>). Опыт работы в системах Jira, BMC Remedy.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle DevOps Engineer (СЭД ТЕЗИС)",
+        "url": "https://hh.ru/vacancy/90299953",
+        "pay": null,
+        "requirement": "Обладает знанием скриптовых языков программирования: <highlighttext>Python</highlighttext>/Bash. Имеет опыт работы с промышленными СУБД и базовые знания языка SQL. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Разработчик DWH",
+        "url": "https://hh.ru/vacancy/88878440",
+        "pay": null,
+        "requirement": "Знание и навыки разработки на одном из основных языков стэка компании (<highlighttext>Python</highlighttext>, Scala, Java, C#/C++). Опыт и навыки разработки...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по автоматизации",
+        "url": "https://hh.ru/vacancy/89790327",
+        "pay": null,
+        "requirement": "Опыт работы с ОС Linux, СУБД, технологиями виртуализации. Опыт написания скриптов на <highlighttext>Python</highlighttext> обязателен. Наличие представления о сетевой моделью OSI...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "C Developer/ Старший инженер-программист (С) (Tatlin.Unified)",
+        "url": "https://hh.ru/vacancy/90744775",
+        "pay": null,
+        "requirement": "Знание и опыт работы с системами виртуализации. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Знание и опыт работы с протоколами...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Системный аналитик (ВК и ГОЗ)",
+        "url": "https://hh.ru/vacancy/85617079",
+        "pay": null,
+        "requirement": "Опыт работы с PostgreSQL, Oracle, MS SQL. Знание <highlighttext>Python</highlighttext>, Java на уровне \"подправить код\". Опыт построения WEB-интерфейсов для большого...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший специалист по информационной безопасности",
+        "url": "https://hh.ru/vacancy/90426613",
+        "pay": null,
+        "requirement": "Знание модели OSI (TCP/IP). Знание основ <highlighttext>python</highlighttext>, понимание команд sql. Умение проводить расследование инцидентов ИБ. Основы администрирования Windows ОС. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Rendering engineer C++ в 3D Карту",
+        "url": "https://hh.ru/vacancy/88759812",
+        "pay": null,
+        "requirement": "Имеешь опыт работы с графическим API (Metal, OpenGL, DirectX, Vulkan). Имеешь опыт написания шейдерных программ. Знаешь основные алгоритмы и структуры...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps/Developer Bundle",
+        "url": "https://hh.ru/vacancy/90408238",
+        "pay": null,
+        "requirement": "Имеете опыт работы с Git. Обладаете базовыми знаниями <highlighttext>Python</highlighttext>. Имеете опыт работы с Docker. Обладаете знанием английского языка на уровне...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Golang разработчик",
+        "url": "https://hh.ru/vacancy/89123851",
+        "pay": null,
+        "requirement": "Навыки работы в команде. Уверенное использование Unix-систем. Знание <highlighttext>Python</highlighttext> (Django) или PHP. Опыт разработки высоконагруженных систем. Знание техники безопасности...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший специалист в области сетевой безопасности",
+        "url": "https://hh.ru/vacancy/89362656",
+        "pay": null,
+        "requirement": "Будет плюсом: Умение автоматизировать собственную работу, знание какого-либо скриптового языка (<highlighttext>Python</highlighttext>, JS, Bash, Powershell, etc.). Опыт расследования инцидентов и...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший системный администратор (DevOps)",
+        "url": "https://hh.ru/vacancy/89594111",
+        "pay": null,
+        "requirement": "Опыт работы с ОС Linux на уровне администратора, написание сценариев и скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>, go, ruby). ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Программист MS SQL",
+        "url": "https://hh.ru/vacancy/89579945",
+        "pay": null,
+        "requirement": "Ответственность, дисциплинированность, ориентированность на результат и качество работы. MS SQL, MySQL. PHP 5.6, Smarty, JS, <highlighttext>Python</highlighttext>. Nginx, RedMine, TortoiseSVN.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Системный программист в отдел адаптации ОС Аврора",
+        "url": "https://hh.ru/vacancy/89794029",
+        "pay": null,
+        "requirement": "Опыт написания или отладки кода на С++ и <highlighttext>Python</highlighttext>. Понимание ядра Linux, опыт написание и/или отладки модулей ядра. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Automation QA (Python)",
+        "url": "https://hh.ru/vacancy/89001164",
+        "pay": null,
+        "requirement": "Опыт разработки автотестов более 1 года на языке <highlighttext>Python</highlighttext>. Опыт писать понятную другим тестировщикам документацию в формате инструкций, чек-листов...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "ML-инженер",
+        "url": "https://hh.ru/vacancy/88707002",
+        "pay": null,
+        "requirement": "Глубокое понимание принципов работы современных алгоритмов машинного обучения. Высокий уровень знания <highlighttext>Python</highlighttext>. Умение декомпозировать задачу в переиспользуемые и тестируемые библиотеки...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший специалист информационной безопасности",
+        "url": "https://hh.ru/vacancy/90026140",
+        "pay": 150000,
+        "requirement": "Уметь писать код на одном или нескольких языках программирования (<highlighttext>Python</highlighttext>, PHP, JavaScript, и т. д). Знать особенности языков программирования и...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Devops Engineer (Системный инженер) Middle",
+        "url": "https://hh.ru/vacancy/90540586",
+        "pay": null,
+        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Data analyst (senior / team lead)",
+        "url": "https://hh.ru/vacancy/90594042",
+        "pay": null,
+        "requirement": "понимание инструментов анализа данных <highlighttext>Python</highlighttext>, умение визуализировать инсайты. — опыт создания дашбордов и аналитических отчетов. — умение планировать, управлять командой, презентовать результаты...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по управлению работами на сети",
+        "url": "https://hh.ru/vacancy/87819753",
+        "pay": 46000,
+        "requirement": "Cреднее/высшее техническое образование. Уверенный пользователь ПК (word, excel). Знание <highlighttext>python</highlighttext>,SQL(приветствуется).",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/84264636",
+        "pay": null,
+        "requirement": "Опыт работы с СУБД Postgres желателен. - опыт написание скриптов (bash, <highlighttext>python</highlighttext> или другие языки). - опыт работы с Gitlab и Gitlab...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший аналитик киберугроз",
+        "url": "https://hh.ru/vacancy/89362806",
+        "pay": null,
+        "requirement": "Будет значимыми плюсами: Знание какого-либо из интерпретируемых языков программирования <highlighttext>Python</highlighttext>/Ruby/etc. – для автоматизации собственного труда и создания PoC. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle/Senior C++ разработчик в Поиск",
+        "url": "https://hh.ru/vacancy/89524383",
+        "pay": null,
+        "requirement": "Будет плюсом. Опыт работы с поисковыми алгоритмами. Знание <highlighttext>Python</highlighttext>. Опыт использования gRPC. Знание/готовность изучить Go.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Руководитель направления по эксплуатации и развитию прикладных транспортных систем",
+        "url": "https://hh.ru/vacancy/88633688",
+        "pay": null,
+        "requirement": "IBM Power, IBM AIX, IBM DB2, IBM WebSphere MQ, VMware ESXi, Windows Server, IBM Tivoli Monitoring, Java. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Software Architect in NMS/OAM",
+        "url": "https://hh.ru/vacancy/90048961",
+        "pay": null,
+        "requirement": "Опыт работы с Ansible, HELM, Swagger and API Gateway. Опыт программирования на Go (Golang), <highlighttext>Python</highlighttext> и/или C/C++. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "QA Automation в команду 3D-карты",
+        "url": "https://hh.ru/vacancy/90689411",
+        "pay": null,
+        "requirement": "Опыт автоматизации тестирования на <highlighttext>Python</highlighttext> от двух лет. Знание методологий тестирования и практик тест-дизайна. Желание развиваться профессионально и изучать...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "С++ Middle developer",
+        "url": "https://hh.ru/vacancy/83605037",
+        "pay": null,
+        "requirement": "...какую-нибудь распространённую архитектуру. Знание операционных систем, отличных от Windows и Linux. Знание скриптовых языков (shell, <highlighttext>python</highlighttext> и т.д.).",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "IT рекрутер",
+        "url": "https://hh.ru/vacancy/90112224",
+        "pay": null,
+        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Системный инженер / DevOps",
+        "url": "https://hh.ru/vacancy/89622217",
+        "pay": 150000,
+        "requirement": "Опыт работы с Kubernetes, Terraform, Ansible. Знание <highlighttext>Python</highlighttext>. Умение работать с программами, написанными на Ruby. Опыт работы с популярными гипервизорами...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "SDET (Python) / Инженер по автоматизированному тестированию (TATLIN.OBJECT)",
+        "url": "https://hh.ru/vacancy/81239045",
+        "pay": null,
+        "requirement": "Опыт автоматизации на <highlighttext>Python</highlighttext>. Понимание устройства и работы в Linux. Базовое знание сетей, передачи и хранения данных. Английский язык на...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps engineer",
+        "url": "https://hh.ru/vacancy/90338033",
+        "pay": null,
+        "requirement": "Знания и опыт работы с DevOps инструментами (Gitlab, Ansible). Знания и опыт разработки скриптов (<highlighttext>python</highlighttext>/bash/perl и др.) для...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Руководитель группы разработки (Team Lead)",
+        "url": "https://hh.ru/vacancy/83337104",
+        "pay": null,
+        "requirement": "Хорошее знание используемого стека разработки (нужно пройти собеседования по соответствующим секциям найма : .NET, Java, <highlighttext>Python</highlighttext>, Go, Frontend). Опыт построения решений...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший инженер (специалист по тестированию радиоэлектронной аппаратуры)",
+        "url": "https://hh.ru/vacancy/77555803",
+        "pay": null,
+        "requirement": "C, C++, C#, <highlighttext>Python</highlighttext>, JSON, JAML, XML, CMake. Redmine, Jira. Google Tests, Pytest, RobotFramework. Excel, Word. Docker, VBox, QEmu. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Python - разработчик (Middle/Senior)",
+        "url": "https://hh.ru/vacancy/89744821",
+        "pay": null,
+        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, Django (минимум 1.5 года коммерческого опыта). Опыт написания Raw SQL запросов к MySql и Clickhouse. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший инженер-программист C++",
+        "url": "https://hh.ru/vacancy/82466196",
+        "pay": null,
+        "requirement": "...Опыт работы с большими данными и высоконагруженными решениями. Понимание принципов сетевых технологий, опыт разработки сетевых приложений. Знакомство с Bash, <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Ведущий QA Automation (Программист-тестировщик)",
+        "url": "https://hh.ru/vacancy/89996943",
+        "pay": 90000,
+        "requirement": "Знание основных видов атак на (XSS, SQLi, CSRF, SSRF, DOS, etc.) и методов противодействия. Знания <highlighttext>python</highlighttext>. Умение решать задачи на...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/88404984",
+        "pay": null,
+        "requirement": "Знание одной или нескольких BI систем: QlikView, QlikSense, PowerBI. Знание sql (желательно). Навыки <highlighttext>Python</highlighttext>, опыт автоматизации. Умение работать с большими...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Администратор DBA/Системный администратор",
+        "url": "https://hh.ru/vacancy/89991982",
+        "pay": null,
+        "requirement": "Уверенные знания по системам Linux. Знание скриптов bash, <highlighttext>python</highlighttext>​​​​​​​. Практический опыт администрирования нагруженных PostgreSQL баз большого размера с высокой доступностью. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Middle/Senior С++ разработчик в Mobile SDK",
+        "url": "https://hh.ru/vacancy/89524323",
+        "pay": null,
+        "requirement": "Опыт разработки многопоточных приложений. Навыки измерения производительности и профилирования графических программ. Опыт работы с Jenkins, знание <highlighttext>Python</highlighttext>, CMake.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший системный администратор (DevOps)",
+        "url": "https://hh.ru/vacancy/87771919",
+        "pay": null,
+        "requirement": "Опыт работы с ОС Linux на уровне администратора, написание сценариев и скриптов для автоматизации административных задач (bash, <highlighttext>python</highlighttext>, go). ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Архитектор систем беспроводной связи",
+        "url": "https://hh.ru/vacancy/90165172",
+        "pay": null,
+        "requirement": "Знание языков С / C++, <highlighttext>Python</highlighttext> и сред программирования Matlab / Simulink, опыт разработки с использованием данных средства. Опыт численного моделирования систем...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер SOC - 1 и 2 линия",
+        "url": "https://hh.ru/vacancy/89731210",
+        "pay": null,
+        "requirement": "Опыт работы с IRP, ITSM. Опыт автоматизации операционных задач (<highlighttext>Python</highlighttext>, PowerShell). Владение английским языком на уровне, достаточном для чтения технической...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Преподаватель программирования для детей и подростков",
+        "url": "https://hh.ru/vacancy/90458919",
+        "pay": 20000,
+        "requirement": "Опыт работы на позиции преподавателя программирования в детском центре, школе от 1 года. Ответственность и организованность, внимание к деталям. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Главный инженер LINUX на проекты внедрения",
+        "url": "https://hh.ru/vacancy/86779294",
+        "pay": null,
+        "requirement": "Опыт разработки на одном из скриптовых языков программирования (<highlighttext>python</highlighttext>, perl, bash, javascript). Знание современных API и форматов данных. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по проектированию аналогово-цифровых печатных плат",
+        "url": "https://hh.ru/vacancy/82109764",
+        "pay": null,
+        "requirement": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования аналоговых, аналогово-цифровых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы или стажировок...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "It-рекрутер",
+        "url": "https://hh.ru/vacancy/89958361",
+        "pay": null,
+        "requirement": "Опыт работы в IT-рекрутинге от трёх лет. Опыт ведения разноплановых вакансий одновременно (от 3-х и более). ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер Linux (мейнтейнер)",
+        "url": "https://hh.ru/vacancy/90560197",
+        "pay": null,
+        "requirement": "Владение языками программирования (одним или несколькими: C/C++, <highlighttext>Python</highlighttext>, Perl, Java, Ruby). Владение скриптовыми языками программирования (минимум Bash). ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "DevOps Engineer",
+        "url": "https://hh.ru/vacancy/89955638",
+        "pay": null,
+        "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший инженер по разработке ПО (QEMU)",
+        "url": "https://hh.ru/vacancy/90681955",
+        "pay": null,
+        "requirement": "...с процессами Code Review, CI/CD. Опыт работы с функциональными симуляторами. Опыт работы с системами CI(gitlab\\jenkins). Знание <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "IT Researcher / Sourcer",
+        "url": "https://hh.ru/vacancy/89958563",
+        "pay": null,
+        "requirement": "Опыт работы на позиции IT Researcher/Sourcer от 6 месяцев. Владение методами поиска кандидатов. Понимание сферы IT (основные компании, направления...",
         "city": "Нижний Новгород"
     },
     {
@@ -1498,38 +1484,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Python - разработчик (Middle/Senior)",
-        "url": "https://hh.ru/vacancy/89744821",
+        "name": "Python Developer in OAM/NMS",
+        "url": "https://hh.ru/vacancy/90387990",
         "pay": null,
-        "requirement": "Уверенные знания <highlighttext>Python</highlighttext>, Django (минимум 1.5 года коммерческого опыта). Опыт написания Raw SQL запросов к MySql и Clickhouse. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "IT Researcher / Sourcer",
-        "url": "https://hh.ru/vacancy/89958563",
-        "pay": null,
-        "requirement": "Опыт работы на позиции IT Researcher/Sourcer от 6 месяцев. Владение методами поиска кандидатов. Понимание сферы IT (основные компании, направления...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Архитектор систем беспроводной связи",
-        "url": "https://hh.ru/vacancy/90165172",
-        "pay": null,
-        "requirement": "Знание языков С / C++, <highlighttext>Python</highlighttext> и сред программирования Matlab / Simulink, опыт разработки с использованием данных средства. Опыт численного моделирования систем...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior SRE engineer/Старший SRE инженер (Atmosphere)",
-        "url": "https://hh.ru/vacancy/89192040",
-        "pay": null,
-        "requirement": "Понимание работы SDN (OVS, OVN). Опыт администрирования СУБД. Опыт работы с CI/CD. Навык написания скриптов на <highlighttext>Python</highlighttext> или Bash.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по интеграционному тестированию систем мобильной связи",
-        "url": "https://hh.ru/vacancy/89660121",
-        "pay": null,
-        "requirement": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Умение работать с научно-технической...",
+        "requirement": "Уверенное владение <highlighttext>Python</highlighttext>, pytest. Опыт работы на Go или Angular/TS или желание развиваться в этом направлении. Знание микросервисной архитектуры. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1540,73 +1498,38 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер по проектированию аналогово-цифровых печатных плат",
-        "url": "https://hh.ru/vacancy/82109764",
+        "name": "QA Engineer (Python) / Инженер по автоматизированному тестированию (TATLIN)",
+        "url": "https://hh.ru/vacancy/89440266",
         "pay": null,
-        "requirement": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования аналоговых, аналогово-цифровых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы или стажировок...",
+        "requirement": "Знание и понимание теории тестирования. Опыт программирования/автоматизации (<highlighttext>Python</highlighttext>, Java, Go, C и др.). Опыт работы и понимание Linux. ",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Преподаватель программирования для детей и подростков",
-        "url": "https://hh.ru/vacancy/90458919",
-        "pay": 20000,
-        "requirement": "Опыт работы на позиции преподавателя программирования в детском центре, школе от 1 года. Ответственность и организованность, внимание к деталям. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "DevOps Engineer",
-        "url": "https://hh.ru/vacancy/89955638",
+        "name": "Преподаватель программирования в международную онлайн школу",
+        "url": "https://hh.ru/vacancy/89766031",
         "pay": null,
-        "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
+        "requirement": "Имеешь опыт обучения детей от 5 до 17 лет в группе или индивидуально. Знание английского и/или немецкого языков от...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Старший/ведущий разработчик C++ (Linux/ OpenBMC)",
-        "url": "https://hh.ru/vacancy/90681943",
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89643035",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по интеграционному тестированию систем мобильной связи",
+        "url": "https://hh.ru/vacancy/89660121",
         "pay": null,
-        "requirement": "Знание принципов работы systemd и d-bus. Знание <highlighttext>Python</highlighttext>. Хорошее знание C, достаточное для периодических работ с драйверами Linux и...",
+        "requirement": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Умение работать с научно-технической...",
         "city": "Нижний Новгород"
     },
     {
-        "name": "Старший специалист по информационной безопасности",
-        "url": "https://hh.ru/vacancy/90426613",
-        "pay": null,
-        "requirement": "Знание модели OSI (TCP/IP). Знание основ <highlighttext>python</highlighttext>, понимание команд sql. Умение проводить расследование инцидентов ИБ. Основы администрирования Windows ОС. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Middle Backend-разработчик (Python)",
-        "url": "https://hh.ru/vacancy/86173324",
-        "pay": 200000,
-        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Devops Engineer (Системный инженер) Senior",
-        "url": "https://hh.ru/vacancy/90520530",
-        "pay": null,
-        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior QA Engineer (Python) / Инженер по автоматизированному тестированию (Common Platform)",
-        "url": "https://hh.ru/vacancy/89832362",
-        "pay": null,
-        "requirement": "Опыт автоматизации тестирования backend микросервисов и/или клиент-серверных приложений на языке <highlighttext>Python</highlighttext> (например, с использованием pytest framework, библиотек requests...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior Release Engineer/Старший Release инженер (TATLIN.FLEX)",
-        "url": "https://hh.ru/vacancy/90458691",
-        "pay": null,
-        "requirement": "Уверенный Bash, хороший <highlighttext>Python</highlighttext>. Знание Makefile, Docker. Знание GitLab. Знание особенностей различных Linux дистрибутивов. Умение читать на Perl, C, javascript. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior / Team Lead Data scientist",
-        "url": "https://hh.ru/vacancy/90593781",
-        "pay": null,
-        "requirement": "опыт работы с Pytorch, Tensorflow или Mxnet, а также отличное владение <highlighttext>Python</highlighttext>, PySpark, SQL, Airflow. — глубокие знания и опыт работы...",
+        "name": "Преподаватель математики и информатики",
+        "url": "https://hh.ru/vacancy/89685535",
+        "pay": 30000,
+        "requirement": "От тебя: Большое желание развиваться. Опыт не так важен, но приветствуется. Знания по предмету, который хотел бы преподавать. Долгосрочное сотрудничество. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1617,6 +1540,20 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Senior Release Engineer/Старший Release инженер (TATLIN.FLEX)",
+        "url": "https://hh.ru/vacancy/90458691",
+        "pay": null,
+        "requirement": "Уверенный Bash, хороший <highlighttext>Python</highlighttext>. Знание Makefile, Docker. Знание GitLab. Знание особенностей различных Linux дистрибутивов. Умение читать на Perl, C, javascript. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "C++ developer",
+        "url": "https://hh.ru/vacancy/89773577",
+        "pay": null,
+        "requirement": "Опыт тестирования кода с помощью автотестов. Знание DPDK, SPDK, PMDK. Знание Rust/<highlighttext>Python</highlighttext>. Знание основных библиотек разработки HPC-инфраструктуры. ",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "Системный программист по верификации",
         "url": "https://hh.ru/vacancy/90157143",
         "pay": null,
@@ -1624,17 +1561,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Golang- разработчик (Senior)",
-        "url": "https://hh.ru/vacancy/89741891",
+        "name": "Senior QA Engineer (Python) / Инженер по автоматизированному тестированию (Common Platform)",
+        "url": "https://hh.ru/vacancy/89832362",
         "pay": null,
-        "requirement": "Способность самостоятельно прорабатывать задачи и выявлять недостающие требования совместно с project - менеджером. Будет плюсом знание знание <highlighttext>Python</highlighttext>, Rust, Docker, Ansible...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Разработчик моделей цифровых систем беспроводной связи",
-        "url": "https://hh.ru/vacancy/90165060",
-        "pay": null,
-        "requirement": "Опыт разработки в среде программирования Simulink. Знание языков С / C++, опыт разработки. Знание языка <highlighttext>Python</highlighttext>, опыт разработки. Знание систем контроля...",
+        "requirement": "Опыт автоматизации тестирования backend микросервисов и/или клиент-серверных приложений на языке <highlighttext>Python</highlighttext> (например, с использованием pytest framework, библиотек requests...",
         "city": "Нижний Новгород"
     },
     {
@@ -1645,31 +1575,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Python Developer in OAM/NMS",
-        "url": "https://hh.ru/vacancy/90387990",
-        "pay": null,
-        "requirement": "Уверенное владение <highlighttext>Python</highlighttext>, pytest. Опыт работы на Go или Angular/TS или желание развиваться в этом направлении. Знание микросервисной архитектуры. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по тестированию радиоэлектронной аппаратуры",
-        "url": "https://hh.ru/vacancy/90041534",
-        "pay": null,
-        "requirement": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Желательно иметь навыки работы в...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Go Developer in Telecom management system / Старший инженер-программист (Go)",
-        "url": "https://hh.ru/vacancy/90379811",
-        "pay": null,
-        "requirement": "Дополнительно приветствуем: Знание протоколов SNMP, NETCONF, SOAP, REST. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Опыт системного программирования. ",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Senior DevOps Engineer / DevOps Lead в Custom Solutions",
-        "url": "https://hh.ru/vacancy/90658638",
-        "pay": null,
-        "requirement": "Обладает релевантным опытом работы не менее 3 лет. Имеет опыт работы с Continuous Integration систем: Gitlab-Ci, Teamcity. ",
+        "name": "Middle Backend-разработчик (Python)",
+        "url": "https://hh.ru/vacancy/86173324",
+        "pay": 200000,
+        "requirement": "Хорошие знания <highlighttext>Python</highlighttext> 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1680,31 +1589,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Golang Technical leader in Telecom management system / Технический руководитель команды Go",
-        "url": "https://hh.ru/vacancy/89980959",
+        "name": "Golang- разработчик (Senior)",
+        "url": "https://hh.ru/vacancy/89741891",
         "pay": null,
-        "requirement": "Знание протоколов SNMP, NETCONF, SOAP, REST. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Опыт системного программирования. Общие знания мобильных телекоммуникационных...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Старший разработчик C++",
-        "url": "https://hh.ru/vacancy/88543137",
-        "pay": null,
-        "requirement": "Базовые знания SQL и принципов построения реляционных БД. Базовые знания сетей (стек протоколов TCP/IP, сокеты). Базовые навыки языка <highlighttext>Python</highlighttext>.",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Репетитор по информатике (удаленно)",
-        "url": "https://hh.ru/vacancy/88520597",
-        "pay": null,
-        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Scala-разработчик",
-        "url": "https://hh.ru/vacancy/90176413",
-        "pay": null,
-        "requirement": "Опыт работы с Airflow, Kafka. Уверенное владение <highlighttext>Python</highlighttext>3. Знание и понимание функциональных особенностей <highlighttext>Python</highlighttext> (lambda, functools). Опыт работы с...",
+        "requirement": "Способность самостоятельно прорабатывать задачи и выявлять недостающие требования совместно с project - менеджером. Будет плюсом знание знание <highlighttext>Python</highlighttext>, Rust, Docker, Ansible...",
         "city": "Нижний Новгород"
     },
     {
@@ -1715,6 +1603,48 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Go Developer in Telecom management system / Старший инженер-программист (Go)",
+        "url": "https://hh.ru/vacancy/90379811",
+        "pay": null,
+        "requirement": "Дополнительно приветствуем: Знание протоколов SNMP, NETCONF, SOAP, REST. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Опыт системного программирования. ",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Инженер по тестированию радиоэлектронной аппаратуры",
+        "url": "https://hh.ru/vacancy/90041534",
+        "pay": null,
+        "requirement": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Желательно иметь навыки работы в...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior / Team Lead Data scientist",
+        "url": "https://hh.ru/vacancy/90593781",
+        "pay": null,
+        "requirement": "опыт работы с Pytorch, Tensorflow или Mxnet, а также отличное владение <highlighttext>Python</highlighttext>, PySpark, SQL, Airflow. — глубокие знания и опыт работы...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior SRE engineer/Старший SRE инженер (Atmosphere)",
+        "url": "https://hh.ru/vacancy/89192040",
+        "pay": null,
+        "requirement": "Понимание работы SDN (OVS, OVN). Опыт администрирования СУБД. Опыт работы с CI/CD. Навык написания скриптов на <highlighttext>Python</highlighttext> или Bash.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Разработчик моделей цифровых систем беспроводной связи",
+        "url": "https://hh.ru/vacancy/90165060",
+        "pay": null,
+        "requirement": "Опыт разработки в среде программирования Simulink. Знание языков С / C++, опыт разработки. Знание языка <highlighttext>Python</highlighttext>, опыт разработки. Знание систем контроля...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior Python Developer (Удалённо)",
+        "url": "https://hh.ru/vacancy/88883140",
+        "pay": 300000,
+        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 5ти лет после окончания технического ВУЗа. Знание <highlighttext>Python</highlighttext> 3.10+. ",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "Специалист по количественным исследованиям (middle+/senior)",
         "url": "https://hh.ru/vacancy/86558453",
         "pay": null,
@@ -1722,10 +1652,38 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
-        "url": "https://hh.ru/vacancy/89647018",
-        "pay": 30000,
-        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "name": "Старший/ведущий разработчик C++ (Linux/ OpenBMC)",
+        "url": "https://hh.ru/vacancy/90681943",
+        "pay": null,
+        "requirement": "Знание принципов работы systemd и d-bus. Знание <highlighttext>Python</highlighttext>. Хорошее знание C, достаточное для периодических работ с драйверами Linux и...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Algorithms and Modelling Technical Leader for GSM",
+        "url": "https://hh.ru/vacancy/84056569",
+        "pay": null,
+        "requirement": "Knowledge of GSM protocol. Experiences on programming in <highlighttext>Python</highlighttext>/Matlab and modeling wireless communications systems. 3+ years of background...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Golang Technical leader in Telecom management system / Технический руководитель команды Go",
+        "url": "https://hh.ru/vacancy/89980959",
+        "pay": null,
+        "requirement": "Знание протоколов SNMP, NETCONF, SOAP, REST. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Опыт системного программирования. Общие знания мобильных телекоммуникационных...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Devops Engineer (Системный инженер) Senior",
+        "url": "https://hh.ru/vacancy/90520530",
+        "pay": null,
+        "requirement": "...Go на уровне понимания, что данный код делает. Опыт работы в роли лидера и опыт управления командой. Bash, <highlighttext>python</highlighttext>, etc.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Scala-разработчик",
+        "url": "https://hh.ru/vacancy/90176413",
+        "pay": null,
+        "requirement": "Опыт работы с Airflow, Kafka. Уверенное владение <highlighttext>Python</highlighttext>3. Знание и понимание функциональных особенностей <highlighttext>Python</highlighttext> (lambda, functools). Опыт работы с...",
         "city": "Нижний Новгород"
     },
     {
@@ -1743,10 +1701,31 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Senior Python Developer (Удалённо)",
-        "url": "https://hh.ru/vacancy/88883140",
-        "pay": 300000,
-        "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 5ти лет после окончания технического ВУЗа. Знание <highlighttext>Python</highlighttext> 3.10+. ",
+        "name": "Репетитор по информатике (удаленно)",
+        "url": "https://hh.ru/vacancy/88520597",
+        "pay": null,
+        "requirement": "Знание нескольких языков программирования на школьном уровне (Pascal, <highlighttext>Python</highlighttext>, C++). Опыт преподавания или репетиторства от 6 месяцев. Опыт подготовки к...",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Специалист технической поддержки (удаленно, чаты, почта)",
+        "url": "https://hh.ru/vacancy/89647018",
+        "pay": 30000,
+        "requirement": "Можно прийти без опыта. Грамотно пишете на русском языке. Умеете находить подход к людям.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Старший разработчик C++",
+        "url": "https://hh.ru/vacancy/88543137",
+        "pay": null,
+        "requirement": "Базовые знания SQL и принципов построения реляционных БД. Базовые знания сетей (стек протоколов TCP/IP, сокеты). Базовые навыки языка <highlighttext>Python</highlighttext>.",
+        "city": "Нижний Новгород"
+    },
+    {
+        "name": "Senior DevOps Engineer / DevOps Lead в Custom Solutions",
+        "url": "https://hh.ru/vacancy/90658638",
+        "pay": null,
+        "requirement": "Обладает релевантным опытом работы не менее 3 лет. Имеет опыт работы с Continuous Integration систем: Gitlab-Ci, Teamcity. ",
         "city": "Нижний Новгород"
     },
     {
@@ -1757,24 +1736,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Инженер по проектированию СВЧ усилителей мощности",
-        "url": "https://hh.ru/vacancy/86866616",
+        "name": "Software Architect (SWA)",
+        "url": "https://hh.ru/vacancy/90048883",
         "pay": null,
-        "requirement": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования цифровых и аналоговых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы или стажировок...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Algorithms and Modelling Technical Leader for GSM",
-        "url": "https://hh.ru/vacancy/84056569",
-        "pay": null,
-        "requirement": "Knowledge of GSM protocol. Experiences on programming in <highlighttext>Python</highlighttext>/Matlab and modeling wireless communications systems. 3+ years of background...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Эксперт по эксплуатации системы Directum",
-        "url": "https://hh.ru/vacancy/88509957",
-        "pay": null,
-        "requirement": "...внутренней структуры и объектов СЭД «Directum». Приветствуется знание основ построения бизнес-процессов предприятий. Умение читать и писать код на <highlighttext>Python</highlighttext>.",
+        "requirement": "Rich experience on programming in <highlighttext>Python</highlighttext>/Matlab/C/C++ and/or modelling wireless communications systems. Strong background in SW architecture...",
         "city": "Нижний Новгород"
     },
     {
@@ -1785,24 +1750,10 @@
         "city": "Нижний Новгород"
     },
     {
-        "name": "Senior software engineer Go / Старший инженер-программист Go (TATLIN.UNIFIED)",
-        "url": "https://hh.ru/vacancy/88404303",
+        "name": "Эксперт по эксплуатации системы Directum",
+        "url": "https://hh.ru/vacancy/88509957",
         "pay": null,
-        "requirement": "Мы разрабатываем на Go, но для нас нет так важны глубокие знания этого языка, намного важнее базовая подготовка по инженерным...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Software Architect (SWA)",
-        "url": "https://hh.ru/vacancy/90048883",
-        "pay": null,
-        "requirement": "Rich experience on programming in <highlighttext>Python</highlighttext>/Matlab/C/C++ and/or modelling wireless communications systems. Strong background in SW architecture...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Team Lead Golang / Руководитель группы разработки на Go (TATLIN.UNIFIED)",
-        "url": "https://hh.ru/vacancy/88628043",
-        "pay": null,
-        "requirement": "Опыт разработки высоконагруженных систем на одном из языков: Go, Java, C/C++, C#, <highlighttext>Python</highlighttext> (опыт разработки на Go не является...",
+        "requirement": "...внутренней структуры и объектов СЭД «Directum». Приветствуется знание основ построения бизнес-процессов предприятий. Умение читать и писать код на <highlighttext>Python</highlighttext>.",
         "city": "Нижний Новгород"
     },
     {
@@ -1813,6 +1764,13 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Team Lead Golang / Руководитель группы разработки на Go (TATLIN.UNIFIED)",
+        "url": "https://hh.ru/vacancy/88628043",
+        "pay": null,
+        "requirement": "Опыт разработки высоконагруженных систем на одном из языков: Go, Java, C/C++, C#, <highlighttext>Python</highlighttext> (опыт разработки на Go не является...",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "Senior QAA Python в 2GIS.PRO",
         "url": "https://hh.ru/vacancy/86540565",
         "pay": null,
@@ -1820,17 +1778,17 @@
         "city": "Нижний Новгород"
     },
     {
+        "name": "Senior software engineer Go / Старший инженер-программист Go (TATLIN.UNIFIED)",
+        "url": "https://hh.ru/vacancy/88404303",
+        "pay": null,
+        "requirement": "Мы разрабатываем на Go, но для нас нет так важны глубокие знания этого языка, намного важнее базовая подготовка по инженерным...",
+        "city": "Нижний Новгород"
+    },
+    {
         "name": "DevOps Engineer",
         "url": "https://hh.ru/vacancy/90386950",
         "pay": null,
         "requirement": "Понимание принципов работы сетевых протоколов. Опыт написания автоматизаций на Bash, <highlighttext>Python</highlighttext>/Go/Java. Опыт взаимодействия с другими командами разработки, локализации...",
-        "city": "Нижний Новгород"
-    },
-    {
-        "name": "Инженер по проектированию СВЧ и аналоговых печатных плат",
-        "url": "https://hh.ru/vacancy/86866675",
-        "pay": null,
-        "requirement": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования цифровых и аналоговых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы или стажировок...",
         "city": "Нижний Новгород"
     },
     {
